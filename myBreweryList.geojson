@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.1457558,
+        	39.9484457
         ]
       },
       "properties": {
@@ -33,8 +33,8 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "2nd Story Brewing",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "117 Chestnut St, Philadelphia, PA 19106",
+        "url": "2ndstorybrewing.com"
       }
     },
     {
@@ -240,17 +240,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.1830341,
+        	39.9744622
         ]
       },
       "properties": {
         "marker-symbol": "beer-15",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Crime and Punishment",
-        "address": "Philadelphia, PA",
-        "url": null
+        "name": "Crime & Punishment Brewing Co.",
+        "address": "2711 W Girard Ave, Philadelphia, PA 19130",
+        "url": "crimeandpunishmentbrewingco.com"
       }
     },
     {
@@ -276,8 +276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.2249872,
+        	39.9477547
         ]
       },
       "properties": {
@@ -285,8 +285,8 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Dock Street Brewing",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "701 S 50th St, Philadelphia, PA 19143",
+        "url": "dockstreetbeer.com"
       }
     },
     {
@@ -330,8 +330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.1926618,
+        	40.0591602
         ]
       },
       "properties": {
@@ -339,8 +339,8 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Earth Bread + Brewery",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "7136 Germantown Ave, Philadelphia, PA 19119",
+        "url": "earthbreadbrewery.com"
       }
     },
     {
@@ -528,8 +528,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.2211058,
+        	40.0224095
         ]
       },
       "properties": {
@@ -537,8 +537,8 @@
         "marker-color": "#0047AB",
         "marker-size": "large",
         "name": "Manayunk Brewery",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "4120 Main St, Philadelphia, PA 19127",
+        "url": "https://www.manayunkbrewery.com"
       }
     },
     {
@@ -618,17 +618,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.129355,
+        	39.9826881
         ]
       },
       "properties": {
         "marker-symbol": "beer-15",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Philadelphia Brewing",
-        "address": "Philadelphia, PA",
-        "url": null
+        "name": "Philadelphia Brewing Co",
+        "address": "2439 Amber St, Philadelphia, PA 19125",
+        "url": "philadelphiabrewing.com"
       }
     },
     {
@@ -690,8 +690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.145795,
+        	39.9773031
         ]
       },
       "properties": {
@@ -699,8 +699,8 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Saint Benjamin Brewing",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "1710 N 5th St, Philadelphia, PA 19122",
+        "url": "stbenjaminbrewing.com"
       }
     },
     {
@@ -1014,8 +1014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.1380728,
+        	39.9623445
         ]
       },
       "properties": {
@@ -1023,8 +1023,8 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Yards Brewing Company",
-        "address": "Philadelphia, PA",
-        "url": null
+        "address": "901 N Delaware Ave, Philadelphia, PA 19123",
+        "url": "yardsbrewing.com"
       }
     },
     {
