@@ -52,7 +52,7 @@
         "marker-size": "large",
         "name": "Appalachian Brewing Co.",
         "address": "50 W 3rd Ave, Collegeville, PA 19426",
-        "url": abcbrew.com
+        "url": "abcbrew.com"
       }
     },
     {
@@ -942,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        	-75.203371,
-        	40.07231
+        	-75.6960287,
+        	40.004634
         ]
       },
       "properties": {
@@ -951,8 +951,44 @@
         "marker-color": "#0047AB",
         "marker-size": "large",
         "name": "Victory Brewing Co.",
-        "address": "Downingtown, PA",
-        "url": null
+        "address": "420 Acorn Ln, Downingtown, PA 19335",
+        "url": "victorybeer.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.7220767,
+        	39.8442462
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Victory Brew Pub",
+        "address": "650 W Cypress St, Kennett Square, PA 19348",
+        "url": "victorybeer.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.9385564,
+        	39.9537877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Victory Brew Pub",
+        "address": "3127 Lower Valley Rd, Parkesburg, PA 19365",
+        "url": "victorybeer.com"
       }
     },
     {
