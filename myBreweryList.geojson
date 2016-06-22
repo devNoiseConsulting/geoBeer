@@ -1,0 +1,1049 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2SP Brewing",
+        "address": "Ashton, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Story Brewing",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Appalachian Brewing Co.",
+        "address": "Collegeville, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Argilla Brewing At Pietro's Pizza",
+        "address": "Newark, DE",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Armstrong Ales",
+        "address": "Pottstown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bar Hygge",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barren Hill Brewing",
+        "address": "Lafayette, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Boxcar Brewing",
+        "address": "West Chester, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Broken Goblet Brewing",
+        "address": "Bristol, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bucks Co. Brewing",
+        "address": "Pipersville, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Cape May Brewing Company",
+        "address": "Cape May, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Chatty Monks Brewing",
+        "address": "Reading, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Conshohocken Brewing",
+        "address": "Conshohocken, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crime and Punishment",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crooked Eye Brewery",
+        "address": "Hatboro, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dock Street Brewing",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dogfish Head Brewing",
+        "address": "Milton, DE",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Doylestown Brewing Co.",
+        "address": "Doylestown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Earth Bread + Brewery",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Flying Fish Brewing",
+        "address": "Somerdale, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fordham & Dominion Brewing Co.",
+        "address": "Dover, DE",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Forest & Main Brewery & Pub",
+        "address": "Ambler, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Forgotten Boardwalk Brewing",
+        "address": "Cherry Hill, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Free Will Brewing Co.",
+        "address": "Perkasie, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Brewing",
+        "address": "Maple Hill, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Kennett Brewing Company",
+        "address": "Kennett Square, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lancaster Brewing Company",
+        "address": "Lancaster, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Levante Brewing",
+        "address": "West Chester, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lunacy Brewing",
+        "address": "Magnolia, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Manayunk Brewery",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "McCoole’s Red Lion Brewery",
+        "address": "Quakertown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "McKenzie Brewhouse",
+        "address": "Berwyn, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Naked Brewing",
+        "address": "Huntingdon Valley, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Neshaminy Creek Brewing",
+        "address": "Croydon, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Philadelphia Brewing",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Prism Brewing Company",
+        "address": "North Wales, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "River Horse Brewing",
+        "address": "Ewing Township, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Round Guys Brewing Company",
+        "address": "Lansdale, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saint Benjamin Brewing",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saucony Creek Brewing",
+        "address": "Kutztown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Sly Fox Brewing",
+        "address": "Phoenixville, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spellbound Brewing",
+        "address": "Mount Holly, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Stable 12 Brewing",
+        "address": "Phoenixville, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sterling Pig Brewing",
+        "address": "Media, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Stickman Brews",
+        "address": "Royersford, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Stoudt's Brewery",
+        "address": "Adamstown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Other Farm Brewing",
+        "address": "Boyertown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Tired Hands Brewing",
+        "address": "Ardmore, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tower Hill Brewery",
+        "address": "Chalfront, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Triumph Brewing Co.",
+        "address": "New Hope, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Troegs Brewing",
+        "address": "Hershey, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Twin Lakes Brewing Co.",
+        "address": "Newport, DE",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Vault Brewing",
+        "address": "Yardley, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Victory Brewing Co.",
+        "address": "Downingtown, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Village Idiot Brewing",
+        "address": "Mount Holly, NJ",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Weyerbacher Brewing Co.",
+        "address": "Easton, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Yards Brewing Company",
+        "address": "Philadelphia, PA",
+        "url": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-75.203371,
+        	40.07231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer-15",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Yuengling Brewing Co.",
+        "address": "Pottsville, PA",
+        "url": null
+      }
+    }
+  ]
+}
