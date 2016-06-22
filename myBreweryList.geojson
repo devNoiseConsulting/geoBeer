@@ -960,6 +960,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+        	-73.144454,
+        	41.1860504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Two Roads Brewing Co.",
+        "address": "1700 Stratford Ave, Stratford, CT 06615",
+        "url": "http://tworoadsbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
         	-74.8407001,
         	40.2423451
         ]
