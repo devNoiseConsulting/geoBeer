@@ -780,6 +780,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+        	-104.9072989,
+        	39.771397
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Station 26 Brewing Co",
+        "address": "7045 East 38th Ave, Denver, Colorado 80207",
+        "url": "http://www.station26brewing.co/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
         	-75.4001648,
         	39.9181908
         ]
@@ -1079,6 +1097,24 @@
         "name": "Weyerbacher Brewing Co.",
         "address": "905 Line St, Easton, PA 18042",
         "url": "http://weyerbacher.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        	-105.0007226,
+        	39.7533834
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Wynkoop Brewing Company",
+        "address": "1634 18th St. Denver, Colorado, 80202",
+        "url": "http://www.wynkoop.com/"
       }
     },
     {
