@@ -282,8 +282,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
         "url": "http://dogfish.com"
