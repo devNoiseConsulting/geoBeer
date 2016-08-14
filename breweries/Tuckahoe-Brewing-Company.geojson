@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6191884,
+          39.4202674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Tuckahoe Brewing Company",
+        "address": "3092 English Creek Ave, Egg Harbor Township, NJ 08234",
+        "url": "http://tuckahoebrewing.com"
+      }
+    }
+  ]
+}

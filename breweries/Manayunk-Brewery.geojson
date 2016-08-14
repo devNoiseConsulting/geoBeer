@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2211058,
+          40.0224095
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Manayunk Brewery",
+        "address": "4120 Main St, Philadelphia, PA 19127",
+        "url": "https://www.manayunkbrewery.com"
+      }
+    }
+  ]
+}

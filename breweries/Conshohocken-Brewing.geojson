@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2946951,
+          40.0736983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Conshohocken Brewing",
+        "address": "Suite B, 739 E Elm St, Conshohocken, PA 19428",
+        "url": "http://conshohockenbrewing.com"
+      }
+    }
+  ]
+}

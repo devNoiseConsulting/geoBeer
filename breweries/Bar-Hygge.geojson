@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.168475,
+          39.967052
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bar Hygge",
+        "address": "1720 Fairmount Ave, Philadelphia, PA 19130",
+        "url": "http://barhygge.com"
+      }
+    }
+  ]
+}

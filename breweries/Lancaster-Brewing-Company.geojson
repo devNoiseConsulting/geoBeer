@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3006524,
+          40.043724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lancaster Brewing Company",
+        "address": "302 N Plum St, Lancaster, PA 17602",
+        "url": "http://lancasterbrewing.com"
+      }
+    }
+  ]
+}

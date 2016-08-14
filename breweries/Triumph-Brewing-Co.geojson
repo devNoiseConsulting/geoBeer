@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9560877,
+          40.3653003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Triumph Brewing Co.",
+        "address": "400 Union Square Dr, New Hope, PA 18938",
+        "url": "http://triumphbrewing.com"
+      }
+    }
+  ]
+}

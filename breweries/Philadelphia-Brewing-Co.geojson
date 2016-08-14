@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.129355,
+          39.9826881
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Philadelphia Brewing Co",
+        "address": "2439 Amber St, Philadelphia, PA 19125",
+        "url": "http://philadelphiabrewing.com"
+      }
+    }
+  ]
+}

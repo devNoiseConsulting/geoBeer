@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3547469,
+          40.4424577
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "McCoole’s Red Lion Brewery",
+        "address": "4 S Main St, Quakertown, PA 18951",
+        "url": "http://mccoolesredlioninn.com"
+      }
+    }
+  ]
+}

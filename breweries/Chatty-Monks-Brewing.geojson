@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9523782,
+          40.3356057
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Chatty Monks Brewing",
+        "address": "610 Penn Ave, West Reading, PA 19611",
+        "url": "http://chattymonks.com"
+      }
+    }
+  ]
+}

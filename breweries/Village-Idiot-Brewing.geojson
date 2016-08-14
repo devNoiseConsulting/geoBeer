@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.790307,
+          39.994136
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Village Idiot Brewing",
+        "address": " 42 High St, Mt Holly, NJ 08060 ",
+        "url": "http://villageidiotbrewing.com"
+      }
+    }
+  ]
+}

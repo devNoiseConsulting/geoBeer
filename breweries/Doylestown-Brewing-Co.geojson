@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.131284,
+          40.310397
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Doylestown Brewing Co.",
+        "address": "52 E State St, Doylestown, PA 18901 ",
+        "url": "http://doylestownbrewingcompany.com"
+      }
+    }
+  ]
+}

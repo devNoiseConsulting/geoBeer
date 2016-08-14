@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.971364,
+          39.9123524
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Forgotten Boardwalk Brewing",
+        "address": "1940 Olney Ave #100, Cherry Hill, NJ 08003",
+        "url": "http://forgottenboardwalk.com"
+      }
+    }
+  ]
+}

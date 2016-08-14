@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2524818,
+          40.0842282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barren Hill Brewing",
+        "address": "646 Germantown Pike, Lafayette Hill, PA 19444",
+        "url": "http://barrenhilltavern.com"
+      }
+    }
+  ]
+}

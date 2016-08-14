@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1830341,
+          39.9744622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crime & Punishment Brewing Co.",
+        "address": "2711 W Girard Ave, Philadelphia, PA 19130",
+        "url": "http://crimeandpunishmentbrewingco.com"
+      }
+    }
+  ]
+}

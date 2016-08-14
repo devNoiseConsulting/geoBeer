@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6039785,
+          39.9607048
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Boxcar Brewpub",
+        "address": "142 E Market St, West Chester, PA 19382",
+        "url": "http://boxcarbrewingcompany.com"
+      }
+    }
+  ]
+}

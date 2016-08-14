@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5230098,
+          40.1327964
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Stable 12 Brewing Company",
+        "address": "368 Bridge St, Phoenixville, PA 19460",
+        "url": "http://stable12.com"
+      }
+    }
+  ]
+}

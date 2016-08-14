@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2249872,
+          39.9477547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dock Street Brewing",
+        "address": "701 S 50th St, Philadelphia, PA 19143",
+        "url": "http://dockstreetbeer.com"
+      }
+    }
+  ]
+}

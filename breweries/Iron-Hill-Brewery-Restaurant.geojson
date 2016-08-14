@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.975331,
+          39.946822
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Brewery & Restaurant",
+        "address": "124 E Kings Hwy, Maple Shade Township, NJ 08052",
+        "url": "http://ironhillbrewery.com"
+      }
+    }
+  ]
+}

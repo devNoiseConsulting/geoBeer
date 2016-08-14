@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0290621,
+          40.1474164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Naked Brewing Company",
+        "address": "51 Buck Rd, Huntingdon Valley, PA 19006",
+        "url": "http://nakedbrewingcompany.com"
+      }
+    }
+  ]
+}

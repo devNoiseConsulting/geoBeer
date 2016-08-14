@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9030604,
+          40.1078198
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Broken Goblet Brewing",
+        "address": "1500 Grundy Ln, Bristol, PA 19007",
+        "url": "http://brokengoblet.com"
+      }
+    }
+  ]
+}

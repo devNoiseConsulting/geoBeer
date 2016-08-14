@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7989032,
+          40.5013984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saucony Creek Craft Brewery + Gastropub",
+        "address": "15032 Kutztown Rd, Kutztown, PA 19530",
+        "url": "http://sauconybeer.com"
+      }
+    }
+  ]
+}

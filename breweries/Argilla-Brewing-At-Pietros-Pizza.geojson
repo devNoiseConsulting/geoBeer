@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686581,
+          39.7082841
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Argilla Brewing At Pietro's Pizza",
+        "address": "2667 Kirkwood Hwy, Newark, DE 19711",
+        "url": "http://argillabrewing.com"
+      }
+    }
+  ]
+}

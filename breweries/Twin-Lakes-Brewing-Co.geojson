@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5966394,
+          39.7143528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Twin Lakes Brewing Co.",
+        "address": "405 E Marsh Ln #7, Newport, DE 19804",
+        "url": "http://twinlakesbrewingcompany.com/"
+      }
+    }
+  ]
+}

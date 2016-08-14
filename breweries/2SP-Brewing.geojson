@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4057842,
+          39.8557514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2SP Brewing",
+        "address": "120 Concord Rd #101-103, Aston, PA 19014",
+        "url": "http://2spbrewing.com"
+      }
+    }
+  ]
+}

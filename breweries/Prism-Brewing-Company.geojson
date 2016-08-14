@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2817159,
+          40.2202893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Prism Brewing Company",
+        "address": "810 Dickerson Rd, North Wales, PA 19454",
+        "url": "http://prismbeer.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.156506,
+          40.397154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bucks County Brewery",
+        "address": "Appletree Ln, Pipersville, PA 18947",
+        "url": "http://buckscountybrewery.com"
+      }
+    }
+  ]
+}

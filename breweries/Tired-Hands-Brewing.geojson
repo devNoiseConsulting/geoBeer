@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2948256,
+          40.008601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Tired Hands Brewing",
+        "address": "16 Ardmore Ave, Ardmore, PA 19003",
+        "url": "http://tiredhands.com"
+      }
+    }
+  ]
+}

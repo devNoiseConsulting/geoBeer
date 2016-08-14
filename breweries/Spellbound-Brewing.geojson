@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8027918,
+          39.9916636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spellbound Brewing",
+        "address": "10 Lippincott Ln #12, Mt Holly, NJ 08060",
+        "url": "http://spellboundbrewing.com"
+      }
+    }
+  ]
+}

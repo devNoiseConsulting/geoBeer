@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7987841,
+          40.2766097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "River Horse Brewing Company",
+        "address": "2 Graphics Dr, Ewing Township, NJ 08628",
+        "url": "http://riverhorse.com"
+      }
+    }
+  ]
+}

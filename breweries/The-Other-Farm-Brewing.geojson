@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6377585,
+          40.3319055
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Other Farm Brewing",
+        "address": "128 E Philadelphia Ave, Boyertown, PA 19512",
+        "url": "http://theotherfarmbrewingcompany.com"
+      }
+    }
+  ]
+}

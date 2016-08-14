@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8407001,
+          40.2423451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Vault Brewing",
+        "address": "10 S Main St, Yardley, PA 19067",
+        "url": "http://vaultbrewing.com"
+      }
+    }
+  ]
+}

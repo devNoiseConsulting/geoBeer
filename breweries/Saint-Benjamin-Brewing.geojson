@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.145795,
+          39.9773031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saint Benjamin Brewing",
+        "address": "1710 N 5th St, Philadelphia, PA 19122",
+        "url": "http://stbenjaminbrewing.com"
+      }
+    }
+  ]
+}

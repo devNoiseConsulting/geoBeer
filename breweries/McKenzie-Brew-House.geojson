@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4466094,
+          40.0697584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "McKenzie Brew House (Berwyn)",
+        "address": "324 Swedesford Rd, Berwyn, PA 19312",
+        "url": "http://mckenziebrewhouse.com"
+      }
+    }
+  ]
+}

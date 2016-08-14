@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1457558,
+          39.9484457
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Story Brewing",
+        "address": "117 Chestnut St, Philadelphia, PA 19106",
+        "url": "http://2ndstorybrewing.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4546444,
+          40.1855321
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Appalachian Brewing Co.",
+        "address": "50 W 3rd Ave, Collegeville, PA 19426",
+        "url": "http://abcbrew.com"
+      }
+    }
+  ]
+}

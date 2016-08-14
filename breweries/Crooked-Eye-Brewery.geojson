@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.107116,
+          40.179341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crooked Eye Brewery",
+        "address": "13 E Montgomery Ave #2, Hatboro, PA 19040",
+        "url": "http://crookedeyebrewery.com"
+      }
+    }
+  ]
+}

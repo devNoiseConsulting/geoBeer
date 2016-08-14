@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5497286,
+          40.1309106
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Sly Fox Brewhouse & Eatery",
+        "address": "520 Kimberton Rd, Phoenixville, PA 19460",
+        "url": "http://slyfoxbeer.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2901928,
+          40.3652063
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Free Will Brewing Co.",
+        "address": "410 E Walnut St, Perkasie, PA 18944",
+        "url": "http://freewillbrewing.com"
+      }
+    }
+  ]
+}
