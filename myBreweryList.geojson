@@ -6,24 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.4057842,
-          39.8557514
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "2SP Brewing",
-        "address": "120 Concord Rd #101-103, Aston, PA 19014",
-        "url": "http://2spbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.1457558,
           39.9484457
         ]
@@ -35,6 +17,24 @@
         "name": "2nd Story Brewing",
         "address": "117 Chestnut St, Philadelphia, PA 19106",
         "url": "http://2ndstorybrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4057842,
+          39.8557514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2SP Brewing",
+        "address": "120 Concord Rd #101-103, Aston, PA 19014",
+        "url": "http://2spbrewing.com"
       }
     },
     {
@@ -572,7 +572,7 @@
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
         "marker-size": "large",
-        "name": "McKenzie Brew House",
+        "name": "McKenzie Brew House (Berwyn)",
         "address": "324 Swedesford Rd, Berwyn, PA 19312",
         "url": "http://mckenziebrewhouse.com"
       }
@@ -906,24 +906,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.9560877,
-          40.3653003
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Triumph Brewing Co.",
-        "address": "400 Union Square Dr, New Hope, PA 18938",
-        "url": "http://triumphbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.6449484,
           40.2973443
         ]
@@ -942,14 +924,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.9560877,
+          40.3653003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Triumph Brewing Co.",
+        "address": "400 Union Square Dr, New Hope, PA 18938",
+        "url": "http://triumphbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.6191884,
           39.4202674
         ]
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Tuckahoe Brewing Company",
         "address": "3092 English Creek Ave, Egg Harbor Township, NJ 08234",
         "url": "http://tuckahoebrewing.com"
