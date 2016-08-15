@@ -438,6 +438,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-75.0719550",
+          "39.3725980"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Glasstown Brewing Company",
+        "address": "10 Peterson Street, Millville, NJ 08332",
+        "url": "http://www.glasstownbrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.975331,
           39.946822
         ]
@@ -449,6 +467,24 @@
         "name": "Iron Hill Brewery & Restaurant",
         "address": "124 E Kings Hwy, Maple Shade Township, NJ 08052",
         "url": "http://ironhillbrewery.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-75.1290390",
+          "39.7302590"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Kelly Green Brewing",
+        "address": "154 S. Broadway Ave, Pitman NJ, 08071",
+        "url": "http://kellygreenbrewing.com/"
       }
     },
     {
@@ -636,6 +672,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-74.3436290",
+          "39.6161770"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Pinelands Brewing Company",
+        "address": "140 South 7th Avenue, Little Egg Harbor, NJ 08087",
+        "url": "http://www.pinelandsbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2817159,
           40.2202893
         ]
@@ -719,6 +773,24 @@
         "name": "Saucony Creek Craft Brewery + Gastropub",
         "address": "15032 Kutztown Rd, Kutztown, PA 19530",
         "url": "http://sauconybeer.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.2364010",
+          "39.5695550"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ship Bottom Brewery",
+        "address": "830 North Bay Avenue Store 23, Beach Haven, NJ 08008",
+        "url": "http://shipbottombrewery.com/"
       }
     },
     {
@@ -870,6 +942,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-74.8113980",
+          "39.6386110"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Three 3's Brewing Company",
+        "address": "50 13th St, Hammonton, NJ 08037",
+        "url": "https://twitter.com/three3sbrew"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2948256,
           40.008601
         ]
@@ -881,6 +971,24 @@
         "name": "Tired Hands Brewing",
         "address": "16 Ardmore Ave, Ardmore, PA 19003",
         "url": "http://tiredhands.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.8116110",
+          "39.6379920"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tomfoolery Brewing Company",
+        "address": "334 N. Washington Street, Unit 24B, Hammonton, NJ",
+        "url": "http://tomfoolerybrewing.com/"
       }
     },
     {
@@ -953,6 +1061,24 @@
         "name": "Tuckahoe Brewing Company",
         "address": "3092 English Creek Ave, Egg Harbor Township, NJ 08234",
         "url": "http://tuckahoebrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.4388080",
+          "39.3620630"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tun Tavern",
+        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
+        "url": "http://www.tuntavern.com/"
       }
     },
     {
