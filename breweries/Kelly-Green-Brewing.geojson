@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-75.1290390",
+          "39.7302590"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Kelly Green Brewing",
+        "address": "154 S. Broadway Ave, Pitman NJ, 08071",
+        "url": "http://kellygreenbrewing.com/"
+      }
+    }
+  ]
+}

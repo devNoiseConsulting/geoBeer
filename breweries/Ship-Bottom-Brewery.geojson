@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.2364010",
+          "39.5695550"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ship Bottom Brewery",
+        "address": "830 North Bay Avenue Store 23, Beach Haven, NJ 08008",
+        "url": "http://shipbottombrewery.com/"
+      }
+    }
+  ]
+}

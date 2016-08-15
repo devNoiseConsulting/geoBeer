@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.8113980",
+          "39.6386110"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Three 3's Brewing Company",
+        "address": "50 13th St, Hammonton, NJ 08037",
+        "url": "https://twitter.com/three3sbrew"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.8116110",
+          "39.6379920"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tomfoolery Brewing Company",
+        "address": "334 N. Washington Street, Unit 24B, Hammonton, NJ",
+        "url": "http://tomfoolerybrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.3436290",
+          "39.6161770"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Pinelands Brewing Company",
+        "address": "140 South 7th Avenue, Little Egg Harbor, NJ 08087",
+        "url": "http://www.pinelandsbrewing.com/"
+      }
+    }
+  ]
+}
