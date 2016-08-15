@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.2830040",
+          "40.6597250"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Climax Brewing Co Inc",
+        "address": "112 Valley Rd, Roselle Park, NJ 07204-1402",
+        "url": "http://www.climaxbrewing.com/"
+      }
+    }
+  ]
+}

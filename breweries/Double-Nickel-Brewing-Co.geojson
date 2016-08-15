@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-75.0205630",
+          "39.9846750"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Double Nickel Brewing Co.",
+        "address": "1585 RT-73, Pennsauken, NJ 08110",
+        "url": "http://www.doublenickelbrewingcompany.com/"
+      }
+    }
+  ]
+}

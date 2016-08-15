@@ -204,6 +204,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-74.2830040",
+          "40.6597250"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Climax Brewing Co Inc",
+        "address": "112 Valley Rd, Roselle Park, NJ 07204-1402",
+        "url": "http://www.climaxbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2946951,
           40.0736983
         ]
@@ -215,6 +233,24 @@
         "name": "Conshohocken Brewing",
         "address": "Suite B, 739 E Elm St, Conshohocken, PA 19428",
         "url": "http://conshohockenbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.2963100",
+          "40.8726140"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cricket Hill Brewing Co.",
+        "address": "24 Kulick Rd, Fairfield, NJ 07004",
+        "url": "http://www.crickethillbrewery.com/"
       }
     },
     {
@@ -287,6 +323,24 @@
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
         "url": "http://dogfish.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-75.0205630",
+          "39.9846750"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Double Nickel Brewing Co.",
+        "address": "1585 RT-73, Pennsauken, NJ 08110",
+        "url": "http://www.doublenickelbrewingcompany.com/"
       }
     },
     {
@@ -539,6 +593,24 @@
         "name": "Levante Brewing",
         "address": "208 Carter Dr Suite 2, West Chester, PA 19382",
         "url": "http://levantebrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.7443290",
+          "39.1930680"
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ludlam Island Brewery",
+        "address": "9 Stoney Court, Unit 3, Ocean View, NJ 08230",
+        "url": "http://ludlamisland.com/"
       }
     },
     {
