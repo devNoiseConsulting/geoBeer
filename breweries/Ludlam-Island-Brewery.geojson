@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Ludlam Island Brewery",
         "address": "9 Stoney Court, Unit 3, Ocean View, NJ 08230",
         "url": "http://ludlamisland.com/"
