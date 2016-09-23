@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Tun Tavern",
         "address": "2 Convention Blvd, Atlantic City, NJ 08401",
         "url": "http://www.tuntavern.com/"

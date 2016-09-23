@@ -18,6 +18,24 @@
         "address": "Suite B, 739 E Elm St, Conshohocken, PA 19428",
         "url": "http://conshohockenbrewing.com"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3441600,
+          40.1116240
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Conshohocken Brewing",
+        "address": "3 DeKalb St. Bridgeport, PA 19405",
+        "url": "http://conshohockenbrewing.com"
+      }
     }
   ]
 }

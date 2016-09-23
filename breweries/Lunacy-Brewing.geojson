@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Lunacy Brewing",
         "address": "214 Davis Rd, Magnolia, NJ 08049",
         "url": "http://lunacybrewingcompany.com"
