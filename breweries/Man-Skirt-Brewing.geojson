@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.829927,
+          40.853767
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Man Skirt Brewing",
+        "address": "144 Main St, Hackettstown, NJ 07840",
+        "url": "http://www.manskirtbrewing.com/"
       }
     }
   ]

@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.263408,
+          39.98881
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Rinn Duin Brewing",
+        "address": "1540 RT-37 W, Unit B-5, Toms River, NJ 08755",
+        "url": "http://rinnduinbrewing.com/"
       }
     }
   ]

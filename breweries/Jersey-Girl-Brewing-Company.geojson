@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.778123,
+          40.857549
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Jersey Girl Brewing Company",
+        "address": "426 Sand Shore Rd, Hackettstown, NJ 07840-5535",
+        "url": "http://www.jerseygirlbrewing.com/"
       }
     }
   ]

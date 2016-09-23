@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.899584,
+          39.771575
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Atco Brewing Company",
+        "address": "302 White Horse Pike, Atco, NJ 08004",
+        "url": "http://www.atcobrewingcompany.com/"
       }
     }
   ]

@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -75.071373,
+          39.916671
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Devil's Creek Brewery",
+        "address": "1 Powell Ln, Collingswood, NJ 08108",
+        "url": "http://www.devilscreekbrewery.com/"
       }
     }
   ]

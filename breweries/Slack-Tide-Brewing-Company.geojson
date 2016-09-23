@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.766277,
+          39.154627
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Slack Tide Brewing Company",
+        "address": "1072 Route 83, Unit 3, Clermont, NJ 08230",
+        "url": "http://www.slacktidebrewingco.com/"
       }
     }
   ]

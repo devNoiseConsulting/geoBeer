@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.802634,
-          39.992634
+          -74.078868,
+          40.236424
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "name": "Jughandle Brewing Co",
+        "address": "4057 Asbury Ave, Tinton Falls, NJ 07753",
+        "url": "http://www.jughandlebrewing.com/"
       }
     }
   ]

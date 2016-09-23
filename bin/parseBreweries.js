@@ -9,6 +9,7 @@ if (fileName) {
         breweries = breweries.slice(1);
     }
 
+    breweries = breweries.filter(function(n){ return n != undefined });
     breweries = breweries.map(createBrewery);
     breweries.forEach(writeBrewery);
 } else {
@@ -52,7 +53,7 @@ function createBrewery(dataString) {
 
     brewery.features[0].properties.name = data[0];
     brewery.features[0].properties.address = data[1];
-    brewery.features[0].geometry.coordinates = [data[3], data[2]];
+    brewery.features[0].geometry.coordinates = [Number(data[3]), Number(data[2])];
     brewery.features[0].properties.url = data[4];
 
     return brewery;
