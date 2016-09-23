@@ -42,24 +42,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.717028,
-          41.093516
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Angry Erik Brewing",
-        "address": "10 Millpond Dr, Unit 8, Lafayette, NJ 07848",
-        "url": "http://angryerik.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.4546444,
           40.1855321
         ]
@@ -96,114 +78,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.899584,
-          39.771575
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Atco Brewing Company",
-        "address": "302 White Horse Pike, Atco, NJ 08004",
-        "url": "http://www.atcobrewingcompany.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.207032,
-          39.824307
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Backward Flag Brewing Co",
-        "address": "699 Challenger Way, Forked River, NJ 08731",
-        "url": "http://www.backwardflagbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.168475,
-          39.967052
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Bar Hygge",
-        "address": "1720 Fairmount Ave, Philadelphia, PA 19130",
-        "url": "http://barhygge.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2524818,
-          40.0842282
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Barren Hill Brewing",
-        "address": "646 Germantown Pike, Lafayette Hill, PA 19444",
-        "url": "http://barrenhilltavern.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.025427,
-          40.181172
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Beach Haus Brewery",
-        "address": "801 Main St, Belmar, NJ 07719",
-        "url": "http://beachhausbeer.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.094238,
-          40.414651
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Belford Brewing Company",
-        "address": "84 Leonardville Rd, Belford, NJ 07718",
-        "url": "http://www.belfordbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-75.6333060",
           "39.7300160"
         ]
@@ -215,24 +89,6 @@
         "name": "Bellefonte Brewing CO.",
         "address": "3605 Old Capitol Trail, Wilmington, DE 19808",
         "url": "http://www.bellefontebrewingco.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.927654,
-          39.78979
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Berlin Brewing Company",
-        "address": "220 S White Horse Pike, Berlin, NJ 08009",
-        "url": "http://www.berlinbrewco.com/"
       }
     },
     {
@@ -258,60 +114,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.043098,
-          40.856419
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Brix City Brewing",
-        "address": "4 Alsan Way, Little Ferry, NJ 07643",
-        "url": "http://www.brixcitybrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.9030604,
-          40.1078198
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Broken Goblet Brewing",
-        "address": "1500 Grundy Ln, Bristol, PA 19007",
-        "url": "http://brokengoblet.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.156506,
-          40.397154
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Bucks County Brewery",
-        "address": "Appletree Ln, Pipersville, PA 18947",
-        "url": "http://buckscountybrewery.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.914779,
           39.0026169
         ]
@@ -330,24 +132,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.038177,
-          40.411777
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Carton Brewing",
-        "address": "6 E Washington Ave, Atlantic Highlands, NJ 07716",
-        "url": "http://cartonbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.9523782,
           40.3356057
         ]
@@ -359,24 +143,6 @@
         "name": "Chatty Monks Brewing",
         "address": "610 Penn Ave, West Reading, PA 19611",
         "url": "http://chattymonks.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-74.2830040",
-          "40.6597250"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Climax Brewing Co Inc",
-        "address": "112 Valley Rd, Roselle Park, NJ 07204-1402",
-        "url": "http://www.climaxbrewing.com/"
       }
     },
     {
@@ -420,150 +186,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.2963100",
-          "40.8726140"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Cricket Hill Brewing Co.",
-        "address": "24 Kulick Rd, Fairfield, NJ 07004",
-        "url": "http://www.crickethillbrewery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.29631,
-          40.872614
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Cricket Hill Brewing Company",
-        "address": "24 Kulick Rd, Fairfield, NJ 07004",
-        "url": "http://www.crickethillbrewery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1830341,
-          39.9744622
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Crime & Punishment Brewing Co.",
-        "address": "2711 W Girard Ave, Philadelphia, PA 19130",
-        "url": "http://crimeandpunishmentbrewingco.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.107116,
-          40.179341
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Crooked Eye Brewery",
-        "address": "13 E Montgomery Ave #2, Hatboro, PA 19040",
-        "url": "http://crookedeyebrewery.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.365944,
-          40.498441
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Cypress Brewing Co.",
-        "address": "30 Nixon Ln, Unit E, Edison, NJ 08837",
-        "url": "http://cypressbrewing.com/Czig Meister Brewing Company"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.011059,
-          40.222503
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Dark City Brewing Company",
-        "address": "801 2nd Ave, Asbury Park, NJ 07712",
-        "url": "http://www.darkcitybrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.494952,
-          40.5708
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Demented Brewing Company",
-        "address": "600 Lincoln Blvd, Middlesex, NJ 08846",
-        "url": "http://www.dementedbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.071373,
-          39.916671
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Devil's Creek Brewery",
-        "address": "1 Powell Ln, Collingswood, NJ 08108",
-        "url": "http://www.devilscreekbrewery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-75.6736020",
           "39.8100980"
         ]
@@ -582,24 +204,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2249872,
-          39.9477547
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Dock Street Brewing",
-        "address": "701 S 50th St, Philadelphia, PA 19143",
-        "url": "http://dockstreetbeer.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.312301,
           38.7703209
         ]
@@ -611,60 +215,6 @@
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
         "url": "http://dogfish.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-75.0205630",
-          "39.9846750"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Double Nickel Brewing Co.",
-        "address": "1585 RT-73, Pennsauken, NJ 08110",
-        "url": "http://www.doublenickelbrewingcompany.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.131284,
-          40.310397
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Doylestown Brewing Co.",
-        "address": "52 E State St, Doylestown, PA 18901 ",
-        "url": "http://doylestownbrewingcompany.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1926618,
-          40.0591602
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Earth Bread + Brewery",
-        "address": "7136 Germantown Ave, Philadelphia, PA 19119",
-        "url": "http://earthbreadbrewery.com"
       }
     },
     {
@@ -726,202 +276,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2272529,
-          40.1553301
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Forest & Main Brewery & Pub",
-        "address": "61 N Main St, Ambler, PA 19002",
-        "url": "http://forestandmain.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.971364,
-          39.9123524
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Forgotten Boardwalk Brewing",
-        "address": "1940 Olney Ave #100, Cherry Hill, NJ 08003",
-        "url": "http://forgottenboardwalk.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2901928,
-          40.3652063
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Free Will Brewing Co.",
-        "address": "410 E Walnut St, Perkasie, PA 18944",
-        "url": "http://freewillbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-75.0719550",
-          "39.3725980"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Glasstown Brewing Company",
-        "address": "10 Peterson Street, Millville, NJ 08332",
-        "url": "http://www.glasstownbrewingcompany.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.341509,
-          41.002479
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "High Point Brewing Co, Inc.",
-        "address": "22 Park Pl, Butler, NJ 07405",
-        "url": "http://ramsteinbeer.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "http://bestlocalbeer.com/40-breweries-in-new-jersey-worth-visiting/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.975331,
-          39.946822
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Brewery & Restaurant",
-        "address": "124 E Kings Hwy, Maple Shade Township, NJ 08052",
-        "url": "http://ironhillbrewery.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.778123,
-          40.857549
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Jersey Girl Brewing Company",
-        "address": "426 Sand Shore Rd, Hackettstown, NJ 07840-5535",
-        "url": "http://www.jerseygirlbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.078868,
-          40.236424
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Jughandle Brewing Co",
-        "address": "4057 Asbury Ave, Tinton Falls, NJ 07753",
-        "url": "http://www.jughandlebrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.045048,
-          40.236589
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Kane Brewing",
-        "address": "1750 Bloomsbury Ave, Ocean, NJ 07712",
-        "url": "http://www.kanebrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-75.1290390",
-          "39.7302590"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Kelly Green Brewing",
-        "address": "154 S. Broadway Ave, Pitman NJ, 08071",
-        "url": "http://kellygreenbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.712146,
           39.846698
         ]
@@ -933,24 +287,6 @@
         "name": "Kennett Brewing Company",
         "address": " 109 S Broad St #2, Kennett Square, PA 19348 ",
         "url": "http://kennettbrewingcompany.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.3006524,
-          40.043724
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Lancaster Brewing Company",
-        "address": "302 N Plum St, Lancaster, PA 17602",
-        "url": "http://lancasterbrewing.com"
       }
     },
     {
@@ -1012,42 +348,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.317441,
-          40.860449
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Magnify Brewing Company",
-        "address": "1275 Bloomfield Ave, Unit 40, Bldg 7, Fairfield, NJ 07004",
-        "url": "http://magnifybrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.829927,
-          40.853767
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Man Skirt Brewing",
-        "address": "144 Main St, Hackettstown, NJ 07840",
-        "url": "http://www.manskirtbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.2211058,
           40.0224095
         ]
@@ -1059,24 +359,6 @@
         "name": "Manayunk Brewery",
         "address": "4120 Main St, Philadelphia, PA 19127",
         "url": "https://www.manayunkbrewery.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.3547469,
-          40.4424577
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "McCoole’s Red Lion Brewery",
-        "address": "4 S Main St, Quakertown, PA 18951",
-        "url": "http://mccoolesredlioninn.com"
       }
     },
     {
@@ -1102,24 +384,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.0290621,
-          40.1474164
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Naked Brewing Company",
-        "address": "51 Buck Rd, Huntingdon Valley, PA 19006",
-        "url": "http://nakedbrewingcompany.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.9042307,
           40.085047
         ]
@@ -1131,42 +395,6 @@
         "name": "Neshaminy Creek Brewing Co",
         "address": "909 Ray Ave, Croydon, PA 19021",
         "url": "http://neshaminycreekbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.934573,
-          40.316549
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Oakbrook Brewing Company",
-        "address": "628 Park Ave, Reading, PA 19611",
-        "url": "https://www.facebook.com/OakbrookBrew"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.129355,
-          39.9826881
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Philadelphia Brewing Co",
-        "address": "2439 Amber St, Philadelphia, PA 19125",
-        "url": "http://philadelphiabrewing.com"
       }
     },
     {
@@ -1210,42 +438,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.263408,
-          39.98881
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Rinn Duin Brewing",
-        "address": "1540 RT-37 W, Unit B-5, Toms River, NJ 08755",
-        "url": "http://rinnduinbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.7987841,
-          40.2766097
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "River Horse Brewing Company",
-        "address": "2 Graphics Dr, Ewing Township, NJ 08628",
-        "url": "http://riverhorse.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.289919,
           40.243531
         ]
@@ -1264,96 +456,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.145795,
-          39.9773031
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Saint Benjamin Brewing",
-        "address": "1710 N 5th St, Philadelphia, PA 19122",
-        "url": "http://stbenjaminbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.7989032,
-          40.5013984
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Saucony Creek Craft Brewery + Gastropub",
-        "address": "15032 Kutztown Rd, Kutztown, PA 19530",
-        "url": "http://sauconybeer.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.484506,
-          40.147023
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Screamin' Hill Brewery",
-        "address": "83 Emleys Hill Rd, Cream Ridge, NJ 08514",
-        "url": "http://www.screaminhill.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-74.2364010",
-          "39.5695550"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Ship Bottom Brewery",
-        "address": "830 North Bay Avenue Store 23, Beach Haven, NJ 08008",
-        "url": "http://shipbottombrewery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.766277,
-          39.154627
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Slack Tide Brewing Company",
-        "address": "1072 Route 83, Unit 3, Clermont, NJ 08230",
-        "url": "http://www.slacktidebrewingco.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.5497286,
           40.1309106
         ]
@@ -1365,24 +467,6 @@
         "name": "Sly Fox Brewhouse & Eatery",
         "address": "520 Kimberton Rd, Phoenixville, PA 19460",
         "url": "http://slyfoxbeer.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.802634,
-          39.992634
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Spellbound Brewing",
-        "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
       }
     },
     {
@@ -1426,24 +510,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.4001648,
-          39.9181908
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Sterling Pig Brewing",
-        "address": "609 W State St, Media, PA 19063",
-        "url": "http://sterlingpig.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.535232,
           40.194803
         ]
@@ -1480,60 +546,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.040015,
-          40.904594
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "The Alementary",
-        "address": "58 Voorhis Ln, Hackensack, NJ 07601",
-        "url": "http://www.alementary.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.6377585,
-          40.3319055
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "The Other Farm Brewing",
-        "address": "128 E Philadelphia Ave, Boyertown, PA 19512",
-        "url": "http://theotherfarmbrewingcompany.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-74.8113980",
-          "39.6386110"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Three 3's Brewing Company",
-        "address": "50 13th St, Hammonton, NJ 08037",
-        "url": "https://twitter.com/three3sbrew"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.2948256,
           40.008601
         ]
@@ -1552,53 +564,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.8116110",
-          "39.6379920"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Tomfoolery Brewing Company",
-        "address": "334 N. Washington Street, Unit 24B, Hammonton, NJ",
-        "url": "http://tomfoolerybrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.08324,
           39.901531
         ]
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Tonewood Brewing",
         "address": "215 W Clinton Ave, Oaklyn, NJ 08107",
         "url": "http://www.tonewoodbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2177989,
-          40.2798954
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Tower Hill Brewery",
-        "address": "237 W Butler Ave, Chalfont, PA 18914",
-        "url": "http://towerhillbrewery.com"
       }
     },
     {
@@ -1617,24 +593,6 @@
         "name": "Tröegs Brewing Company",
         "address": "200 East Hershey Park Drive, Hershey, PA 17033",
         "url": "http://troegs.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.9560877,
-          40.3653003
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Triumph Brewing Co.",
-        "address": "400 Union Square Dr, New Hope, PA 18938",
-        "url": "http://triumphbrewing.com"
       }
     },
     {
@@ -1678,42 +636,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.380648,
-          40.729034
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Twin Elephant Brewing Company",
-        "address": "13 Watchung Ave, Chatham, NJ 07928",
-        "url": "http://www.twinelephantbrewing.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5966394,
-          39.7143528
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Twin Lakes Brewing Co.",
-        "address": "405 E Marsh Ln #7, Newport, DE 19804",
-        "url": "http://twinlakesbrewingcompany.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -73.144454,
           41.1860504
         ]
@@ -1725,24 +647,6 @@
         "name": "Two Roads Brewing Co.",
         "address": "1700 Stratford Ave, Stratford, CT 06615",
         "url": "http://tworoadsbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.8407001,
-          40.2423451
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Vault Brewing",
-        "address": "10 S Main St, Yardley, PA 19067",
-        "url": "http://vaultbrewing.com"
       }
     },
     {
@@ -1804,42 +708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.790307,
-          39.994136
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Village Idiot Brewing",
-        "address": " 42 High St, Mt Holly, NJ 08060 ",
-        "url": "http://villageidiotbrewing.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.2279011,
-          40.6732415
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Weyerbacher Brewing Co.",
-        "address": "905 Line St, Easton, PA 18042",
-        "url": "http://weyerbacher.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.0007226,
           39.7533834
         ]
@@ -1851,24 +719,6 @@
         "name": "Wynkoop Brewing Company",
         "address": "1634 18th St. Denver, Colorado, 80202",
         "url": "http://www.wynkoop.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1380728,
-          39.9623445
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Yards Brewing Company",
-        "address": "901 N Delaware Ave, Philadelphia, PA 19123",
-        "url": "http://yardsbrewing.com"
       }
     },
     {

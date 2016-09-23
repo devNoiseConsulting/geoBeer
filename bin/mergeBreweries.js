@@ -24,7 +24,9 @@ if (dirName) {
                 var brewery = readBrewery(dirName + "/" + fileName);
 
                 brewery.features.forEach(function(item) {
-                    breweries.push(item);
+                    if (item.properties['marker-color'] != "#607D8B") {
+                      breweries.push(item);                      
+                    }
                 });
 
                 //breweries.push(brewery);
