@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-size": "medium",
         "name": "2nd Story Brewing",
         "address": "117 Chestnut St, Philadelphia, PA 19106",
         "url": "http://2ndstorybrewing.com"
@@ -31,7 +31,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-size": "medium",
         "name": "2SP Brewing",
         "address": "120 Concord Rd #101-103, Aston, PA 19014",
         "url": "http://2spbrewing.com"
@@ -211,7 +211,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-size": "medium",
         "name": "Bellefonte Brewing CO.",
         "address": "3605 Old Capitol Trail, Wilmington, DE 19808",
         "url": "http://www.bellefontebrewingco.com/"
@@ -571,7 +571,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-size": "medium",
         "name": "Dew Point Brewing Co.",
         "address": "2878 Creek Rd, Yorklyn, DE 19736",
         "url": "http://www.DewPointBrewing.com/"
@@ -715,7 +715,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#009688",
-        "marker-size": "small",
+        "marker-size": "medium",
         "name": "Fordham & Dominion Brewing Co.",
         "address": "1284 McD Dr, Dover, DE 19901",
         "url": "http://olddominion.com"
