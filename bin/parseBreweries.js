@@ -29,7 +29,7 @@ function writeBrewery(brewery) {
     var newFileName = brewery.features[0].properties.name.replace(/\s+/gi, '-'); // Replace white space with dash
     newFileName = newFileName.replace(/[^a-zA-Z0-9\-]/gi, ''); // Strip any special characters
     newFileName = newFileName.replace(/-+/gi, '-'); // Strip any special characters
-    if (newFileName) {
+    if (newFileName && brewery.features[0].geometry.coordinates[0] && brewery.features[0].geometry.coordinates[1]) {
         newFileName = "./breweries/" + newFileName + ".geojson";
         console.log(newFileName);
 

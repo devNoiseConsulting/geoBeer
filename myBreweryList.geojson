@@ -816,22 +816,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "http://bestlocalbeer.com/40-breweries-in-new-jersey-worth-visiting/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.975331,
           39.946822
         ]
@@ -1576,8 +1560,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Tonewood Brewing",
         "address": "215 W Clinton Ave, Oaklyn, NJ 08107",
         "url": "http://www.tonewoodbrewing.com/"
@@ -1606,24 +1590,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.6449484,
-          40.2973443
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
-        "name": "Tröegs Brewing Company",
-        "address": "200 East Hershey Park Drive, Hershey, PA 17033",
-        "url": "http://troegs.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.9560877,
           40.3653003
         ]
@@ -1635,6 +1601,24 @@
         "name": "Triumph Brewing Co.",
         "address": "400 Union Square Dr, New Hope, PA 18938",
         "url": "http://triumphbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6449484,
+          40.2973443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Tröegs Brewing Company",
+        "address": "200 East Hershey Park Drive, Hershey, PA 17033",
+        "url": "http://troegs.com"
       }
     },
     {
