@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.623784,
+          39.280399
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Blue Earl Brewing Company",
+        "address": "210 Artisan Dr, Smyrna, DE",
+        "url": "http://blueearlbrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.661897,
+          39.632144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Stewart's Brewing Company",
+        "address": "219 Governors Pl, Bear, DE",
+        "url": "http://stewartsbrewingcompany.com/"
+      }
+    }
+  ]
+}

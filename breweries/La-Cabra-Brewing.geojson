@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.6736020",
-          "39.8100980"
+          -75.441377,
+          40.047654
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
         "marker-size": "large",
-        "name": "Dew Point Brewing Co.",
-        "address": "2878 Creek Rd, Yorklyn, DE 19736",
-        "url": "http://www.DewPointBrewing.com/"
+        "name": "La Cabra Brewing",
+        "address": "642 Lancaster Ave, Berwyn, PA",
+        "url": "http://www.lacabrabrewing.com/"
       }
     }
   ]

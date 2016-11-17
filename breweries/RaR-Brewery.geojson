@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.077626,
+          38.570767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "RaR Brewery",
+        "address": "504-506 Poplar St, Cambridge, MD",
+        "url": "http://www.rarbrewing.com/"
+      }
+    }
+  ]
+}

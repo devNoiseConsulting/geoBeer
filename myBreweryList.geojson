@@ -240,6 +240,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.623784,
+          39.280399
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Blue Earl Brewing Company",
+        "address": "210 Artisan Dr, Smyrna, DE",
+        "url": "http://blueearlbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.979348,
+          39.784408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bog Turlte Brewery",
+        "address": "14 S 3rd St, Oxford, PA",
+        "url": "http://www.bogturtlebrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.6039785,
           39.9607048
         ]
@@ -251,6 +287,24 @@
         "name": "Boxcar Brewpub",
         "address": "142 E Market St, West Chester, PA 19382",
         "url": "http://boxcarbrewingcompany.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601195,
+          39.298918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brick Works Brewing and Eats",
+        "address": "230 S Dupont Blvd, Smyrna, DE",
+        "url": "http://www.brickworksde.com/"
       }
     },
     {
@@ -570,8 +624,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Dew Point Brewing Co.",
         "address": "2878 Creek Rd, Yorklyn, DE 19736",
         "url": "http://www.DewPointBrewing.com/"
@@ -665,6 +719,24 @@
         "name": "Earth Bread + Brewery",
         "address": "7136 Germantown Ave, Philadelphia, PA 19119",
         "url": "http://earthbreadbrewery.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.221889,
+          38.781061
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Eastern Shore Brewing Co",
+        "address": "605 S Talbot St, Saint Michaels, MD",
+        "url": "http://www.easternshorebrewing.com/"
       }
     },
     {
@@ -917,6 +989,24 @@
         "name": "Kennett Brewing Company",
         "address": " 109 S Broad St #2, Kennett Square, PA 19348 ",
         "url": "http://kennettbrewingcompany.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.441377,
+          40.047654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "La Cabra Brewing",
+        "address": "642 Lancaster Ave, Berwyn, PA",
+        "url": "http://www.lacabrabrewing.com/"
       }
     },
     {
@@ -1194,6 +1284,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.077626,
+          38.570767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "RaR Brewery",
+        "address": "504-506 Poplar St, Cambridge, MD",
+        "url": "http://www.rarbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.263408,
           39.98881
         ]
@@ -1421,6 +1529,24 @@
         "name": "Sterling Pig Brewing",
         "address": "609 W State St, Media, PA 19063",
         "url": "http://sterlingpig.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.661897,
+          39.632144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Stewart's Brewing Company",
+        "address": "219 Governors Pl, Bear, DE",
+        "url": "http://stewartsbrewingcompany.com/"
       }
     },
     {

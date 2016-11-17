@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601195,
+          39.298918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brick Works Brewing and Eats",
+        "address": "230 S Dupont Blvd, Smyrna, DE",
+        "url": "http://www.brickworksde.com/"
+      }
+    }
+  ]
+}

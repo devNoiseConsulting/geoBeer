@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.979348,
+          39.784408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bog Turlte Brewery",
+        "address": "14 S 3rd St, Oxford, PA",
+        "url": "http://www.bogturtlebrewery.com/"
+      }
+    }
+  ]
+}
