@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>geoBeer Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+    <style media="screen">
+        #mapid {
+            height: 360px;
+        }
+    </style>
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+</head>
+
+<body>
+    <div id="mapid"></div>
+    <script type="text/javascript">
+        var mymap = L.map('mapid').setView([39.9525840, -75.1652220], 8);
+
+        L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZGV2bm9pc2UiLCJhIjoiY2l4aThwOGVxMDAwODJ3cGo3dmt0MGcxeCJ9.UOpyx8-_bHDoyLPHfQ_Q4Q', {
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            maxZoom: 18,
+            id: 'your.mapbox.project.id',
+            accessToken: 'your.mapbox.public.access.token'
+        }).addTo(mymap);
+
+        var url = 'https://raw.githubusercontent.com/devNoiseConsulting/geoBeer/master/myBreweryList.geojson';
+        fetch(url)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(data) {
+                geojsonFeatures = JSON.parse(data);
+                L.geoJSON(geojsonFeatures, {
+                    style: function(feature) {
+                        return {
+                            color: feature.properties['marker-color']
+                        };
+                    },
+                    onEachFeature: function(feature, layer) {
+                        layer.bindPopup(feature.properties.name);
+                    }
+                }).addTo(mymap);
+            });
+    </script>
+</body>
+
+</html>

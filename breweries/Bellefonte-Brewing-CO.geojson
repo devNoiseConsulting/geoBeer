@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
         "name": "Bellefonte Brewing CO.",
         "address": "3605 Old Capitol Trail, Wilmington, DE 19808",
         "url": "http://www.bellefontebrewingco.com/"
