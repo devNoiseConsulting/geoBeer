@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Iron Hill Brewery & Restaurant",
