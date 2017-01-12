@@ -804,8 +804,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
+        "marker-color": "#009688",
+        "marker-size": "medium",
         "name": "Forest & Main Brewery & Pub",
         "address": "61 N Main St, Ambler, PA 19002",
         "url": "http://forestandmain.com"
