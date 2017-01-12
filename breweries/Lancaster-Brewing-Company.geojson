@@ -18,6 +18,24 @@
         "address": "302 N Plum St, Lancaster, PA 17602",
         "url": "http://lancasterbrewing.com"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813968,
+          40.250312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lancaster Brewing Company Harrisburg",
+        "address": "469 Eisenhower Blvd., Harrisburg, PA 17111",
+        "url": "https://www.lancasterbrewing.com/harrisburg"
+      }
     }
   ]
 }

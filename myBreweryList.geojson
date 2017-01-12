@@ -60,6 +60,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.87546,
+          40.26578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Appalachian Brewing Co. (Harrisburg)",
+        "address": "50 North Cameron Street Harrisburg, PA 17101",
+        "url": "http://abcbrew.com/brewpubs/harrisburg/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.191945,
+          39.842617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Appalachian Brewing Co. (Gettysburg Gateway)",
+        "address": "70 Presidential Circle, Gettysburg, PA 17325",
+        "url": "http://abcbrew.com/brewpubs/gettysburg-gateway/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.234354,
+          39.820285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Appalachian Brewing Co. (Gettysburg Battlefield)",
+        "address": "259 Steinwehr Avenue, Gettysburg, PA 17325",
+        "url": "http://abcbrew.com/brewpubs/camp-hill/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.4546444,
           40.1855321
         ]
@@ -68,9 +122,63 @@
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
         "marker-size": "large",
-        "name": "Appalachian Brewing Co.",
+        "name": "Appalachian Brewing Co. (Collegeville)",
         "address": "50 W 3rd Ave, Collegeville, PA 19426",
-        "url": "http://abcbrew.com"
+        "url": "http://abcbrew.com/brewpubs/collegeville-2/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.300433,
+          40.157841
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Appalachian Brewing Co. (Lititz)",
+        "address": "55 N. Water Street Lititz, PA 17543",
+        "url": "http://abcbrew.com/brewpubs/lititz-3/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01695,
+          40.247494
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Appalachian Brewing Co. (Mechanicsburg)",
+        "address": "6462 Carlisle Pike, Mechanicsburg, PA 17050",
+        "url": "http://abcbrew.com/brewpubs/mechanicsburg/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.191945,
+          39.842617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Appalachian Flatbread Co.",
+        "address": "70 Presidential Circle, Gettysburg, PA 17325",
+        "url": "http://abcbrew.com/brewpubs/appalachian-flatbread-co/"
       }
     },
     {
@@ -1223,6 +1331,24 @@
         "name": "Lancaster Brewing Company",
         "address": "302 N Plum St, Lancaster, PA 17602",
         "url": "http://lancasterbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813968,
+          40.250312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lancaster Brewing Company Harrisburg",
+        "address": "469 Eisenhower Blvd., Harrisburg, PA 17111",
+        "url": "https://www.lancasterbrewing.com/harrisburg"
       }
     },
     {
