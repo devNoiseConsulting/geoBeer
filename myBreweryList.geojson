@@ -888,17 +888,215 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.975331,
-          39.946822
+          -75.297332,
+          40.008548
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Iron Hill Brewery & Restaurant",
-        "address": "124 E Kings Hwy, Maple Shade Township, NJ 08052",
-        "url": "http://ironhillbrewery.com"
+        "name": "Iron Hill Ardmore",
+        "address": "60 Greenfield Ave, Ardmore, Pennsylvania 19003",
+        "url": "http:/www.ironhillbrewery.com/ardmore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.205434,
+          40.075079
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Chestnut Hill",
+        "address": "8400 Germantown Avenue, Philadelphia, Pennsylvania 19118",
+        "url": "http:/www.ironhillbrewery.com/chestnuthill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.093798,
+          40.088473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Huntingdon Valley",
+        "address": "785 Huntingdon Pike, Huntingdon Valley, PA 19006",
+        "url": "http:/www.ironhillbrewery.com/huntingdonvalley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.318818,
+          40.05066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Lancaster",
+        "address": "781 Harrisburg Pike, Lancaster, Pennsylvania 17603",
+        "url": "http:/www.ironhillbrewery.com/lancaster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972593,
+          39.945188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Maple Shade",
+        "address": "124 East Kings Highway, Maple Shade, New Jersey 08052",
+        "url": "http:/www.ironhillbrewery.com/mapleshade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.388272,
+          39.91756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Iron Hill Media",
+        "address": "30 East State Street, Media, Pennsylvania 19063",
+        "url": "http:/www.ironhillbrewery.com/media"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.746771,
+          39.683293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Iron Hill Newark",
+        "address": "147 East Main Street, Newark, Delaware 19711",
+        "url": "http:/www.ironhillbrewery.com/newark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.223049,
+          40.208572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill North Wales",
+        "address": "1460 Bethlehem Pike, North Wales, Pennsylvania 19454",
+        "url": "http:/www.ironhillbrewery.com/northwales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.513777,
+          40.13407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Iron Hill Phoenixville",
+        "address": "130 E. Bridge Street, Phoenixville, Pennsylvania 19460",
+        "url": "http:/www.ironhillbrewery.com/phoenixville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.998619,
+          39.851933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Voorhees",
+        "address": "13107 Town Center Boulevard, Voorhees, New Jersey 08043",
+        "url": "http:/www.ironhillbrewery.com/voorhees"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605537,
+          39.960576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Iron Hill West Chester",
+        "address": "3 West Gay Street, West Chester, Pennsylvania 19380",
+        "url": "http:/www.ironhillbrewery.com/westchester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56167,
+          39.734101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "Iron Hill Wilmington",
+        "address": "620 Justison Street, Wilmington, Delaware 19801",
+        "url": "http:/www.ironhillbrewery.com/wilmington"
       }
     },
     {
@@ -1158,6 +1356,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.544246,
+          39.865828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "McKenzie Brew House (Chadds Ford)",
+        "address": "451 Wilmington-West Chester Pike | Glen Mills, PA 19342",
+        "url": "http://mckenziebrewhouse.com/chaddsford/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.4466094,
           40.0697584
         ]
@@ -1166,9 +1382,27 @@
         "marker-symbol": "restaurant",
         "marker-color": "#0047AB",
         "marker-size": "large",
-        "name": "McKenzie Brew House (Berwyn)",
+        "name": "McKenzie Brew House (Devon)",
         "address": "324 Swedesford Rd, Berwyn, PA 19312",
-        "url": "http://mckenziebrewhouse.com"
+        "url": "http://mckenziebrewhouse.com/devon/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.542978,
+          40.039943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0047AB",
+        "marker-size": "large",
+        "name": "McKenzie Brew House (Malvern)",
+        "address": "240 Lancaster Ave, Malvern, PA 19355",
+        "url": "http://mckenziebrewhouse.com/malvern/"
       }
     },
     {
