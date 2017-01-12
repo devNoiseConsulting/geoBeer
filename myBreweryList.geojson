@@ -168,24 +168,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.191945,
-          39.842617
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Appalachian Flatbread Co.",
-        "address": "70 Presidential Circle, Gettysburg, PA 17325",
-        "url": "http://abcbrew.com/brewpubs/appalachian-flatbread-co/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.686581,
           39.7082841
         ]
