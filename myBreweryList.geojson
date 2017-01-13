@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.378136,
+          38.678818
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "16 Mile Brewing Company",
+        "address": "413 S Bedford St, Georgetown, DE 19947",
+        "url": "http://16milebrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.1457558,
           39.9484457
         ]
@@ -35,6 +53,24 @@
         "name": "2SP Brewing",
         "address": "120 Concord Rd #101-103, Aston, PA 19014",
         "url": "http://2spbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.574344,
+          38.46076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "3rd Wave Brewing Co.",
+        "address": "501 N Bi State Blvd, Delmar, DE 19940",
+        "url": "http://3rdwavebrewingco.com/"
       }
     },
     {
@@ -323,6 +359,24 @@
         "name": "Berlin Brewing Company",
         "address": "220 S White Horse Pike, Berlin, NJ 08009",
         "url": "http://www.berlinbrewco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.124054,
+          38.724781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Big Oyster Brewery",
+        "address": "19269 Coastal Hwy, Rehoboth Beach, DE 19971",
+        "url": "http://www.bigoysterbrewery.com/"
       }
     },
     {
@@ -636,6 +690,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.150639,
+          38.743885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crooked Hammock Brewery",
+        "address": "16989 Kings Hwy, Lewes, DE 19958",
+        "url": "http://www.crookedhammockbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.365944,
           40.498441
         ]
@@ -726,6 +798,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.075091,
+          38.696067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dewey Beer Company",
+        "address": "2100 Coastal Highway, Dewey Beach, DE 19971",
+        "url": "http://www.deweybeerco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2249872,
           39.9477547
         ]
@@ -754,6 +844,24 @@
         "marker-size": "large",
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
+        "url": "http://dogfish.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.087096,
+          38.715192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#009688",
+        "marker-size": "medium",
+        "name": "Dogfish Head Brewings & Eats",
+        "address": "320 Rehoboth Ave, Rehoboth Beach, DE 19971",
         "url": "http://dogfish.com"
       }
     },
@@ -827,6 +935,24 @@
         "name": "Eastern Shore Brewing Co",
         "address": "605 S Talbot St, Saint Michaels, MD",
         "url": "http://www.easternshorebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.142376,
+          39.849506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#009688",
+        "marker-size": "medium",
+        "name": "Eight & Sand Beer Co",
+        "address": "1003 N Evergreen Ave, Woodbury, NJ 08096",
+        "url": "http://www.eightandsandbeer.com/"
       }
     },
     {
@@ -935,6 +1061,24 @@
         "name": "Free Will Brewing Co.",
         "address": "410 E Walnut St, Perkasie, PA 18944",
         "url": "http://freewillbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.595045,
+          39.776878
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Frozen Toes Brewing",
+        "address": "3801 Kennett Pike, Wilmington, DE 19807",
+        "url": "https://www.facebook.com/frozentoesbrewing/"
       }
     },
     {
@@ -1511,6 +1655,24 @@
         "name": "McKenzie Brew House (Malvern)",
         "address": "240 Lancaster Ave, Malvern, PA 19355",
         "url": "http://mckenziebrewhouse.com/malvern/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.440391,
+          38.92012
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mispillion River Brewing",
+        "address": "255 Mullet Run, Milford, DE 19963",
+        "url": "http://www.mispillionriverbrewing.com"
       }
     },
     {
@@ -2130,6 +2292,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.548006,
+          40.180451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tuned Up Brewing Company",
+        "address": "135 N Main Street, Spring City, Pennsylvania",
+        "url": "https://www.facebook.com/pg/tunedupbrewing/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.380648,
           40.729034
         ]
@@ -2177,6 +2357,24 @@
         "name": "Two Roads Brewing Co.",
         "address": "1700 Stratford Ave, Stratford, CT 06615",
         "url": "http://tworoadsbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.643459,
+          39.332309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Union Craft Brewing",
+        "address": "1700 Union Ave, Ste D, Baltimore, Maryland",
+        "url": "http://www.unioncraftbrewing.com/"
       }
     },
     {

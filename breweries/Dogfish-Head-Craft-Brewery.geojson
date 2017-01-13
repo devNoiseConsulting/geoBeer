@@ -18,6 +18,24 @@
         "address": "6 Village Center Blvd, Milton, DE 19968",
         "url": "http://dogfish.com"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.087096,
+          38.715192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#009688",
+        "marker-size": "medium",
+        "name": "Dogfish Head Brewings & Eats",
+        "address": "320 Rehoboth Ave, Rehoboth Beach, DE 19971",
+        "url": "http://dogfish.com"
+      }
     }
   ]
 }

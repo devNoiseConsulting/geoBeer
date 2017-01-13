@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.150639,
+          38.743885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crooked Hammock Brewery",
+        "address": "16989 Kings Hwy, Lewes, DE 19958",
+        "url": "http://www.crookedhammockbrewery.com/"
+      }
+    }
+  ]
+}

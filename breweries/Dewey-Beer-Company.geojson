@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.075091,
+          38.696067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dewey Beer Company",
+        "address": "2100 Coastal Highway, Dewey Beach, DE 19971",
+        "url": "http://www.deweybeerco.com/"
+      }
+    }
+  ]
+}

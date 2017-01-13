@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.378136,
+          38.678818
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "16 Mile Brewing Company",
+        "address": "413 S Bedford St, Georgetown, DE 19947",
+        "url": "http://16milebrewery.com/"
+      }
+    }
+  ]
+}

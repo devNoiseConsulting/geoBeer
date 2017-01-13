@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.548006,
+          40.180451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tuned Up Brewing Company",
+        "address": "135 N Main Street, Spring City, Pennsylvania",
+        "url": "https://www.facebook.com/pg/tunedupbrewing/"
+      }
+    }
+  ]
+}

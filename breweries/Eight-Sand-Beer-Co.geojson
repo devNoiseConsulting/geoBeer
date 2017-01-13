@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.142376,
+          39.849506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#009688",
+        "marker-size": "medium",
+        "name": "Eight & Sand Beer Co",
+        "address": "1003 N Evergreen Ave, Woodbury, NJ 08096",
+        "url": "http://www.eightandsandbeer.com/"
+      }
+    }
+  ]
+}

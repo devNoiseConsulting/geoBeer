@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.124054,
+          38.724781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Big Oyster Brewery",
+        "address": "19269 Coastal Hwy, Rehoboth Beach, DE 19971",
+        "url": "http://www.bigoysterbrewery.com/"
+      }
+    }
+  ]
+}
