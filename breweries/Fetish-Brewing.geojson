@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.301354,
+          40.052472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fetish Brewing",
+        "address": "325 Ice Ave, Lancaster, PA 17602",
+        "url": "http://fetishbrewing.tumblr.com/"
+      }
+    }
+  ]
+}

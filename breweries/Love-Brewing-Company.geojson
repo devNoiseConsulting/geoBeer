@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06695,
+          40.058334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Love Brewing Company",
+        "address": "1730 Faunce St, Philadelphia, PA 19111",
+        "url": "http://lovebrewingcompany.com/"
+      }
+    }
+  ]
+}

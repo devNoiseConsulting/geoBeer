@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.978533,
+          39.78586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hollow Earth Brewing Company",
+        "address": "19 N 3rd St, Oxford, PA 19363",
+        "url": "http://www.hollowearthbrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.137109,
+          40.038907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rumspringa Brewing Company",
+        "address": "3174 Old Philadelphia Pike, 2nd Fl, Bird in Hand, PA 17505",
+        "url": "http://www.lancaster-gallery.com/rumspringa/index.php"
+      }
+    }
+  ]
+}

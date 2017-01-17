@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.048912,
+          39.952669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Eclipse Brewing",
+        "address": "10 East Chestnut Ave, Merchantville, NJ 08109",
+        "url": "https://www.facebook.com/Eclipse-Brewing-726218560847250/"
+      }
+    }
+  ]
+}

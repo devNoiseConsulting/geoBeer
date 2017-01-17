@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.060964,
+          40.324146
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mad Princes Brewing",
+        "address": "2537 Bogarts Tavern Rd, Buckingham, PA 18902",
+        "url": "http://madprincesbrewing.com/"
+      }
+    }
+  ]
+}

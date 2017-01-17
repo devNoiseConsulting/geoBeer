@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.154313,
+          39.961426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Roy-Pitz Barrel House",
+        "address": "990 Spring Garden St, Philadelphia, PA 19123",
+        "url": "http://www.roypitzbarrelhouse.com/"
+      }
+    }
+  ]
+}

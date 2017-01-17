@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.144397,
+          39.955405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Inspired Brews",
+        "address": "263 N 3rd St, Philadelphia, PA 19106",
+        "url": "http://inspiredbrews.com/"
+      }
+    }
+  ]
+}

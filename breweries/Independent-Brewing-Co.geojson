@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35683,
+          39.539846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Independent Brewing Co",
+        "address": "418 N Main St, Bel Air, MD 21014",
+        "url": "https://www.independentbrew.com/"
+      }
+    }
+  ]
+}

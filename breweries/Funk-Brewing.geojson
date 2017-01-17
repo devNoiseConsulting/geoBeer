@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.502888,
+          40.60919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Funk Brewing",
+        "address": "19TH S 6th St, Emmaus, PA 18049",
+        "url": "http://www.funkbrewing.com/"
+      }
+    }
+  ]
+}

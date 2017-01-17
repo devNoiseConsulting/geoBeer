@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.426403,
+          40.339304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Snitz Creek Brewery",
+        "address": "7 N 9th St, Lebanon, PA 17046",
+        "url": "http://www.snitzcreekbrewery.com/"
+      }
+    }
+  ]
+}

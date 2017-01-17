@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.095435,
+          40.568487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Ship Inn Restaurant & Brewery",
+        "address": "61 Bridge St, Milford, NJ 08848",
+        "url": "http://www.shipinn.com/"
+      }
+    }
+  ]
+}

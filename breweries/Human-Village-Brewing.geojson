@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.129298,
+          39.730516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Human Village Brewing",
+        "address": "148 S Broadway, Pitman, NJ 08071",
+        "url": "http://www.humanvillagebrewingco.com/"
+      }
+    }
+  ]
+}

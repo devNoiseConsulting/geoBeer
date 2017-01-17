@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493439,
+          40.533774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Yergey Brewing",
+        "address": "518 Bank St, Emmaus, PA 18049",
+        "url": "http://www.yergeybrewing.com/"
+      }
+    }
+  ]
+}

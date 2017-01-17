@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.341092,
+          40.58086
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lost Tavern Brewing",
+        "address": "782 Main St, Hellertown, PA 18055",
+        "url": "https://www.losttavernbrewing.com/"
+      }
+    }
+  ]
+}

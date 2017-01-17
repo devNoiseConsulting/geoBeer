@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.186002,
+          39.977509
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Flying Fish Crafthouse",
+        "address": "1363 N 31st St, Philadelphia, PA 19121",
+        "url": "http://ffcrafthouse.com/"
+      }
+    }
+  ]
+}

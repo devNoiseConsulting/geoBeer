@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.194516,
+          40.591486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ringing Rocks Brewery",
+        "address": "919 Easton Rd, Riegelsville, PA 18077",
+        "url": "https://www.facebook.com/RingingRocksBrewery"
+      }
+    }
+  ]
+}

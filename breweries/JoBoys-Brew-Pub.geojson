@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.306122,
+          40.157168
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "JoBoy’s Brew Pub",
+        "address": "27-31 E Main St, Lititz, PA 17543",
+        "url": "http://www.joboysbrewpub.com/"
+      }
+    }
+  ]
+}

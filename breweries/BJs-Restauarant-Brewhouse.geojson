@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.565834,
+          40.568564
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "BJ’s Restauarant & Brewhouse",
+        "address": "665 N Krocks Rd, Allentown, PA 18106",
+        "url": "https://www.bjsrestaurants.com/"
+      }
+    }
+  ]
+}

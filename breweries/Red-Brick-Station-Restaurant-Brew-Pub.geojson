@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.466343,
+          39.371559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Red Brick Station Restaurant & Brew Pub",
+        "address": "8149 Honeygo Blvd, White Marsh, MD 21236",
+        "url": "http://www.redbrickstation.com/"
+      }
+    }
+  ]
+}

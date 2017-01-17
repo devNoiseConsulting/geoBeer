@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.108425,
+          39.993032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Do Good Brewing",
+        "address": "3245 Amber St, Philadelphia, PA 19134",
+        "url": "http://dogoodbrewing.com/"
+      }
+    }
+  ]
+}

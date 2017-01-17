@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.307805,
+          40.029501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spring House Brewing Company",
+        "address": "209 Hazel St, Lancaster, PA 17603",
+        "url": "http://www.springhousebeer.com/"
+      }
+    }
+  ]
+}

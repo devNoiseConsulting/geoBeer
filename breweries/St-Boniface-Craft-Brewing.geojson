@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.205773,
+          40.200427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "St. Boniface Craft Brewing",
+        "address": "1701 W Main St, Ephrata, PA 17522",
+        "url": "http://www.stbonifacebrewing.com/"
+      }
+    }
+  ]
+}

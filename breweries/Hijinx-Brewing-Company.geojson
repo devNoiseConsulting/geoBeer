@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.474489,
+          40.593502
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hijinx Brewing Company",
+        "address": "905 Harrison St, Allentown, PA 18103",
+        "url": "http://hijinxbrewing.com/"
+      }
+    }
+  ]
+}

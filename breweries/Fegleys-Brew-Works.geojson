@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.473856,
+          40.601441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fegley’s Brew Works",
+        "address": "812 W Hamilton St, Allentown, PA 18101",
+        "url": "https://thebrewworks.com/"
+      }
+    }
+  ]
+}

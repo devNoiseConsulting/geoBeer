@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17882,
+          39.923938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brewery ARS",
+        "address": "1927 W Passyunk Ave, Philadelphia, PA 19145",
+        "url": "http://breweryars.com/"
+      }
+    }
+  ]
+}

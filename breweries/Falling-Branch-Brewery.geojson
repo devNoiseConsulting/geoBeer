@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.366771,
+          39.664312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Falling Branch Brewery",
+        "address": "825 Highland Rd, Street, MD 21154",
+        "url": "http://fallingbranchbeer.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.183621,
+          40.181528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Black Forest Brewery",
+        "address": "301 W Main St, Ephrata, PA 17522",
+        "url": "http://www.blackforestbrewery.net/"
+      }
+    }
+  ]
+}

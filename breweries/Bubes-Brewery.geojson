@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.502996,
+          40.111678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bube’s Brewery",
+        "address": "102 N Market St, Mount Joy, PA 17552",
+        "url": "http://bubesbrewery.com/"
+      }
+    }
+  ]
+}
