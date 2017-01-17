@@ -330,8 +330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.6333060",
-          "39.7300160"
+          -75.633306,
+          39.730016
         ]
       },
       "properties": {
@@ -377,6 +377,42 @@
         "name": "Big Oyster Brewery",
         "address": "19269 Coastal Hwy, Rehoboth Beach, DE 19971",
         "url": "http://www.bigoysterbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.565834,
+          40.568564
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "BJ’s Restauarant & Brewhouse",
+        "address": "665 N Krocks Rd, Allentown, PA 18106",
+        "url": "https://www.bjsrestaurants.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.183621,
+          40.181528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Black Forest Brewery",
+        "address": "301 W Main St, Ephrata, PA 17522",
+        "url": "http://www.blackforestbrewery.net/"
       }
     },
     {
@@ -438,6 +474,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.17882,
+          39.923938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brewery ARS",
+        "address": "1927 W Passyunk Ave, Philadelphia, PA 19145",
+        "url": "http://breweryars.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.601195,
           39.298918
         ]
@@ -485,6 +539,24 @@
         "name": "Broken Goblet Brewing",
         "address": "1500 Grundy Ln, Bristol, PA 19007",
         "url": "http://brokengoblet.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.502996,
+          40.111678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bube’s Brewery",
+        "address": "102 N Market St, Mount Joy, PA 17552",
+        "url": "http://bubesbrewery.com/"
       }
     },
     {
@@ -564,8 +636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.2830040",
-          "40.6597250"
+          -74.283004,
+          40.659725
         ]
       },
       "properties": {
@@ -618,24 +690,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.2963100",
-          "40.8726140"
-        ]
-      },
-      "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Cricket Hill Brewing Co.",
-        "address": "24 Kulick Rd, Fairfield, NJ 07004",
-        "url": "http://www.crickethillbrewery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -74.29631,
           40.872614
         ]
@@ -644,7 +698,7 @@
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Cricket Hill Brewing Company",
+        "name": "Cricket Hill Brewing Co.",
         "address": "24 Kulick Rd, Fairfield, NJ 07004",
         "url": "http://www.crickethillbrewery.com/"
       }
@@ -780,8 +834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.6736020",
-          "39.8100980"
+          -75.673602,
+          39.810098
         ]
       },
       "properties": {
@@ -809,6 +863,24 @@
         "name": "Dewey Beer Company",
         "address": "2100 Coastal Highway, Dewey Beach, DE 19971",
         "url": "http://www.deweybeerco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.108425,
+          39.993032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Do Good Brewing",
+        "address": "3245 Amber St, Philadelphia, PA 19134",
+        "url": "http://dogoodbrewing.com/"
       }
     },
     {
@@ -870,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.0205630",
-          "39.9846750"
+          -75.020563,
+          39.984675
         ]
       },
       "properties": {
@@ -942,6 +1014,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.048912,
+          39.952669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Eclipse Brewing",
+        "address": "10 East Chestnut Ave, Merchantville, NJ 08109",
+        "url": "https://www.facebook.com/Eclipse-Brewing-726218560847250/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.142376,
           39.849506
         ]
@@ -953,6 +1043,60 @@
         "name": "Eight & Sand Beer Co",
         "address": "1003 N Evergreen Ave, Woodbury, NJ 08096",
         "url": "http://www.eightandsandbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.366771,
+          39.664312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Falling Branch Brewery",
+        "address": "825 Highland Rd, Street, MD 21154",
+        "url": "http://fallingbranchbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.473856,
+          40.601441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fegley’s Brew Works",
+        "address": "812 W Hamilton St, Allentown, PA 18101",
+        "url": "https://thebrewworks.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.301354,
+          40.052472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fetish Brewing",
+        "address": "325 Ice Ave, Lancaster, PA 17602",
+        "url": "http://fetishbrewing.tumblr.com/"
       }
     },
     {
@@ -989,6 +1133,24 @@
         "name": "Flying Fish Brewing",
         "address": "900 Kennedy Blvd, Somerdale, NJ 08083",
         "url": "http://flyingfish.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.186002,
+          39.977509
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Flying Fish Crafthouse",
+        "address": "1363 N 31st St, Philadelphia, PA 19121",
+        "url": "http://ffcrafthouse.com/"
       }
     },
     {
@@ -1086,8 +1248,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.0719550",
-          "39.3725980"
+          -75.502888,
+          40.60919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Funk Brewing",
+        "address": "19TH S 6th St, Emmaus, PA 18049",
+        "url": "http://www.funkbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.071955,
+          39.372598
         ]
       },
       "properties": {
@@ -1097,6 +1277,24 @@
         "name": "Glasstown Brewing Company",
         "address": "10 Peterson Street, Millville, NJ 08332",
         "url": "http://www.glasstownbrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718722,
+          40.247596
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hidden River Brewing Company",
+        "address": "1808 W Schuylkill Rd, Douglassville, PA 19518",
+        "url": "http://hiddenriverbrewing.com/"
       }
     },
     {
@@ -1115,6 +1313,96 @@
         "name": "High Point Brewing Co, Inc.",
         "address": "22 Park Pl, Butler, NJ 07405",
         "url": "http://ramsteinbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.474489,
+          40.593502
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hijinx Brewing Company",
+        "address": "905 Harrison St, Allentown, PA 18103",
+        "url": "http://hijinxbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.978533,
+          39.78586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hollow Earth Brewing Company",
+        "address": "19 N 3rd St, Oxford, PA 19363",
+        "url": "http://www.hollowearthbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.129298,
+          39.730516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Human Village Brewing",
+        "address": "148 S Broadway, Pitman, NJ 08071",
+        "url": "http://www.humanvillagebrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35683,
+          39.539846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Independent Brewing Co",
+        "address": "418 N Main St, Bel Air, MD 21014",
+        "url": "https://www.independentbrew.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.144397,
+          39.955405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Inspired Brews",
+        "address": "263 N 3rd St, Philadelphia, PA 19106",
+        "url": "http://inspiredbrews.com/"
       }
     },
     {
@@ -1356,6 +1644,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.306122,
+          40.157168
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "JoBoy’s Brew Pub",
+        "address": "27-31 E Main St, Lititz, PA 17543",
+        "url": "http://www.joboysbrewpub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.078868,
           40.236424
         ]
@@ -1392,8 +1698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-75.1290390",
-          "39.7302590"
+          -75.129039,
+          39.730259
         ]
       },
       "properties": {
@@ -1500,8 +1806,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.7443290",
-          "39.1930680"
+          -75.341092,
+          40.58086
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lost Tavern Brewing",
+        "address": "782 Main St, Hellertown, PA 18055",
+        "url": "https://www.losttavernbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06695,
+          40.058334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Love Brewing Company",
+        "address": "1730 Faunce St, Philadelphia, PA 19111",
+        "url": "http://lovebrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.744329,
+          39.193068
         ]
       },
       "properties": {
@@ -1529,6 +1871,24 @@
         "name": "Lunacy Brewing",
         "address": "214 Davis Rd, Magnolia, NJ 08049",
         "url": "http://lunacybrewingcompany.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.060964,
+          40.324146
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mad Princes Brewing",
+        "address": "2537 Bogarts Tavern Rd, Buckingham, PA 18902",
+        "url": "http://madprincesbrewing.com/"
       }
     },
     {
@@ -1752,8 +2112,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.3436290",
-          "39.6161770"
+          -74.343629,
+          39.616177
         ]
       },
       "properties": {
@@ -1799,6 +2159,42 @@
         "name": "RaR Brewery",
         "address": "504-506 Poplar St, Cambridge, MD",
         "url": "http://www.rarbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.466343,
+          39.371559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Red Brick Station Restaurant & Brew Pub",
+        "address": "8149 Honeygo Blvd, White Marsh, MD 21236",
+        "url": "http://www.redbrickstation.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.194516,
+          40.591486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ringing Rocks Brewery",
+        "address": "919 Easton Rd, Riegelsville, PA 18077",
+        "url": "https://www.facebook.com/RingingRocksBrewery"
       }
     },
     {
@@ -1860,6 +2256,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.154313,
+          39.961426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Roy-Pitz Barrel House",
+        "address": "990 Spring Garden St, Philadelphia, PA 19123",
+        "url": "http://www.roypitzbarrelhouse.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.137109,
+          40.038907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rumspringa Brewing Company",
+        "address": "3174 Old Philadelphia Pike, 2nd Fl, Bird in Hand, PA 17505",
+        "url": "http://www.lancaster-gallery.com/rumspringa/index.php"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.145795,
           39.9773031
         ]
@@ -1914,8 +2346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.2364010",
-          "39.5695550"
+          -74.236401,
+          39.569555
         ]
       },
       "properties": {
@@ -1968,6 +2400,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.426403,
+          40.339304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Snitz Creek Brewery",
+        "address": "7 N 9th St, Lebanon, PA 17046",
+        "url": "http://www.snitzcreekbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.449397,
+          39.732359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "South County Brewery",
+        "address": "104 Mill St, Fawn Grove, PA 17321",
+        "url": "https://www.facebook.com/southcountybrewingco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.802634,
           39.992634
         ]
@@ -1979,6 +2447,42 @@
         "name": "Spellbound Brewing",
         "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
         "url": "http://www.spellboundbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.307805,
+          40.029501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spring House Brewing Company",
+        "address": "209 Hazel St, Lancaster, PA 17603",
+        "url": "http://www.springhousebeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.205773,
+          40.200427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "St. Boniface Craft Brewing",
+        "address": "1701 W Main St, Ephrata, PA 17522",
+        "url": "http://www.stbonifacebrewing.com/"
       }
     },
     {
@@ -2094,6 +2598,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.432225,
+          40.228022
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Swashbuckler Brewing Company",
+        "address": "2775 Lebanon Rd, Manheim, PA 17545",
+        "url": "http://www.swashbucklerbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.040015,
           40.904594
         ]
@@ -2105,6 +2627,24 @@
         "name": "The Alementary",
         "address": "58 Voorhis Ln, Hackensack, NJ 07601",
         "url": "http://www.alementary.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.349236,
+          40.093749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Mad Chef Craft Brewing",
+        "address": "2023 Miller Rd, East Petersburg, PA 17520",
+        "url": "http://www.madchefcraftbrewing.com/"
       }
     },
     {
@@ -2130,8 +2670,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.8113980",
-          "39.6386110"
+          -75.341528,
+          40.44186
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Proper Brewing Company",
+        "address": "117 W. Broad Street, Quakertown, PA 18951",
+        "url": "http://www.theproperbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.095435,
+          40.568487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Ship Inn Restaurant & Brewery",
+        "address": "61 Bridge St, Milford, NJ 08848",
+        "url": "http://www.shipinn.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.811398,
+          39.638611
         ]
       },
       "properties": {
@@ -2166,8 +2742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.8116110",
-          "39.6379920"
+          -74.811611,
+          39.637992
         ]
       },
       "properties": {
@@ -2274,8 +2850,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-74.4388080",
-          "39.3620630"
+          -74.438808,
+          39.362063
         ]
       },
       "properties": {
@@ -2472,6 +3048,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.313352,
+          40.038089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wacker Brewing Co",
+        "address": "417 W Grant St, Lancaster, PA 17603",
+        "url": "http://wackerbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2279011,
           40.6732415
         ]
@@ -2483,6 +3077,24 @@
         "name": "Weyerbacher Brewing Co.",
         "address": "905 Line St, Easton, PA 18042",
         "url": "http://weyerbacher.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.200458,
+          40.013723
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wissahickon Brewing Co.",
+        "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
+        "url": "http://www.wissahickonbrew.com/"
       }
     },
     {
@@ -2519,6 +3131,24 @@
         "name": "Yards Brewing Company",
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
         "url": "http://yardsbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493439,
+          40.533774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Yergey Brewing",
+        "address": "518 Bank St, Emmaus, PA 18049",
+        "url": "http://www.yergeybrewing.com/"
       }
     },
     {
