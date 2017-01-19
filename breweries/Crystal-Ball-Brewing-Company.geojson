@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.762586,
+          39.94892
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crystal Ball Brewing Company",
+        "address": "1612 W King Street, York, PA 17404",
+        "url": "http://www.crystalballbrewing.com/"
+      }
+    }
+  ]
+}

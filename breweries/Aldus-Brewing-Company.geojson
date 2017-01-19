@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.976899,
+          39.790598
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Aldus Brewing Company",
+        "address": "555 Centennial Ave., Hanover, PA 17331",
+        "url": "http://www.aldusbrewing.com/"
+      }
+    }
+  ]
+}

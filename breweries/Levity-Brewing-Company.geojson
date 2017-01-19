@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.163264,
+          40.607224
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Levity Brewing Company",
+        "address": "1380 Wayne Ave, Suite A, Indiana, PA 15701",
+        "url": "http://www.levitybrewing.com/"
+      }
+    }
+  ]
+}

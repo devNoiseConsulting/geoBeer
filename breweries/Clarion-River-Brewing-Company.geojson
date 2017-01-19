@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.383266,
+          41.21362
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Clarion River Brewing Company",
+        "address": "600-604 Main Street, Clarion, PA 16214",
+        "url": "http://clarionriverbrew.com/"
+      }
+    }
+  ]
+}

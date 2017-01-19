@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.103573,
+          40.511979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Aurochs Brewing Company",
+        "address": "8321 Ohio River Boulevard, Emsworth, PA 15202",
+        "url": "http://www.astonabbeybrewing.com/"
+      }
+    }
+  ]
+}

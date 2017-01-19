@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.397217,
+          40.5918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cave Brewing Company",
+        "address": "1407 Seidersville Rd, Bethlehem, PA 18015",
+        "url": "http://www.cavebrewing.com/"
+      }
+    }
+  ]
+}

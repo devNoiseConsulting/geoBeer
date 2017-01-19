@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.114918,
+          42.108957
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Erie Brewing Company",
+        "address": "1213 Veshecco Drive, Erie, PA 16501",
+        "url": "http://www.eriebrewingco.com/"
+      }
+    }
+  ]
+}

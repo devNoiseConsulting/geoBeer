@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.083313,
+          42.122864
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lavery Brewing Company",
+        "address": "128 W. 12th Street, Unit 101, Erie, PA 16501",
+        "url": "http://www.laverybrewing.com"
+      }
+    }
+  ]
+}

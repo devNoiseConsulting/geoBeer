@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.895263,
+          40.860888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Butler Brew Works",
+        "address": "101 S Main Street, Butler, PA 16001",
+        "url": "http://www.butlerbrewworks.com/"
+      }
+    }
+  ]
+}

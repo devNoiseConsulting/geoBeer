@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.63655,
+          40.421258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rivertowne Brewing",
+        "address": "5578 Old William Penn Hwy, Export, PA 15632",
+        "url": "http://www.myrivertowne.com/brewing/index.asp"
+      }
+    }
+  ]
+}

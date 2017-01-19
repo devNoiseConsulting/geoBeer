@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.021554,
+          40.364347
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mindful Brewing Company",
+        "address": "3759 Library Road, Castle Shannon, PA 15234",
+        "url": "http://mindfulbrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053093,
+          40.916607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rusty Rail Brewing Co",
+        "address": "5 North Eighth Street, Suite 1, Mifflinburg, PA 17844",
+        "url": "http://www.rustyrailbrewing.com/"
+      }
+    }
+  ]
+}

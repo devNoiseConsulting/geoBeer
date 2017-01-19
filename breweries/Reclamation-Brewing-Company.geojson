@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.895061,
+          40.862886
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Reclamation Brewing Company",
+        "address": "221 S Main Street, Butler, PA 16001",
+        "url": "http://www.reclamationbrewing.com/"
+      }
+    }
+  ]
+}

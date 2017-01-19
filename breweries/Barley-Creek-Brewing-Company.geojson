@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.339554,
+          41.062626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barley Creek Brewing Company",
+        "address": "1774 Sullivan Trail, Tannersville, PA 18372",
+        "url": "http://www.aurochsbrewing.com"
+      }
+    }
+  ]
+}

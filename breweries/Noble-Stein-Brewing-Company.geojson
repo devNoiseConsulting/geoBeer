@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.192985,
+          40.618047
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Noble Stein Brewing Company",
+        "address": "165 Ben Franklin Road, Indiana, PA 15701",
+        "url": "http://www.noblesteinbrewingcompany.com/"
+      }
+    }
+  ]
+}

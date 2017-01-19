@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.911687,
+          40.458911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "East End Brewing Co.",
+        "address": "147 Julius St., Pittsburgh, PA 15206",
+        "url": "http://www.EastEndBrewing.com"
+      }
+    }
+  ]
+}

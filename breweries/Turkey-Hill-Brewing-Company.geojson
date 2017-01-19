@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.427524,
+          41.025277
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Turkey Hill Brewing Company",
+        "address": "991 Central Road, Bloomsburg, PA 17815",
+        "url": "http://www.turkeyhillbrewing.com/"
+      }
+    }
+  ]
+}

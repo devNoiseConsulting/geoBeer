@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.912061,
+          40.810151
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Otto’s Pub &amp; Brewery",
+        "address": "2235 North Atherton St, State College, PA 16803",
+        "url": "http://ottospubandbrewery.com/"
+      }
+    }
+  ]
+}

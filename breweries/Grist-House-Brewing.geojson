@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9725,
+          40.478579
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Grist House Brewing",
+        "address": "10 Sherman Street, Pennsylvania 15209, PA 15209",
+        "url": "http://gristhousebrewing.com/"
+      }
+    }
+  ]
+}

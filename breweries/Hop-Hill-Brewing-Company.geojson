@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94805,
+          40.484547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hop Hill Brewing Company",
+        "address": "5601 Butler Street, Lawrenceville, PA 15201",
+        "url": "http://www.hopfarmbrewingco.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.870473,
+          40.404278
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Brew Gentlemen Beer Co.",
+        "address": "512 Braddock Ave., Braddock, PA 15104",
+        "url": "http://www.brewgentlemen.com/"
+      }
+    }
+  ]
+}

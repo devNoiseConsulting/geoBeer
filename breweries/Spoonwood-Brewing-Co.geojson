@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.014595,
+          40.345463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spoonwood Brewing Co.",
+        "address": " 5981 Baptist Rd., Pittsburgh, PA 15236",
+        "url": "http://spoonwoodbrewing.com/"
+      }
+    }
+  ]
+}

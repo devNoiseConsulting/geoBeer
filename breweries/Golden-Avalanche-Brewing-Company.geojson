@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773177,
+          40.522496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Golden Avalanche Brewing Company",
+        "address": "272 W. Main St., Kutztown, PA 19530",
+        "url": "http://kutztowntavern.com/golden.html"
+      }
+    }
+  ]
+}

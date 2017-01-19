@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.725949,
+          40.916059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Robin Hood Brewing Company",
+        "address": "1796 Zion Rd, Bellefonte, PA 16823",
+        "url": "http://www.robinhoodbrewingco.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.449397,
+          39.732359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "South County Brewing",
+        "address": "104 Mill Street, Fawn Grove, PA 17321",
+        "url": "http://www.southcountybrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.891088,
+          40.271458
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Zeroday Brewing Company",
+        "address": "250 Reily Street, Ste #103, Harrisburg, PA 17102",
+        "url": "http://www.zerodaybrewing.com"
+      }
+    }
+  ]
+}

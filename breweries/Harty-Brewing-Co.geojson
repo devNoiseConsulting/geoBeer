@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.019739,
+          40.237561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Harty Brewing Co.",
+        "address": "146 Walden Way, Mechanicsburg, PA 17050",
+        "url": "http://www.hartybrewco.com/#!home/mainPage"
+      }
+    }
+  ]
+}

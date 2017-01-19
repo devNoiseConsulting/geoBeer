@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.141494,
+          41.886751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Millcreek Brewing Co.",
+        "address": "4102 Westlake Rd., Erie, PA 16505",
+        "url": "http://www.millcreekbrew.com/"
+      }
+    }
+  ]
+}

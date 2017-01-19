@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.484918,
+          40.88871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Elk Creek Café + Aleworks",
+        "address": "100 West Main Street, Millheim, PA 16854",
+        "url": "http://www.elkcreekcafe.net/"
+      }
+    }
+  ]
+}

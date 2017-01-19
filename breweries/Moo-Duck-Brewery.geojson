@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.612611,
+          40.147632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Moo-Duck Brewery",
+        "address": "79 S. Wilson Ave., Elizabethtown, PA 17022",
+        "url": "http://www.mooduckbrewery.com/"
+      }
+    }
+  ]
+}

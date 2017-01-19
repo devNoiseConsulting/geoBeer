@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983091,
+          39.800739
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Something Wicked Brewing",
+        "address": "34 Broadway Hanover, Hanover, PA 17331",
+        "url": "http://www.somethingwickedbrewing.com"
+      }
+    }
+  ]
+}

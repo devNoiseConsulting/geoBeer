@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.759067,
+          40.266099
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Boneshire Brew Works",
+        "address": "7462 Derry St Harrisburg, Pennsylvania",
+        "url": "http://www.boneshire.com/"
+      }
+    }
+  ]
+}

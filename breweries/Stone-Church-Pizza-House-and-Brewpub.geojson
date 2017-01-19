@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.451813,
+          41.225588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Stone Church Pizza House and Brewpub",
+        "address": "600 S. Hermitage Rd, Hermitage, PA 16148",
+        "url": "http://www.stonechurchbrewpub.com/"
+      }
+    }
+  ]
+}

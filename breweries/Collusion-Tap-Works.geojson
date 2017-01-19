@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.725661,
+          39.964763
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Collusion Tap Works",
+        "address": "105 S. Howard St, York, PA 17401",
+        "url": "http://www.collusiontapworks.com"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.127443,
+          40.802778
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Big Rail Brewing",
+        "address": "230 Mercer Street, Harmony, PA 16037",
+        "url": "http://www.berwickbrewing.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.623829,
+          40.575089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Samuel Adams Brewery",
+        "address": "7880 Penn Drive, Breinigsville, PA 18031",
+        "url": "http://samueladams.com"
+      }
+    }
+  ]
+}

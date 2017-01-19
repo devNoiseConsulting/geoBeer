@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.552343,
+          40.278774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "All Saints Brewing Company",
+        "address": "1602 Route 119, Greensburg, PA 15601",
+        "url": "http://allsaintscraftbrewing.com/"
+      }
+    }
+  ]
+}

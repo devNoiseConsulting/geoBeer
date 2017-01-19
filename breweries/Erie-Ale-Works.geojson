@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09022,
+          42.120345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Erie Ale Works",
+        "address": "416 West 12th Street, Erie, PA 16504",
+        "url": "http://eriealeworks.com/"
+      }
+    }
+  ]
+}

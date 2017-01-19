@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.788156,
+          40.30457
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spring Gate Brewery",
+        "address": "5790 Devonshire RD, Harrisburg, PA 17112",
+        "url": "http://springgatebrewery.com/"
+      }
+    }
+  ]
+}

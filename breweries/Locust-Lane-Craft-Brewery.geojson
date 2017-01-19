@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.51381,
+          40.03622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Locust Lane Craft Brewery",
+        "address": "50 Three Tun Road, Suite 4, Malvern, PA 19355",
+        "url": "http://www.locustlanecraftbrewery.com/home"
+      }
+    }
+  ]
+}

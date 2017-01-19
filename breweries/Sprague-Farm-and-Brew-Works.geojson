@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.105849,
+          41.778945
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sprague Farm and Brew Works",
+        "address": "22043 US Hwy 6, Venango, PA 16440",
+        "url": "http://www.sleepingchainsaw.com"
+      }
+    }
+  ]
+}
