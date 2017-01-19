@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.82366,
+          39.900694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Nale House Brewing Co.",
+        "address": "32 N Main St, Medford, NJ 08055",
+        "url": "https://www.facebook.com/nalehousebc/"
+      }
+    }
+  ]
+}

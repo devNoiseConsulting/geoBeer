@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63849,
+          41.03343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Krogh's Restaurant & Brew Pub",
+        "address": "23 White Deer Plaza, Sparta, NJ 07871",
+        "url": "http://www.kroghs.com/"
+      }
+    }
+  ]
+}

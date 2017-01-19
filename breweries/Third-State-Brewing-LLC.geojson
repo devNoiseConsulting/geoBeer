@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.858481,
+          40.078015
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Third State Brewing, LLC.",
+        "address": "352 High Street, Burlington, NJ 08016",
+        "url": "http://www.thirdstatebrewing.com/"
+      }
+    }
+  ]
+}

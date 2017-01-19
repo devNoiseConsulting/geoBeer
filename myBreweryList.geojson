@@ -78,6 +78,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.870339,
+          39.02078
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "7 Mile Brewery, LLC.",
+        "address": "3156 Route 9 South, Rio Grande, NJ 08242",
+        "url": "http://www.7milebrew.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.976899,
           39.790598
         ]
@@ -251,6 +269,24 @@
         "name": "Argilla Brewing At Pietro's Pizza",
         "address": "2667 Kirkwood Hwy, Newark, DE 19711",
         "url": "http://argillabrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.012167,
+          40.219475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Asbury Park Brewery",
+        "address": "810 Sewall Ave, Asbury Park NJ 07712",
+        "url": "http://www.asburyparkbrewery.com/"
       }
     },
     {
@@ -492,6 +528,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.075151,
+          40.353469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Birravino",
+        "address": "183 Riverside Ave, Red Bank, NJ 07701",
+        "url": "http://birravino.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.565834,
           40.568564
         ]
@@ -690,6 +744,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.725069,
+          39.788559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brotherton Brewing Company",
+        "address": "340 Forked Neck Road, Shamong, New Jersey, USA 08088",
+        "url": "http://www.brothertonbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.502996,
           40.111678
         ]
@@ -845,6 +917,24 @@
         "name": "Climax Brewing Co Inc",
         "address": "112 Valley Rd, Roselle Park, NJ 07204-1402",
         "url": "http://www.climaxbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.923538,
+          38.969528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cold Spring Brewery",
+        "address": "720 US 9, Cape May, NJ 08204",
+        "url": "https://hcsv.org/cold-spring-brewery/"
       }
     },
     {
@@ -1050,6 +1140,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.831371,
+          40.854185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Czig Meister Brewery",
+        "address": "106 Valentine Street, Hackettstown, NJ 07840",
+        "url": "http://www.czigmeisterbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.011059,
           40.222503
         ]
@@ -1079,6 +1187,24 @@
         "name": "Demented Brewing Company",
         "address": "600 Lincoln Blvd, Middlesex, NJ 08846",
         "url": "http://www.dementedbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.039662,
+          40.720819
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Departed Soles Brewing Company",
+        "address": "150 Bay St, Suite 2A, Jersey City, NJ 07302",
+        "url": "http://www.departedsoles.com/"
       }
     },
     {
@@ -1446,6 +1572,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.644055,
+          40.490674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Flounder Brewing Company",
+        "address": "1 Ilene Court Bldg 8, Ste 16, Hillsborough, NJ 08844",
+        "url": "http://www.flounderbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.428967,
           39.362807
         ]
@@ -1673,6 +1817,42 @@
         "name": "Harty Brewing Co.",
         "address": "146 Walden Way, Mechanicsburg, PA 17050",
         "url": "http://www.hartybrewco.com/#!home/mainPage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.444219,
+          40.496169
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Harvest Moon Brewery & Cafe",
+        "address": "392 George St., New Brunswick, NJ 08901",
+        "url": "http://www.harvestmoonbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.445403,
+          40.35672
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "HearthStone Grill Brewpub",
+        "address": "306 Gatzmer Avenue, Jamesburg NJ 08831",
+        "url": "http://www.hearthstonegrill.com/"
       }
     },
     {
@@ -2202,6 +2382,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.63849,
+          41.03343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Krogh's Restaurant & Brew Pub",
+        "address": "23 White Deer Plaza, Sparta, NJ 07871",
+        "url": "http://www.kroghs.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.441377,
           40.047654
         ]
@@ -2310,6 +2508,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.024236,
+          40.19664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Little Dog Brewing Company",
+        "address": "141 Steiner Avenue, Neptune City, NJ 07753",
+        "url": "http://www.littledogbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.51381,
           40.03622
         ]
@@ -2321,6 +2537,24 @@
         "name": "Locust Lane Craft Brewery",
         "address": "50 Three Tun Road, Suite 4, Malvern, PA 19355",
         "url": "http://www.locustlanecraftbrewery.com/home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.862944,
+          40.503048
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lone Eagle Brewing Co.",
+        "address": "44 Stangl Rd, Flemington, New Jersey",
+        "url": "http://loneeaglebrewing.com/"
       }
     },
     {
@@ -2357,6 +2591,24 @@
         "name": "Love Brewing Company",
         "address": "1730 Faunce St, Philadelphia, PA 19111",
         "url": "http://lovebrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.823668,
+          39.899115
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lower Forge Brewery",
+        "address": "14 S Main St, Medford, NJ 08055",
+        "url": "http://www.lowerforge.com/"
       }
     },
     {
@@ -2634,6 +2886,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.82366,
+          39.900694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Nale House Brewing Co.",
+        "address": "32 N Main St, Medford, NJ 08055",
+        "url": "https://www.facebook.com/nalehousebc/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.9042307,
           40.085047
         ]
@@ -2663,6 +2933,24 @@
         "name": "Nimble Hill Brewing Company",
         "address": "219 Windswept Lane, Mehoopany, PA 18629",
         "url": "http://nimblehillbrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.035265,
+          40.782844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "NJ Beer Co.",
+        "address": "4201 Tonnelle Avenue, North Bergen, NJ 07047",
+        "url": "http://www.njbeerco.com/"
       }
     },
     {
@@ -3750,6 +4038,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.858481,
+          40.078015
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Third State Brewing, LLC.",
+        "address": "352 High Street, Burlington, NJ 08016",
+        "url": "http://www.thirdstatebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.811398,
           39.638611
         ]
@@ -4157,6 +4463,24 @@
         "name": "Wacker Brewing Co",
         "address": "417 W Grant St, Lancaster, PA 17603",
         "url": "http://wackerbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.274261,
+          40.605873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wet Ticket Brewing, LLC.",
+        "address": "1435 Main St, Rahway, NJ 07065",
+        "url": "https://www.wetticketbrewing.com/"
       }
     },
     {

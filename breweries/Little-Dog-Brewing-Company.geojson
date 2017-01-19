@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.024236,
+          40.19664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Little Dog Brewing Company",
+        "address": "141 Steiner Avenue, Neptune City, NJ 07753",
+        "url": "http://www.littledogbrewing.com/"
+      }
+    }
+  ]
+}

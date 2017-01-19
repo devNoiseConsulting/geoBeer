@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.012167,
+          40.219475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Asbury Park Brewery",
+        "address": "810 Sewall Ave, Asbury Park NJ 07712",
+        "url": "http://www.asburyparkbrewery.com/"
+      }
+    }
+  ]
+}

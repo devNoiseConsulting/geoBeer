@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.039662,
+          40.720819
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Departed Soles Brewing Company",
+        "address": "150 Bay St, Suite 2A, Jersey City, NJ 07302",
+        "url": "http://www.departedsoles.com/"
+      }
+    }
+  ]
+}

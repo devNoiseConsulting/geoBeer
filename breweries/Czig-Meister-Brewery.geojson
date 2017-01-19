@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.831371,
+          40.854185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Czig Meister Brewery",
+        "address": "106 Valentine Street, Hackettstown, NJ 07840",
+        "url": "http://www.czigmeisterbrewing.com/"
+      }
+    }
+  ]
+}

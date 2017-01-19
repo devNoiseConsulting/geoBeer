@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.075151,
+          40.353469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Birravino",
+        "address": "183 Riverside Ave, Red Bank, NJ 07701",
+        "url": "http://birravino.com/"
+      }
+    }
+  ]
+}

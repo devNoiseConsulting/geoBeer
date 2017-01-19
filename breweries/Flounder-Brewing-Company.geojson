@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.644055,
+          40.490674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Flounder Brewing Company",
+        "address": "1 Ilene Court Bldg 8, Ste 16, Hillsborough, NJ 08844",
+        "url": "http://www.flounderbrewing.com/"
+      }
+    }
+  ]
+}

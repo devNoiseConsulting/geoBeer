@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.444219,
+          40.496169
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Harvest Moon Brewery & Cafe",
+        "address": "392 George St., New Brunswick, NJ 08901",
+        "url": "http://www.harvestmoonbrewery.com/"
+      }
+    }
+  ]
+}

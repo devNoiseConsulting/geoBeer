@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.870339,
+          39.02078
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "7 Mile Brewery, LLC.",
+        "address": "3156 Route 9 South, Rio Grande, NJ 08242",
+        "url": "http://www.7milebrew.com/"
+      }
+    }
+  ]
+}

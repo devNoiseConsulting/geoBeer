@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.445403,
+          40.35672
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "HearthStone Grill Brewpub",
+        "address": "306 Gatzmer Avenue, Jamesburg NJ 08831",
+        "url": "http://www.hearthstonegrill.com/"
+      }
+    }
+  ]
+}

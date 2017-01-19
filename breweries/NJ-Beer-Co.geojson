@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.035265,
+          40.782844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "NJ Beer Co.",
+        "address": "4201 Tonnelle Avenue, North Bergen, NJ 07047",
+        "url": "http://www.njbeerco.com/"
+      }
+    }
+  ]
+}
