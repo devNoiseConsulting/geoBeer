@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.098477,
+          38.715281
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Revelation Craft Brewing Company",
+        "address": "19841 Central Street, Rehoboth Beach, DE 19971",
+        "url": "http://www.revbeer.com/"
+      }
+    }
+  ]
+}
