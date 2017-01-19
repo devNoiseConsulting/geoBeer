@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0706957,
+          38.3707343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Assawoman Bay Brewing Co.",
+        "address": "4435 Coastal Highway, Ocean City, MD 21842, USA",
+        "url": "http://www.assawomanbaybrewing.com/"
+      }
+    }
+  ]
+}

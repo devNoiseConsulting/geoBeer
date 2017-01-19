@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.641318,
+          39.331652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Waverly Brewing Company",
+        "address": "1625 Union Ave, Baltimore, MD 21211, USA",
+        "url": "http://waverlybrewingcompany.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8243544,
+          39.2275611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bulk Head Brewing Company",
+        "address": "8980 Old Annapolis Rd, Columbia, MD 21045, USA",
+        "url": "http://www.bulkheadbrewingco.com/"
+      }
+    }
+  ]
+}

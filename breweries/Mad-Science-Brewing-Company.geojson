@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4634411,
+          39.2780438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mad Science Brewing Company",
+        "address": "1619 Buckeystown Pike, Adamstown, MD 21710, USA",
+        "url": "http://www.madsciencebrewing.com/"
+      }
+    }
+  ]
+}

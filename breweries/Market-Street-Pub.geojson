@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8324121,
+          38.8860888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Market Street Pub",
+        "address": "200 Market St, Denton, MD 21629, USA",
+        "url": "http://www.marketstreet.pub/"
+      }
+    }
+  ]
+}

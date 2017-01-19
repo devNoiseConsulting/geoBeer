@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9404479,
+          38.952638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Franklin’s Restaurant, Brewery, & General Store",
+        "address": "5121 Baltimore Avenue, Hyattsville, MD 20781, USA",
+        "url": "http://www.franklinsbrewery.com/"
+      }
+    }
+  ]
+}

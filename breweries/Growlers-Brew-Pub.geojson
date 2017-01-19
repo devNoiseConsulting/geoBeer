@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.193618,
+          39.141983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Growler's Brew Pub",
+        "address": "227 East Diamond Avenue, Gaithersburg, MD 20877, USA",
+        "url": "http://www.growlersrestaurant.com/"
+      }
+    }
+  ]
+}

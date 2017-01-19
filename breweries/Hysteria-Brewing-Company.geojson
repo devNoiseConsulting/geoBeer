@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.844363,
+          39.1731342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hysteria Brewing Company",
+        "address": "9570 Berger Rd, Columbia, MD 21046, USA",
+        "url": "http://www.hysteriabrewing.com/"
+      }
+    }
+  ]
+}

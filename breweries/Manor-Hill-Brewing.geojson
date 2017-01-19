@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.886718,
+          39.250841
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Manor Hill Brewing",
+        "address": "4411 Manor Lane, Ellicott City, MD 21042, USA",
+        "url": "http://manorhillbrewing.com/"
+      }
+    }
+  ]
+}

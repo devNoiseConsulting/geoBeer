@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.391146,
+          39.4092636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Olde Mother Brewing Co.",
+        "address": "911 E Patrick St, Frederick, MD 21701, USA",
+        "url": "https://www.facebook.com/OldeMother/"
+      }
+    }
+  ]
+}

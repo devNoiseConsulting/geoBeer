@@ -78,6 +78,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.1101845,
+          39.0558134
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "7 Locks Brewing",
+        "address": "12227 Wilkins Ave, North Bethesda, MD 20852, USA",
+        "url": "http://www.7locksbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.870339,
           39.02078
         ]
@@ -143,6 +161,24 @@
         "name": "Angry Erik Brewing",
         "address": "10 Millpond Dr, Unit 8, Lafayette, NJ 07848",
         "url": "http://angryerik.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699894,
+          39.633603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Antietam Brewery",
+        "address": "49 Eastern Boulevard North, Hagerstown, MD 21740, USA",
+        "url": "http://www.antietambrewery.com/"
       }
     },
     {
@@ -294,6 +330,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.0706957,
+          38.3707343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Assawoman Bay Brewing Co.",
+        "address": "4435 Coastal Highway, Ocean City, MD 21842, USA",
+        "url": "http://www.assawomanbaybrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.899584,
           39.771575
         ]
@@ -330,6 +384,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.0805256,
+          38.3402733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Backshore Brewing",
+        "address": "913 Atlantic Ave, Ocean City, MD 21842, USA",
+        "url": "http://www.backshorebrew.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.207032,
           39.824307
         ]
@@ -359,6 +431,24 @@
         "name": "Bar Hygge",
         "address": "1720 Fairmount Ave, Philadelphia, PA 19130",
         "url": "http://barhygge.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.399655,
+          39.382016
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barley and Hops Grill & Microbrewery",
+        "address": "Riverview Plaza, 5473 Urbana Pike, Frederick, MD 21704, USA",
+        "url": "http://barleyandhops.net/"
       }
     },
     {
@@ -672,6 +762,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4105232,
+          39.4160744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brewer’s Alley Restaurant & Brewery",
+        "address": "124 North Market Street, Frederick, MD 21701, USA",
+        "url": "http://www.brewers-alley.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.17882,
           39.923938
         ]
@@ -744,6 +852,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0599204,
+          39.2201318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brookeville Beer Farm",
+        "address": "Brookeville Animal Hospital, 22201 Georgia Avenue, Brookeville, MD 20833, USA",
+        "url": "http://brookevillebeerfarm.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.725069,
           39.788559
         ]
@@ -798,6 +924,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.8243544,
+          39.2275611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bulk Head Brewing Company",
+        "address": "8980 Old Annapolis Rd, Columbia, MD 21045, USA",
+        "url": "http://www.bulkheadbrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.895263,
           40.860888
         ]
@@ -809,6 +953,24 @@
         "name": "Butler Brew Works",
         "address": "101 S Main Street, Butler, PA 16001",
         "url": "http://www.butlerbrewworks.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730867,
+          38.886284
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Calvert Brewing Company",
+        "address": "15850 Commerce Ct, Upper Marlboro, MD 20774, USA",
+        "url": "http://www.calvertbrewingcompany.com/"
       }
     },
     {
@@ -881,6 +1043,24 @@
         "name": "Chatty Monks Brewing",
         "address": "610 Penn Ave, West Reading, PA 19611",
         "url": "http://chattymonks.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4974716,
+          38.9780663
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Chesapeake Brewing Company",
+        "address": "114 West St, Annapolis, MD 21401, USA",
+        "url": "http://www.chesbrewco.com/"
       }
     },
     {
@@ -1194,6 +1374,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0274548,
+          38.9887068
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Denizens Brewing Co.",
+        "address": "1115 East-West Highway, Silver Spring, MD 20910, USA",
+        "url": "http://denizensbrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.039662,
           40.720819
         ]
@@ -1374,6 +1572,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.479151,
+          39.3402079
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "DuClaw Brewing Company",
+        "address": "8901 Yellow Brick Rd, Rosedale, MD 21237, USA",
+        "url": "http://www.duclaw.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.1926618,
           40.0591602
         ]
@@ -1511,6 +1727,24 @@
         "name": "Erie Brewing Company",
         "address": "1213 Veshecco Drive, Erie, PA 16501",
         "url": "http://www.eriebrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5959801,
+          38.3623121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Evolution Craft Brewing Co.",
+        "address": "200 Elmwood Street, Salisbury, MD 21804, USA",
+        "url": "http://www.evolutioncraftbrewing.com/"
       }
     },
     {
@@ -1698,6 +1932,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.9404479,
+          38.952638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Franklin’s Restaurant, Brewery, & General Store",
+        "address": "5121 Baltimore Avenue, Hyattsville, MD 20781, USA",
+        "url": "http://www.franklinsbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2901928,
           40.3652063
         ]
@@ -1716,6 +1968,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.202837,
+          39.468591
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Frey's Brewing Company",
+        "address": "8601 Mapleville Rd, Mt Airy, MD 21771, USA",
+        "url": "http://freysbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.595045,
           39.776878
         ]
@@ -1727,6 +1997,24 @@
         "name": "Frozen Toes Brewing",
         "address": "3801 Kennett Pike, Wilmington, DE 19807",
         "url": "https://www.facebook.com/frozentoesbrewing/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610422,
+          39.324338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Full Tilt Brewing Co.",
+        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "url": "http://www.fulltiltbrewing.com/"
       }
     },
     {
@@ -1788,6 +2076,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.1502332,
+          39.0853222
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Gordon Biersch Brewery Restaurant",
+        "address": "Rockville Town Square Plaza, 200 East Middle Lane, Rockville, MD 20850, USA",
+        "url": "http://www.gordonbiersch.com/locations/rockville?action=view"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.9725,
           40.478579
         ]
@@ -1799,6 +2105,24 @@
         "name": "Grist House Brewing",
         "address": "10 Sherman Street, Pennsylvania 15209, PA 15209",
         "url": "http://gristhousebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.193618,
+          39.141983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Growler's Brew Pub",
+        "address": "227 East Diamond Avenue, Gaithersburg, MD 20877, USA",
+        "url": "http://www.growlersrestaurant.com/"
       }
     },
     {
@@ -1853,6 +2177,24 @@
         "name": "HearthStone Grill Brewpub",
         "address": "306 Gatzmer Avenue, Jamesburg NJ 08831",
         "url": "http://www.hearthstonegrill.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6756861,
+          39.2316272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Heavy Seas Beer",
+        "address": "4615 Hollins Ferry Road, Halethorpe, MD 21227, USA",
+        "url": "http://www.hsbeer.com/"
       }
     },
     {
@@ -1997,6 +2339,24 @@
         "name": "Human Village Brewing",
         "address": "148 S Broadway, Pitman, NJ 08071",
         "url": "http://www.humanvillagebrewingco.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.844363,
+          39.1731342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hysteria Brewing Company",
+        "address": "9570 Berger Rd, Columbia, MD 21046, USA",
+        "url": "http://www.hysteriabrewing.com/"
       }
     },
     {
@@ -2274,6 +2634,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.8230123,
+          39.1241125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Jailbreak Brewing Company",
+        "address": "9445 Washington Boulevard North, Laurel, MD 20723, USA",
+        "url": "http://www.jailbreakbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.778123,
           40.857549
         ]
@@ -2303,6 +2681,24 @@
         "name": "JoBoy’s Brew Pub",
         "address": "27-31 E Main St, Lititz, PA 17543",
         "url": "http://www.joboysbrewpub.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9956983,
+          39.5755009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Johansson's Dining House and Restaurant",
+        "address": "4 West Main Street, Westminster, MD 21157, USA",
+        "url": "http://www.johanssonsdininghouse.com/"
       }
     },
     {
@@ -2375,6 +2771,24 @@
         "name": "Kennett Brewing Company",
         "address": " 109 S Broad St #2, Kennett Square, PA 19348 ",
         "url": "http://kennettbrewingcompany.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4627749,
+          39.244513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Key Brewing Company",
+        "address": "2500 Grays Rd, Dundalk, MD 21222, USA",
+        "url": "http://www.keybrewing.com/"
       }
     },
     {
@@ -2670,6 +3084,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.4634411,
+          39.2780438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mad Science Brewing Company",
+        "address": "1619 Buckeystown Pike, Adamstown, MD 21710, USA",
+        "url": "http://www.madsciencebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.317441,
           40.860449
         ]
@@ -2717,6 +3149,42 @@
         "name": "Manayunk Brewery",
         "address": "4120 Main St, Philadelphia, PA 19127",
         "url": "https://www.manayunkbrewery.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.886718,
+          39.250841
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Manor Hill Brewing",
+        "address": "4411 Manor Lane, Ellicott City, MD 21042, USA",
+        "url": "http://manorhillbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8324121,
+          38.8860888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Market Street Pub",
+        "address": "200 Market St, Denton, MD 21629, USA",
+        "url": "http://www.marketstreet.pub/"
       }
     },
     {
@@ -2796,6 +3264,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.225512,
+          39.460262
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Milkhouse Brewery at Stillpoint Farm",
+        "address": "8253 Dollyhyde Road, Mount Airy, MD 21771, USA",
+        "url": "http://stillpointfarming.com/milkhouse_brewery_at_stillpoint_farm/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.141494,
           41.886751
         ]
@@ -2850,6 +3336,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.3991873,
+          39.4403129
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Monocacy Brewing Co.",
+        "address": "1781 North Market Street, Frederick, MD 21701, USA",
+        "url": "http://monocacybrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610422,
+          39.324338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Monument City Brewing Co",
+        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "url": "http://www.monumentcitybrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.612611,
           40.147632
         ]
@@ -2861,6 +3383,24 @@
         "name": "Moo-Duck Brewery",
         "address": "79 S. Wilson Ave., Elizabethtown, PA 17022",
         "url": "http://www.mooduckbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.647938,
+          38.510411
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mully's Brewery",
+        "address": "141 Schooner Lane #15, Prince Frederick, MD 20678, USA",
+        "url": "http://www.mullysbrewery.com/"
       }
     },
     {
@@ -3012,6 +3552,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.0686627,
+          38.3802102
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ocean City Brewing Co.",
+        "address": "5509 Coastal Highway, Ocean City, MD 21842, USA",
+        "url": "http://ocbrewingcompany.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.616961,
           40.96283
         ]
@@ -3030,6 +3588,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.391146,
+          39.4092636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Olde Mother Brewing Co.",
+        "address": "911 E Patrick St, Frederick, MD 21701, USA",
+        "url": "https://www.facebook.com/OldeMother/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.553206,
+          39.314814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Oliver Brewing Co.",
+        "address": "4216 Shannon Dr, Baltimore, MD 21213, USA",
+        "url": "http://www.prattstreetalehouse.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.912061,
           40.810151
         ]
@@ -3041,6 +3635,24 @@
         "name": "Otto’s Pub &amp; Brewery",
         "address": "2235 North Atherton St, State College, PA 16803",
         "url": "http://ottospubandbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610422,
+          39.324338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Peabody Heights Brewery",
+        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "url": "http://peabodyheightsbrewery.com/"
       }
     },
     {
@@ -3120,6 +3732,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.041126,
+          39.555824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "PUB DOG Brewing Company",
+        "address": "1203 New Windsor Road, Westminster, MD 21158, USA",
+        "url": "http://www.pubdog.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8250816,
+          39.1858617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Push American Brewing Co",
+        "address": "6695 Dobbin Road, Columbia, MD 21045, USA",
+        "url": "http://www.friscotaphouse.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.077626,
           38.570767
         ]
@@ -3185,6 +3833,24 @@
         "name": "Red Castle Brewery &amp; Distillery",
         "address": "80 East Bridge Street, Lehighton, PA 18235",
         "url": "http://redcastlebrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1933257,
+          39.4226921
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Red Shedman Farm Brewery",
+        "address": "13601 Glissans Mill Road, Mount Airy, MD 21771, USA",
+        "url": "http://redshedman.com/"
       }
     },
     {
@@ -3318,6 +3984,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.4547156,
+          38.347274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ruddy Duck Brewery",
+        "address": "13200 Dowell Rd, Dowell, MD 20629, USA",
+        "url": "http://www.ruddyduckbrewery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.909889,
+          39.63738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ruhlman Brewery LLC",
+        "address": "2300 Harvey Gummel Road, Hampstead, MD 21074, USA",
+        "url": "http://www.ourales.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.137109,
           40.038907
         ]
@@ -3401,6 +4103,24 @@
         "name": "Saucony Creek Craft Brewery + Gastropub",
         "address": "15032 Kutztown Rd, Kutztown, PA 19530",
         "url": "http://sauconybeer.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6184945,
+          38.6829922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Scorpion Brewing Co.",
+        "address": "929 Skinners Turn Road #100, Owings, MD 20736, USA",
+        "url": "http://www.scorpionbrewing.com/"
       }
     },
     {
@@ -3509,6 +4229,24 @@
         "name": "Sly Fox Brewhouse & Eatery",
         "address": "520 Kimberton Rd, Phoenixville, PA 19460",
         "url": "http://slyfoxbeer.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.630284,
+          39.313844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Smoketown Brewing Station",
+        "address": "223 W Potomac St, Brunswick, MD 21716, USA",
+        "url": "http://www.smoketownbrewing.com/"
       }
     },
     {
@@ -3905,6 +4643,24 @@
         "name": "The Brewerie at Union Station",
         "address": "123 W 14th St, Erie, PA 16501",
         "url": "http://www.brewerie.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6163692,
+          39.3027476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Brewer's Art",
+        "address": "1106 North Charles Street, Baltimore, MD 21201, USA",
+        "url": "http://www.thebrewersart.com/"
       }
     },
     {
@@ -4463,6 +5219,42 @@
         "name": "Wacker Brewing Co",
         "address": "417 W Grant St, Lancaster, PA 17603",
         "url": "http://wackerbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0811271,
+          39.2286938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Waredaca Brewing Company",
+        "address": "4017 Damascus Road, Gaithersburg, MD 20882, USA",
+        "url": "http://www.waredacabrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.641318,
+          39.331652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Waverly Brewing Company",
+        "address": "1625 Union Ave, Baltimore, MD 21211, USA",
+        "url": "http://waverlybrewingcompany.com/"
       }
     },
     {

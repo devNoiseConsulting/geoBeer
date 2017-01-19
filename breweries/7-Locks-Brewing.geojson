@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1101845,
+          39.0558134
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "7 Locks Brewing",
+        "address": "12227 Wilkins Ave, North Bethesda, MD 20852, USA",
+        "url": "http://www.7locksbrewing.com/"
+      }
+    }
+  ]
+}

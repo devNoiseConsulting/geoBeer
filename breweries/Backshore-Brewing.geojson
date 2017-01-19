@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0805256,
+          38.3402733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Backshore Brewing",
+        "address": "913 Atlantic Ave, Ocean City, MD 21842, USA",
+        "url": "http://www.backshorebrew.com/"
+      }
+    }
+  ]
+}

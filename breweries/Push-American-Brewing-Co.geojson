@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8250816,
+          39.1858617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Push American Brewing Co",
+        "address": "6695 Dobbin Road, Columbia, MD 21045, USA",
+        "url": "http://www.friscotaphouse.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041126,
+          39.555824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "PUB DOG Brewing Company",
+        "address": "1203 New Windsor Road, Westminster, MD 21158, USA",
+        "url": "http://www.pubdog.com/"
+      }
+    }
+  ]
+}

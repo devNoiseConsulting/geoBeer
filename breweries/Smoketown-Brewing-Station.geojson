@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.630284,
+          39.313844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Smoketown Brewing Station",
+        "address": "223 W Potomac St, Brunswick, MD 21716, USA",
+        "url": "http://www.smoketownbrewing.com/"
+      }
+    }
+  ]
+}

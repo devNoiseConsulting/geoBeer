@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0686627,
+          38.3802102
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ocean City Brewing Co.",
+        "address": "5509 Coastal Highway, Ocean City, MD 21842, USA",
+        "url": "http://ocbrewingcompany.com/"
+      }
+    }
+  ]
+}

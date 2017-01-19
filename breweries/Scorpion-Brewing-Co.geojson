@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6184945,
+          38.6829922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Scorpion Brewing Co.",
+        "address": "929 Skinners Turn Road #100, Owings, MD 20736, USA",
+        "url": "http://www.scorpionbrewing.com/"
+      }
+    }
+  ]
+}

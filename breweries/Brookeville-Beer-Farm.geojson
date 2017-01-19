@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0599204,
+          39.2201318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brookeville Beer Farm",
+        "address": "Brookeville Animal Hospital, 22201 Georgia Avenue, Brookeville, MD 20833, USA",
+        "url": "http://brookevillebeerfarm.com/"
+      }
+    }
+  ]
+}

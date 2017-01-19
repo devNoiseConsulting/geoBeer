@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.699894,
+          39.633603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Antietam Brewery",
+        "address": "49 Eastern Boulevard North, Hagerstown, MD 21740, USA",
+        "url": "http://www.antietambrewery.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6163692,
+          39.3027476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Brewer's Art",
+        "address": "1106 North Charles Street, Baltimore, MD 21201, USA",
+        "url": "http://www.thebrewersart.com/"
+      }
+    }
+  ]
+}

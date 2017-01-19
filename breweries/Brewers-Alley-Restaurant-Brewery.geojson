@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4105232,
+          39.4160744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brewer’s Alley Restaurant & Brewery",
+        "address": "124 North Market Street, Frederick, MD 21701, USA",
+        "url": "http://www.brewers-alley.com/"
+      }
+    }
+  ]
+}

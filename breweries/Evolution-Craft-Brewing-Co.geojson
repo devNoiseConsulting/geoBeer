@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5959801,
+          38.3623121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Evolution Craft Brewing Co.",
+        "address": "200 Elmwood Street, Salisbury, MD 21804, USA",
+        "url": "http://www.evolutioncraftbrewing.com/"
+      }
+    }
+  ]
+}

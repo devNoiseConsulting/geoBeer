@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0274548,
+          38.9887068
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Denizens Brewing Co.",
+        "address": "1115 East-West Highway, Silver Spring, MD 20910, USA",
+        "url": "http://denizensbrewingco.com/"
+      }
+    }
+  ]
+}

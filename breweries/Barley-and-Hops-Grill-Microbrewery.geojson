@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.399655,
+          39.382016
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barley and Hops Grill & Microbrewery",
+        "address": "Riverview Plaza, 5473 Urbana Pike, Frederick, MD 21704, USA",
+        "url": "http://barleyandhops.net/"
+      }
+    }
+  ]
+}

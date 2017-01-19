@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610422,
+          39.324338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Peabody Heights Brewery",
+        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "url": "http://peabodyheightsbrewery.com/"
+      }
+    }
+  ]
+}

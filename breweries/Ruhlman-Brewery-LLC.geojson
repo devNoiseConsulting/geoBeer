@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.909889,
+          39.63738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ruhlman Brewery LLC",
+        "address": "2300 Harvey Gummel Road, Hampstead, MD 21074, USA",
+        "url": "http://www.ourales.com/"
+      }
+    }
+  ]
+}

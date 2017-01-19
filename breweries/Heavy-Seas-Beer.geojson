@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6756861,
+          39.2316272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Heavy Seas Beer",
+        "address": "4615 Hollins Ferry Road, Halethorpe, MD 21227, USA",
+        "url": "http://www.hsbeer.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1933257,
+          39.4226921
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Red Shedman Farm Brewery",
+        "address": "13601 Glissans Mill Road, Mount Airy, MD 21771, USA",
+        "url": "http://redshedman.com/"
+      }
+    }
+  ]
+}

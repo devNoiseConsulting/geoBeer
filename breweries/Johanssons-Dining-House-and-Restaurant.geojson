@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9956983,
+          39.5755009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Johansson's Dining House and Restaurant",
+        "address": "4 West Main Street, Westminster, MD 21157, USA",
+        "url": "http://www.johanssonsdininghouse.com/"
+      }
+    }
+  ]
+}

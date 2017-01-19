@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0811271,
+          39.2286938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Waredaca Brewing Company",
+        "address": "4017 Damascus Road, Gaithersburg, MD 20882, USA",
+        "url": "http://www.waredacabrewing.com/"
+      }
+    }
+  ]
+}

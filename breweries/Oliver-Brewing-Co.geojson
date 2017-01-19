@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.553206,
+          39.314814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Oliver Brewing Co.",
+        "address": "4216 Shannon Dr, Baltimore, MD 21213, USA",
+        "url": "http://www.prattstreetalehouse.com/"
+      }
+    }
+  ]
+}
