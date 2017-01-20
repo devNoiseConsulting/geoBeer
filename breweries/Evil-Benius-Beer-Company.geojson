@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.200458,
-          40.013723
+          -75.13382,
+          39.975857
         ]
       },
       "properties": {
         "marker-symbol": "cross",
         "marker-color": "#FF8C00",
         "marker-size": "small",
-        "name": "Wissahickon Brewing Co.",
-        "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
-        "url": "http://www.wissahickonbrew.com/"
+        "name": "Evil Benius Beer Company",
+        "address": "1731-1733 N. Front Street, Philadelphia, PA 19122, USA",
+        "url": "http://www.evilgeniusbeer.com/"
       }
     }
   ]

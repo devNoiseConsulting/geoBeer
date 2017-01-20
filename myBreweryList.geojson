@@ -24,6 +24,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.173031,
+          39.926384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
+        "marker-size": "small",
+        "name": "2nd District Brewing",
+        "address": "1939 S Bancroft Street, Philadelphia, PA 19145",
+        "url": "https://www.facebook.com/2ndDistrictBrewing/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.1457558,
           39.9484457
         ]
@@ -1734,6 +1752,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.13382,
+          39.975857
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
+        "marker-size": "small",
+        "name": "Evil Benius Beer Company",
+        "address": "1731-1733 N. Front Street, Philadelphia, PA 19122, USA",
+        "url": "http://www.evilgeniusbeer.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.5959801,
           38.3623121
         ]
@@ -1799,6 +1835,24 @@
         "name": "Fetish Brewing",
         "address": "325 Ice Ave, Lancaster, PA 17602",
         "url": "http://fetishbrewing.tumblr.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.134018,
+          39.967708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
+        "marker-size": "small",
+        "name": "Fishtown Brewpub",
+        "address": "1101 Frankford Ave., Philadelphia, PA 19125",
+        "url": "https://www.facebook.com/Fishtown-Brewpub-1532488227059968/"
       }
     },
     {
@@ -2069,6 +2123,24 @@
         "name": "Golden Avalanche Brewing Company",
         "address": "272 W. Main St., Kutztown, PA 19530",
         "url": "http://kutztowntavern.com/golden.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.135429,
+          39.965141
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
+        "marker-size": "small",
+        "name": "Goose Island",
+        "address": "33 E. Laurel Street, Philadelphia, PA 19123",
+        "url": "http://www.gooseisland.com/"
       }
     },
     {
@@ -3989,8 +4061,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
         "marker-size": "small",
         "name": "Roy-Pitz Barrel House",
         "address": "990 Spring Garden St, Philadelphia, PA 19123",
@@ -5118,6 +5190,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.139934,
+          39.966561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
+        "marker-size": "small",
+        "name": "Urban Village Brewing Company",
+        "address": "1001 N. 2nd Street, Philadelphia, PA",
+        "url": "http://urbanvillagebrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.8407001,
           40.2423451
         ]
@@ -5321,8 +5411,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
-        "marker-color": "#607D8B",
+        "marker-symbol": "cross",
+        "marker-color": "#FF8C00",
         "marker-size": "small",
         "name": "Wissahickon Brewing Co.",
         "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",

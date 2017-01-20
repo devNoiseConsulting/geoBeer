@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.200458,
-          40.013723
+          -75.134018,
+          39.967708
         ]
       },
       "properties": {
         "marker-symbol": "cross",
         "marker-color": "#FF8C00",
         "marker-size": "small",
-        "name": "Wissahickon Brewing Co.",
-        "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
-        "url": "http://www.wissahickonbrew.com/"
+        "name": "Fishtown Brewpub",
+        "address": "1101 Frankford Ave., Philadelphia, PA 19125",
+        "url": "https://www.facebook.com/Fishtown-Brewpub-1532488227059968/"
       }
     }
   ]

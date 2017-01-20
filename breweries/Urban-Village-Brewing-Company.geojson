@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.200458,
-          40.013723
+          -75.139934,
+          39.966561
         ]
       },
       "properties": {
         "marker-symbol": "cross",
         "marker-color": "#FF8C00",
         "marker-size": "small",
-        "name": "Wissahickon Brewing Co.",
-        "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
-        "url": "http://www.wissahickonbrew.com/"
+        "name": "Urban Village Brewing Company",
+        "address": "1001 N. 2nd Street, Philadelphia, PA",
+        "url": "http://urbanvillagebrewing.com/"
       }
     }
   ]
