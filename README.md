@@ -13,6 +13,8 @@ The marker-color and marker-size properties are used to indicate the visitation 
 |visited|blue|#0047AB|large|
 |visiting soon|green|#009688|medium|
 |to be visited|gray|#607D8B|small|
+|not yet open|DarkOrange|#FF8C00|small|
+
 
 A couple of javascript files are available to assist in creating and merging breweries.
 
