@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "restaurant",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "McKenzie Brew House (Chadds Ford)",
         "address": "451 Wilmington-West Chester Pike | Glen Mills, PA 19342",
         "url": "http://mckenziebrewhouse.com/chaddsford/",
@@ -31,8 +31,8 @@
       },
       "properties": {
         "marker-symbol": "restaurant",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "McKenzie Brew House (Devon)",
         "address": "324 Swedesford Rd, Berwyn, PA 19312",
         "url": "http://mckenziebrewhouse.com/devon/",
@@ -50,8 +50,8 @@
       },
       "properties": {
         "marker-symbol": "restaurant",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "McKenzie Brew House (Malvern)",
         "address": "240 Lancaster Ave, Malvern, PA 19355",
         "url": "http://mckenziebrewhouse.com/malvern/",

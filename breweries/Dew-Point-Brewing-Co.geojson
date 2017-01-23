@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Dew Point Brewing Co.",
         "address": "2878 Creek Rd, Yorklyn, DE 19736",
         "url": "http://www.DewPointBrewing.com/",

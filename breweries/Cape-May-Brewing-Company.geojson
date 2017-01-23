@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Cape May Brewing Company",
         "address": "1288 Hornet Rd, Cape May, NJ 08204",
         "url": "http://capemaybrewery.com",

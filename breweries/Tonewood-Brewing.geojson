@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Tonewood Brewing",
         "address": "215 W Clinton Ave, Oaklyn, NJ 08107",
         "url": "http://www.tonewoodbrewing.com/",

@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Wynkoop Brewing Company",
         "address": "1634 18th St. Denver, Colorado, 80202",
         "url": "http://www.wynkoop.com/",

@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Stickman Brews",
         "address": "326 N Lewis Rd #240, Royersford, PA 19468",
         "url": "http://stickmanbrews.com",

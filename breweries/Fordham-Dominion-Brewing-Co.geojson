@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "medium",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Fordham & Dominion Brewing Co.",
         "address": "1284 McD Dr, Dover, DE 19901",
         "url": "http://olddominion.com",

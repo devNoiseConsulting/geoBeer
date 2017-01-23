@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Victory Brewing Co.",
         "address": "420 Acorn Ln, Downingtown, PA 19335",
         "url": "http://victorybeer.com",
@@ -31,8 +31,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Victory Brewing Co.",
         "address": "650 W Cypress St, Kennett Square, PA 19348",
         "url": "http://victorybeer.com",
@@ -50,8 +50,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Victory Brewing Co.",
         "address": "3127 Lower Valley Rd, Parkesburg, PA 19365",
         "url": "http://victorybeer.com",

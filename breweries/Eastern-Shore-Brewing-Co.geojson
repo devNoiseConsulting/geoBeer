@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Eastern Shore Brewing Co",
         "address": "605 S Talbot St, Saint Michaels, MD",
         "url": "http://www.easternshorebrewing.com/",

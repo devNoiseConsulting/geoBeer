@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Flying Fish Brewing",
         "address": "900 Kennedy Blvd, Somerdale, NJ 08083",
         "url": "http://flyingfish.com",

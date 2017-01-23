@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Appalachian Brewing Co. (Harrisburg)",
         "address": "50 North Cameron Street Harrisburg, PA 17101",
         "url": "http://abcbrew.com/brewpubs/harrisburg/",
@@ -69,8 +69,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Appalachian Brewing Co. (Collegeville)",
         "address": "50 W 3rd Ave, Collegeville, PA 19426",
         "url": "http://abcbrew.com/brewpubs/collegeville-2/",

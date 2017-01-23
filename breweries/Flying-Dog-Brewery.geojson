@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Flying Dog Brewery",
         "address": "4607 Wedgewood Blvd, Frederick, MD 21703",
         "url": "http://flyingdogbrewery.com",

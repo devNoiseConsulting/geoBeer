@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
         "url": "http://dogfish.com",
@@ -31,8 +31,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#009688",
-        "marker-size": "medium",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Dogfish Head Brewings & Eats",
         "address": "320 Rehoboth Ave, Rehoboth Beach, DE 19971",
         "url": "http://dogfish.com",

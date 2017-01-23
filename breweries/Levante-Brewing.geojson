@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Levante Brewing",
         "address": "208 Carter Dr Suite 2, West Chester, PA 19382",
         "url": "http://levantebrewing.com",

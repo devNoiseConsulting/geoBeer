@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Station 26 Brewing Co",
         "address": "7045 East 38th Ave, Denver, Colorado 80207",
         "url": "http://www.station26brewing.co/",

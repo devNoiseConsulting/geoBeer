@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Round Guys Brewing Company",
         "address": "324 W Main St Entrance on, S Wood St, Lansdale, PA 19446",
         "url": "http://roundguysbrewery.com",

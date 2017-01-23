@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Conshohocken Brewing",
         "address": "Suite B, 739 E Elm St, Conshohocken, PA 19428",
         "url": "http://conshohockenbrewing.com",
@@ -31,8 +31,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Conshohocken Brewing",
         "address": "3 DeKalb St. Bridgeport, PA 19405",
         "url": "http://conshohockenbrewing.com",

@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Tröegs Brewing Company",
         "address": "200 East Hershey Park Drive, Hershey, PA 17033",
         "url": "http://troegs.com",
