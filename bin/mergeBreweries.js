@@ -70,6 +70,6 @@ function mergeAll(dirName) {
       "features": breweries
     };
 
-    writeBreweryMerge('myBreweryList.geojson', allBreweries);
+    writeBreweryMerge('breweryList.geojson', allBreweries);
   }
 }
