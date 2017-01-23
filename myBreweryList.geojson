@@ -4038,6 +4038,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.393878,
+          40.087779
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rock Bottom Restaurant & Brewery",
+        "address": "1001 King of Prussia Plz., King of Prussia, PA 19406",
+        "url": "http://www.rockbottom.com/locations/king-of-prussia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.289919,
           40.243531
         ]
