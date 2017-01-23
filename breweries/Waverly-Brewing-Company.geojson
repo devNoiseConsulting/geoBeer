@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Waverly Brewing Company",
         "address": "1625 Union Ave, Baltimore, MD 21211, USA",
-        "url": "http://waverlybrewingcompany.com/"
+        "url": "http://waverlybrewingcompany.com/",
+        "geoBeerId": "e58ac635-5e91-4cd9-8a8f-ccacba761c5f"
       }
     }
   ]

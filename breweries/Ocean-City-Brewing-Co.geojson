@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Ocean City Brewing Co.",
         "address": "5509 Coastal Highway, Ocean City, MD 21842, USA",
-        "url": "http://ocbrewingcompany.com/"
+        "url": "http://ocbrewingcompany.com/",
+        "geoBeerId": "8dac2fe9-fee4-41bf-86bb-d72c315426f6"
       }
     }
   ]

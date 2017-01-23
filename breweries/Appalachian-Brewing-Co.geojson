@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Appalachian Brewing Co. (Harrisburg)",
         "address": "50 North Cameron Street Harrisburg, PA 17101",
-        "url": "http://abcbrew.com/brewpubs/harrisburg/"
+        "url": "http://abcbrew.com/brewpubs/harrisburg/",
+        "geoBeerId": "4ace00c9-fd5f-4961-abf5-a11d3cd390eb"
       }
     },
     {
@@ -34,7 +35,8 @@
         "marker-size": "small",
         "name": "Appalachian Brewing Co. (Gettysburg Gateway)",
         "address": "70 Presidential Circle, Gettysburg, PA 17325",
-        "url": "http://abcbrew.com/brewpubs/gettysburg-gateway/"
+        "url": "http://abcbrew.com/brewpubs/gettysburg-gateway/",
+        "geoBeerId": "b3a05469-6154-4313-9068-6aec79361aa9"
       }
     },
     {
@@ -52,7 +54,8 @@
         "marker-size": "small",
         "name": "Appalachian Brewing Co. (Gettysburg Battlefield)",
         "address": "259 Steinwehr Avenue, Gettysburg, PA 17325",
-        "url": "http://abcbrew.com/brewpubs/camp-hill/"
+        "url": "http://abcbrew.com/brewpubs/camp-hill/",
+        "geoBeerId": "ba5bed6d-13ba-4a10-9cdb-c8fa496decb2"
       }
     },
     {
@@ -70,7 +73,8 @@
         "marker-size": "large",
         "name": "Appalachian Brewing Co. (Collegeville)",
         "address": "50 W 3rd Ave, Collegeville, PA 19426",
-        "url": "http://abcbrew.com/brewpubs/collegeville-2/"
+        "url": "http://abcbrew.com/brewpubs/collegeville-2/",
+        "geoBeerId": "a13e870d-da3e-4e68-a414-ff9ca1783563"
       }
     },
     {
@@ -88,7 +92,8 @@
         "marker-size": "small",
         "name": "Appalachian Brewing Co. (Lititz)",
         "address": "55 N. Water Street Lititz, PA 17543",
-        "url": "http://abcbrew.com/brewpubs/lititz-3/"
+        "url": "http://abcbrew.com/brewpubs/lititz-3/",
+        "geoBeerId": "42b7b6d3-e9d9-4cce-849c-55eca8f15928"
       }
     },
     {
@@ -106,7 +111,8 @@
         "marker-size": "small",
         "name": "Appalachian Brewing Co. (Mechanicsburg)",
         "address": "6462 Carlisle Pike, Mechanicsburg, PA 17050",
-        "url": "http://abcbrew.com/brewpubs/mechanicsburg/"
+        "url": "http://abcbrew.com/brewpubs/mechanicsburg/",
+        "geoBeerId": "bb354418-85b8-480d-b6ae-cc9a25106cb9"
       }
     }
   ]

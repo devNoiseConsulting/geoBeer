@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Rusty Rail Brewing Co",
         "address": "5 North Eighth Street, Suite 1, Mifflinburg, PA 17844",
-        "url": "http://www.rustyrailbrewing.com/"
+        "url": "http://www.rustyrailbrewing.com/",
+        "geoBeerId": "3b1531ef-86b3-45f0-ba24-075b36392ce9"
       }
     }
   ]

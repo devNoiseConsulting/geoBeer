@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Union Craft Brewing",
         "address": "1700 Union Ave, Ste D, Baltimore, Maryland",
-        "url": "http://www.unioncraftbrewing.com/"
+        "url": "http://www.unioncraftbrewing.com/",
+        "geoBeerId": "b9a00199-e281-49b2-b4c6-891c6f559b21"
       }
     }
   ]

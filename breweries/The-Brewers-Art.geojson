@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Brewer's Art",
         "address": "1106 North Charles Street, Baltimore, MD 21201, USA",
-        "url": "http://www.thebrewersart.com/"
+        "url": "http://www.thebrewersart.com/",
+        "geoBeerId": "82d81228-5a5b-4387-bef8-1f4fcb34f8b7"
       }
     }
   ]

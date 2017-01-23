@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Stone Church Pizza House and Brewpub",
         "address": "600 S. Hermitage Rd, Hermitage, PA 16148",
-        "url": "http://www.stonechurchbrewpub.com/"
+        "url": "http://www.stonechurchbrewpub.com/",
+        "geoBeerId": "2cfd95d6-5d20-4fa4-9ee4-a19ec7846a14"
       }
     }
   ]

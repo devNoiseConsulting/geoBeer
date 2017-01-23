@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "JoBoy’s Brew Pub",
         "address": "27-31 E Main St, Lititz, PA 17543",
-        "url": "http://www.joboysbrewpub.com/"
+        "url": "http://www.joboysbrewpub.com/",
+        "geoBeerId": "d73ee0e5-48b0-4b15-befc-998455b4291d"
       }
     }
   ]

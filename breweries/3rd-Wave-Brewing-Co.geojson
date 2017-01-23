@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "3rd Wave Brewing Co.",
         "address": "501 N Bi State Blvd, Delmar, DE 19940",
-        "url": "http://3rdwavebrewingco.com/"
+        "url": "http://3rdwavebrewingco.com/",
+        "geoBeerId": "ba0ae773-b41e-405f-9058-057996ba421b"
       }
     }
   ]

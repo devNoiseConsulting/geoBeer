@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Glasstown Brewing Company",
         "address": "10 Peterson Street, Millville, NJ 08332",
-        "url": "http://www.glasstownbrewingcompany.com/"
+        "url": "http://www.glasstownbrewingcompany.com/",
+        "geoBeerId": "530aea12-5fb1-4c7b-ba4c-e487c5954235"
       }
     }
   ]

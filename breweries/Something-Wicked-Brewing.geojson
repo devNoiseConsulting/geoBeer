@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Something Wicked Brewing",
         "address": "34 Broadway Hanover, Hanover, PA 17331",
-        "url": "http://www.somethingwickedbrewing.com"
+        "url": "http://www.somethingwickedbrewing.com",
+        "geoBeerId": "d9e41c87-0889-48e4-a01f-e9a9f81110f5"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Ship Bottom Brewery",
         "address": "830 North Bay Avenue Store 23, Beach Haven, NJ 08008",
-        "url": "http://shipbottombrewery.com/"
+        "url": "http://shipbottombrewery.com/",
+        "geoBeerId": "cfb57281-445b-43d0-a8e7-4caa4fafeddc"
       }
     }
   ]

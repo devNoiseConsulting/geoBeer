@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Covered Bridge Brewhaus",
         "address": "15 Campbell Road, Catawissa, PA 17820",
-        "url": "https://www.facebook.com/cbbhaus"
+        "url": "https://www.facebook.com/cbbhaus",
+        "geoBeerId": "c1d268b7-17e8-4319-bc43-7fb90ac45c33"
       }
     }
   ]

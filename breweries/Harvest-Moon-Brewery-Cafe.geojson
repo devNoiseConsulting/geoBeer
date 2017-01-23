@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Harvest Moon Brewery & Cafe",
         "address": "392 George St., New Brunswick, NJ 08901",
-        "url": "http://www.harvestmoonbrewery.com/"
+        "url": "http://www.harvestmoonbrewery.com/",
+        "geoBeerId": "5c126dd8-8d7c-4ab9-92ef-0ea59f899d05"
       }
     }
   ]

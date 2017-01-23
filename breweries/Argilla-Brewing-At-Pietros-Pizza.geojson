@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Argilla Brewing At Pietro's Pizza",
         "address": "2667 Kirkwood Hwy, Newark, DE 19711",
-        "url": "http://argillabrewing.com"
+        "url": "http://argillabrewing.com",
+        "geoBeerId": "28a2cf76-a70b-47b5-9a70-d4ba6495e641"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Eastern Shore Brewing Co",
         "address": "605 S Talbot St, Saint Michaels, MD",
-        "url": "http://www.easternshorebrewing.com/"
+        "url": "http://www.easternshorebrewing.com/",
+        "geoBeerId": "d910862a-7b63-4ebe-a6af-9243befbcecd"
       }
     }
   ]

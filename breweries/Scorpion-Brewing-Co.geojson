@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Scorpion Brewing Co.",
         "address": "929 Skinners Turn Road #100, Owings, MD 20736, USA",
-        "url": "http://www.scorpionbrewing.com/"
+        "url": "http://www.scorpionbrewing.com/",
+        "geoBeerId": "296b7ea3-edf8-46e1-a7cc-4c2fb80ca291"
       }
     }
   ]

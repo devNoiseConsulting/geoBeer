@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Oliver Brewing Co.",
         "address": "4216 Shannon Dr, Baltimore, MD 21213, USA",
-        "url": "http://www.prattstreetalehouse.com/"
+        "url": "http://www.prattstreetalehouse.com/",
+        "geoBeerId": "fcf3ddae-a0cb-4eea-b50e-7e6d5cab347b"
       }
     }
   ]

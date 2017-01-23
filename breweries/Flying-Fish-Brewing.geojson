@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Flying Fish Brewing",
         "address": "900 Kennedy Blvd, Somerdale, NJ 08083",
-        "url": "http://flyingfish.com"
+        "url": "http://flyingfish.com",
+        "geoBeerId": "70d5b377-5fda-4c0c-872e-7ef63dbb332c"
       }
     }
   ]

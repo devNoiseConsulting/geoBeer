@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "South County Brewery",
         "address": "104 Mill St, Fawn Grove, PA 17321",
-        "url": "https://www.facebook.com/southcountybrewingco"
+        "url": "https://www.facebook.com/southcountybrewingco",
+        "geoBeerId": "b17c35f6-6696-463e-a049-c85f498aac42"
       }
     }
   ]

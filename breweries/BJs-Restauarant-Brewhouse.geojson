@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "BJ’s Restauarant & Brewhouse",
         "address": "665 N Krocks Rd, Allentown, PA 18106",
-        "url": "https://www.bjsrestaurants.com/"
+        "url": "https://www.bjsrestaurants.com/",
+        "geoBeerId": "cbc1c722-bd56-4220-920d-0bd5e34760cc"
       }
     }
   ]

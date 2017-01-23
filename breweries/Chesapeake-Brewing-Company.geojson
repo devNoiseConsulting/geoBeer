@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Chesapeake Brewing Company",
         "address": "114 West St, Annapolis, MD 21401, USA",
-        "url": "http://www.chesbrewco.com/"
+        "url": "http://www.chesbrewco.com/",
+        "geoBeerId": "003878ee-252c-47db-9e37-c406e9d7eb06"
       }
     }
   ]

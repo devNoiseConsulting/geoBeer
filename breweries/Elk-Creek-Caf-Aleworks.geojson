@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Elk Creek Café + Aleworks",
         "address": "100 West Main Street, Millheim, PA 16854",
-        "url": "http://www.elkcreekcafe.net/"
+        "url": "http://www.elkcreekcafe.net/",
+        "geoBeerId": "583e3103-fbd6-4afa-89d6-844c8df97d57"
       }
     }
   ]

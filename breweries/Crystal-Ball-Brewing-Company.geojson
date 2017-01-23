@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Crystal Ball Brewing Company",
         "address": "1612 W King Street, York, PA 17404",
-        "url": "http://www.crystalballbrewing.com/"
+        "url": "http://www.crystalballbrewing.com/",
+        "geoBeerId": "2ec843c5-4000-4e0c-9009-f50cd47f126a"
       }
     }
   ]

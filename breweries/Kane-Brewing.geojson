@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Kane Brewing",
         "address": "1750 Bloomsbury Ave, Ocean, NJ 07712",
-        "url": "http://www.kanebrewing.com/"
+        "url": "http://www.kanebrewing.com/",
+        "geoBeerId": "b3a71cd7-dc96-4d3d-aa73-368217fe491a"
       }
     }
   ]

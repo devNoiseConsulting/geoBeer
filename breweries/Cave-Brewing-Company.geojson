@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Cave Brewing Company",
         "address": "1407 Seidersville Rd, Bethlehem, PA 18015",
-        "url": "http://www.cavebrewing.com/"
+        "url": "http://www.cavebrewing.com/",
+        "geoBeerId": "606865ba-8b84-496a-88b8-e5e6dd981131"
       }
     }
   ]

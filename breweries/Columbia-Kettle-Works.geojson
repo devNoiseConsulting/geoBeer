@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Columbia Kettle Works",
         "address": "40 North 3rd Street, Columbia, PA 17512",
-        "url": "http://www.columbiakettleworks.com"
+        "url": "http://www.columbiakettleworks.com",
+        "geoBeerId": "f795ff7b-4f3d-4103-a054-34b2f6d4c06c"
       }
     }
   ]

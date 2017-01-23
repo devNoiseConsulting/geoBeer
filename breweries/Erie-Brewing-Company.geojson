@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Erie Brewing Company",
         "address": "1213 Veshecco Drive, Erie, PA 16501",
-        "url": "http://www.eriebrewingco.com/"
+        "url": "http://www.eriebrewingco.com/",
+        "geoBeerId": "fcfa1896-aa8e-4139-87e5-69dfe2f7149f"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Wissahickon Brewing Co.",
         "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
-        "url": "http://www.wissahickonbrew.com/"
+        "url": "http://www.wissahickonbrew.com/",
+        "geoBeerId": "36d7a9a9-c8fb-4040-8f04-dee84a3bb468"
       }
     }
   ]

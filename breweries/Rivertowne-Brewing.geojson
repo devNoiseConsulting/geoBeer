@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Rivertowne Brewing",
         "address": "5578 Old William Penn Hwy, Export, PA 15632",
-        "url": "http://www.myrivertowne.com/brewing/index.asp"
+        "url": "http://www.myrivertowne.com/brewing/index.asp",
+        "geoBeerId": "2de65b5e-4fd7-4e81-8b87-b0cb1f5db649"
       }
     }
   ]

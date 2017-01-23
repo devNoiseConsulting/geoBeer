@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Olde Mother Brewing Co.",
         "address": "911 E Patrick St, Frederick, MD 21701, USA",
-        "url": "https://www.facebook.com/OldeMother/"
+        "url": "https://www.facebook.com/OldeMother/",
+        "geoBeerId": "c7b6fcbb-d01d-410c-8bc3-4e7824437d1e"
       }
     }
   ]

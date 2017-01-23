@@ -16,7 +16,8 @@
         "marker-size": "medium",
         "name": "Eight & Sand Beer Co",
         "address": "1003 N Evergreen Ave, Woodbury, NJ 08096",
-        "url": "http://www.eightandsandbeer.com/"
+        "url": "http://www.eightandsandbeer.com/",
+        "geoBeerId": "f8000195-eb53-4079-8a0c-c42712fb70a0"
       }
     }
   ]

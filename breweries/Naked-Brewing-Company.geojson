@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Naked Brewing Company",
         "address": "51 Buck Rd, Huntingdon Valley, PA 19006",
-        "url": "http://nakedbrewingcompany.com"
+        "url": "http://nakedbrewingcompany.com",
+        "geoBeerId": "f043c804-a8f5-4dfd-8351-937e183faad7"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Brewerie at Union Station",
         "address": "123 W 14th St, Erie, PA 16501",
-        "url": "http://www.brewerie.com/"
+        "url": "http://www.brewerie.com/",
+        "geoBeerId": "17558268-21a1-48ed-9fe4-49affa056e80"
       }
     }
   ]

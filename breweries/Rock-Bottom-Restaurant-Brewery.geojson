@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Rock Bottom Restaurant & Brewery",
         "address": "1001 King of Prussia Plz., King of Prussia, PA 19406",
-        "url": "http://www.rockbottom.com/locations/king-of-prussia"
+        "url": "http://www.rockbottom.com/locations/king-of-prussia",
+        "geoBeerId": "cb41e9e9-c684-4a98-a501-2a056e07ed67"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Cold Spring Brewery",
         "address": "720 US 9, Cape May, NJ 08204",
-        "url": "https://hcsv.org/cold-spring-brewery/"
+        "url": "https://hcsv.org/cold-spring-brewery/",
+        "geoBeerId": "2e0d3236-5e94-498c-9fd9-9713a13844ac"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hitchhiker Brewing Co.",
         "address": "190 Castle Shannon Blvd., Pittsburgh, PA 15228",
-        "url": "http://www.hitchhikerbrewing.com/"
+        "url": "http://www.hitchhikerbrewing.com/",
+        "geoBeerId": "230668c6-ee45-46a9-b268-fa40917086ee"
       }
     }
   ]

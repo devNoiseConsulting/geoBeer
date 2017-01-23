@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Harty Brewing Co.",
         "address": "146 Walden Way, Mechanicsburg, PA 17050",
-        "url": "http://www.hartybrewco.com/#!home/mainPage"
+        "url": "http://www.hartybrewco.com/#!home/mainPage",
+        "geoBeerId": "16597aeb-79ae-4f6f-b90d-c0074a92cf28"
       }
     }
   ]

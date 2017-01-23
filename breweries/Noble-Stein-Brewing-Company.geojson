@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Noble Stein Brewing Company",
         "address": "165 Ben Franklin Road, Indiana, PA 15701",
-        "url": "http://www.noblesteinbrewingcompany.com/"
+        "url": "http://www.noblesteinbrewingcompany.com/",
+        "geoBeerId": "787f2976-1878-4345-ab01-ea655f13342f"
       }
     }
   ]

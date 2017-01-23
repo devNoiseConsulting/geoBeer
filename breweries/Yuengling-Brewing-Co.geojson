@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Yuengling Brewing Co.",
         "address": "501 Mahantongo St, Pottsville, PA 17901",
-        "url": "http://yuengling.com"
+        "url": "http://yuengling.com",
+        "geoBeerId": "3ea60a09-84c6-43e5-aac0-5698302927de"
       }
     }
   ]

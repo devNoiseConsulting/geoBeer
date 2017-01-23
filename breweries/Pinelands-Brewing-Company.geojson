@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Pinelands Brewing Company",
         "address": "140 South 7th Avenue, Little Egg Harbor, NJ 08087",
-        "url": "http://www.pinelandsbrewing.com/"
+        "url": "http://www.pinelandsbrewing.com/",
+        "geoBeerId": "8c1afd97-2ef8-47cb-9f32-64814157d35e"
       }
     }
   ]

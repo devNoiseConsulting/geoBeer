@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Levity Brewing Company",
         "address": "1380 Wayne Ave, Suite A, Indiana, PA 15701",
-        "url": "http://www.levitybrewing.com/"
+        "url": "http://www.levitybrewing.com/",
+        "geoBeerId": "883e4f2a-8f47-4372-907c-d373967fe643"
       }
     }
   ]

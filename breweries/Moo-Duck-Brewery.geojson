@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Moo-Duck Brewery",
         "address": "79 S. Wilson Ave., Elizabethtown, PA 17022",
-        "url": "http://www.mooduckbrewery.com/"
+        "url": "http://www.mooduckbrewery.com/",
+        "geoBeerId": "6bdb86c5-b9e7-464c-a50f-19e99c076308"
       }
     }
   ]

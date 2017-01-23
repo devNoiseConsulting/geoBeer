@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Proper Brewing Company",
         "address": "117 W. Broad Street, Quakertown, PA 18951",
-        "url": "http://www.theproperbrewing.com/"
+        "url": "http://www.theproperbrewing.com/",
+        "geoBeerId": "a7b4bfd9-e6cc-4b45-a531-37a4906b8616"
       }
     }
   ]

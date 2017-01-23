@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Czig Meister Brewery",
         "address": "106 Valentine Street, Hackettstown, NJ 07840",
-        "url": "http://www.czigmeisterbrewing.com/"
+        "url": "http://www.czigmeisterbrewing.com/",
+        "geoBeerId": "521ad773-77ed-4dbb-ab27-1284a60ffee8"
       }
     }
   ]

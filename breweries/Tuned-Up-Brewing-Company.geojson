@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Tuned Up Brewing Company",
         "address": "135 N Main Street, Spring City, Pennsylvania",
-        "url": "https://www.facebook.com/pg/tunedupbrewing/"
+        "url": "https://www.facebook.com/pg/tunedupbrewing/",
+        "geoBeerId": "35841b41-1b9e-4e87-b149-25da59f95795"
       }
     }
   ]

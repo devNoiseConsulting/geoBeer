@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "ShawneeCraft Brewing",
         "address": "100 Shawnee Inn Drive, Shawnee on Delaware, PA 18356",
-        "url": "http://www.shawneecraft.com/"
+        "url": "http://www.shawneecraft.com/",
+        "geoBeerId": "71396465-e2f8-45f5-93fa-6d3437aba20a"
       }
     }
   ]

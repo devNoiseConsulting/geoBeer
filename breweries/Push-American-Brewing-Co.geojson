@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Push American Brewing Co",
         "address": "6695 Dobbin Road, Columbia, MD 21045, USA",
-        "url": "http://www.friscotaphouse.com/"
+        "url": "http://www.friscotaphouse.com/",
+        "geoBeerId": "f654b5ce-76d0-455f-884e-e970c85fa1e6"
       }
     }
   ]

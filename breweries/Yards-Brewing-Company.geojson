@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Yards Brewing Company",
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
-        "url": "http://yardsbrewing.com"
+        "url": "http://yardsbrewing.com",
+        "geoBeerId": "971bc2e7-84ef-4dfa-8bb4-bd78274bfdd9"
       }
     }
   ]

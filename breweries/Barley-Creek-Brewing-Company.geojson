@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Barley Creek Brewing Company",
         "address": "1774 Sullivan Trail, Tannersville, PA 18372",
-        "url": "http://www.aurochsbrewing.com"
+        "url": "http://www.aurochsbrewing.com",
+        "geoBeerId": "49180b20-f1dc-41ea-8b32-5d60c5de6fe2"
       }
     }
   ]

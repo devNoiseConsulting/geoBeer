@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Doylestown Brewing Co.",
         "address": "52 E State St, Doylestown, PA 18901 ",
-        "url": "http://doylestownbrewingcompany.com"
+        "url": "http://doylestownbrewingcompany.com",
+        "geoBeerId": "27d3fd2f-c056-4f5d-a861-3d7d03177bb3"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Lower Forge Brewery",
         "address": "14 S Main St, Medford, NJ 08055",
-        "url": "http://www.lowerforge.com/"
+        "url": "http://www.lowerforge.com/",
+        "geoBeerId": "c2bac614-975c-4f62-8108-724394cbfadd"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Rumspringa Brewing Company",
         "address": "3174 Old Philadelphia Pike, 2nd Fl, Bird in Hand, PA 17505",
-        "url": "http://www.lancaster-gallery.com/rumspringa/index.php"
+        "url": "http://www.lancaster-gallery.com/rumspringa/index.php",
+        "geoBeerId": "d2c3aea7-d5ee-432d-a2b6-6ab9d3f0e73d"
       }
     }
   ]

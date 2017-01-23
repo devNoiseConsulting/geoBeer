@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Goose Island",
         "address": "33 E. Laurel Street, Philadelphia, PA 19123",
-        "url": "http://www.gooseisland.com/"
+        "url": "http://www.gooseisland.com/",
+        "geoBeerId": "df45c852-46ea-448d-9f96-ede726b4d3e3"
       }
     }
   ]

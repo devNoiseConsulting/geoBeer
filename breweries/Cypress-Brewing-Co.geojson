@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Cypress Brewing Co.",
         "address": "30 Nixon Ln, Unit E, Edison, NJ 08837",
-        "url": "http://cypressbrewing.com/Czig Meister Brewing Company"
+        "url": "http://cypressbrewing.com/Czig Meister Brewing Company",
+        "geoBeerId": "0c186b09-6d76-49e3-b7eb-7e3b4e6dca39"
       }
     }
   ]

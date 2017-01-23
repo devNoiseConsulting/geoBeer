@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Bonn Place Brewing, Inc.",
         "address": "310 Taylor Street, Bethlehem, PA 18015",
-        "url": "http://www.bonnbrewing.com/"
+        "url": "http://www.bonnbrewing.com/",
+        "geoBeerId": "4ba05ffe-92bf-4548-a670-99f369c0fb0c"
       }
     }
   ]

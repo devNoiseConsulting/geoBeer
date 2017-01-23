@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Heavy Seas Beer",
         "address": "4615 Hollins Ferry Road, Halethorpe, MD 21227, USA",
-        "url": "http://www.hsbeer.com/"
+        "url": "http://www.hsbeer.com/",
+        "geoBeerId": "1a6c190d-6a25-4b03-ac5b-03cac4f0058d"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Screamin' Hill Brewery",
         "address": "83 Emleys Hill Rd, Cream Ridge, NJ 08514",
-        "url": "http://www.screaminhill.com/"
+        "url": "http://www.screaminhill.com/",
+        "geoBeerId": "5bcb09a6-a056-45d1-ab0a-824dc4bc41a7"
       }
     }
   ]

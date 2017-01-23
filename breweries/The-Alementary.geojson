@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Alementary",
         "address": "58 Voorhis Ln, Hackensack, NJ 07601",
-        "url": "http://www.alementary.com/"
+        "url": "http://www.alementary.com/",
+        "geoBeerId": "6d7b8dc2-96eb-4a7b-bee5-999e507255f4"
       }
     }
   ]

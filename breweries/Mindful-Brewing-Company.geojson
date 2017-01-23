@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mindful Brewing Company",
         "address": "3759 Library Road, Castle Shannon, PA 15234",
-        "url": "http://mindfulbrewing.com/"
+        "url": "http://mindfulbrewing.com/",
+        "geoBeerId": "4cba84a2-8d7a-488b-9554-2ea8e8d34549"
       }
     }
   ]

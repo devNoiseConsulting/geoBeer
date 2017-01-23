@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Millcreek Brewing Co.",
         "address": "4102 Westlake Rd., Erie, PA 16505",
-        "url": "http://www.millcreekbrew.com/"
+        "url": "http://www.millcreekbrew.com/",
+        "geoBeerId": "7a453b63-f992-459d-bce3-9bfb7ffc8b55"
       }
     }
   ]

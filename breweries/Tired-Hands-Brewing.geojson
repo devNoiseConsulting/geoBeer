@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Tired Hands Brewing",
         "address": "16 Ardmore Ave, Ardmore, PA 19003",
-        "url": "http://tiredhands.com"
+        "url": "http://tiredhands.com",
+        "geoBeerId": "d6ff5363-5482-4f88-8a9f-d74a3aa59652"
       }
     }
   ]

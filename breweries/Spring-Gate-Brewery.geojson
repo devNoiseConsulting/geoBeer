@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Spring Gate Brewery",
         "address": "5790 Devonshire RD, Harrisburg, PA 17112",
-        "url": "http://springgatebrewery.com/"
+        "url": "http://springgatebrewery.com/",
+        "geoBeerId": "3fe23dfa-4878-4d8f-b626-11edcb744ee3"
       }
     }
   ]

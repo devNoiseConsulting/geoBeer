@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Gordon Biersch Brewery Restaurant",
         "address": "Rockville Town Square Plaza, 200 East Middle Lane, Rockville, MD 20850, USA",
-        "url": "http://www.gordonbiersch.com/locations/rockville?action=view"
+        "url": "http://www.gordonbiersch.com/locations/rockville?action=view",
+        "geoBeerId": "1bdc73af-abd2-44ee-a9be-7ddb155ede93"
       }
     }
   ]

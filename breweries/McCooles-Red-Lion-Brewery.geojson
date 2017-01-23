@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "McCoole’s Red Lion Brewery",
         "address": "4 S Main St, Quakertown, PA 18951",
-        "url": "http://mccoolesredlioninn.com"
+        "url": "http://mccoolesredlioninn.com",
+        "geoBeerId": "58f5b609-06e6-4947-a3fa-6fae44cbbe75"
       }
     }
   ]

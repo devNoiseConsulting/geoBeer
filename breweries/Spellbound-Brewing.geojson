@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Spellbound Brewing",
         "address": "10 Lippincott Ln, Unit 12, Mount Holly, NJ 08060",
-        "url": "http://www.spellboundbrewing.com/"
+        "url": "http://www.spellboundbrewing.com/",
+        "geoBeerId": "827ea1ea-104e-4612-9e73-2a9f91dc4e5f"
       }
     }
   ]

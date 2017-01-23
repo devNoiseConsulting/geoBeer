@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Berlin Brewing Company",
         "address": "220 S White Horse Pike, Berlin, NJ 08009",
-        "url": "http://www.berlinbrewco.com/"
+        "url": "http://www.berlinbrewco.com/",
+        "geoBeerId": "2b2947bc-d91e-4052-8958-a71f51848da0"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Philadelphia Brewing Co",
         "address": "2439 Amber St, Philadelphia, PA 19125",
-        "url": "http://philadelphiabrewing.com"
+        "url": "http://philadelphiabrewing.com",
+        "geoBeerId": "8704c09a-4e8c-4d89-8ca8-d43619892006"
       }
     }
   ]

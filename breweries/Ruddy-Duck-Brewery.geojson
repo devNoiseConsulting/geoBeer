@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Ruddy Duck Brewery",
         "address": "13200 Dowell Rd, Dowell, MD 20629, USA",
-        "url": "http://www.ruddyduckbrewery.com/"
+        "url": "http://www.ruddyduckbrewery.com/",
+        "geoBeerId": "f700f679-a900-4061-9263-b1b64d64a64e"
       }
     }
   ]

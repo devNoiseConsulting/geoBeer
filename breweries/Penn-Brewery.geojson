@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Penn Brewery",
         "address": "800 Vinial Street, Pittsburgh, PA 15212",
-        "url": "http://www.pennbrew.com/Home.aspx"
+        "url": "http://www.pennbrew.com/Home.aspx",
+        "geoBeerId": "ebb65d64-ed8c-463e-9e86-cae476ceb122"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mad Science Brewing Company",
         "address": "1619 Buckeystown Pike, Adamstown, MD 21710, USA",
-        "url": "http://www.madsciencebrewing.com/"
+        "url": "http://www.madsciencebrewing.com/",
+        "geoBeerId": "77c7a8cb-5e9f-4262-b2ff-cad9b7f77fcc"
       }
     }
   ]

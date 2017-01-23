@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Mad Chef Craft Brewing",
         "address": "2023 Miller Rd, East Petersburg, PA 17520",
-        "url": "http://www.madchefcraftbrewing.com/"
+        "url": "http://www.madchefcraftbrewing.com/",
+        "geoBeerId": "b54c10c2-08f4-4db8-b9d6-9f523132e268"
       }
     }
   ]

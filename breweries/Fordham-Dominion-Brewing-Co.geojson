@@ -16,7 +16,8 @@
         "marker-size": "medium",
         "name": "Fordham & Dominion Brewing Co.",
         "address": "1284 McD Dr, Dover, DE 19901",
-        "url": "http://olddominion.com"
+        "url": "http://olddominion.com",
+        "geoBeerId": "288939c8-0d01-49e2-bcb4-6d7eb19d61b8"
       }
     }
   ]

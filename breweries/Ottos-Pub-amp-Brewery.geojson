@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Otto’s Pub &amp; Brewery",
         "address": "2235 North Atherton St, State College, PA 16803",
-        "url": "http://ottospubandbrewery.com/"
+        "url": "http://ottospubandbrewery.com/",
+        "geoBeerId": "4b4e9de1-7980-4d6c-bca7-bda76587459a"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Dew Point Brewing Co.",
         "address": "2878 Creek Rd, Yorklyn, DE 19736",
-        "url": "http://www.DewPointBrewing.com/"
+        "url": "http://www.DewPointBrewing.com/",
+        "geoBeerId": "c9764099-e3f7-4f12-aa78-113437c83798"
       }
     }
   ]

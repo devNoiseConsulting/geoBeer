@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Aldus Brewing Company",
         "address": "555 Centennial Ave., Hanover, PA 17331",
-        "url": "http://www.aldusbrewing.com/"
+        "url": "http://www.aldusbrewing.com/",
+        "geoBeerId": "b44982e7-26ae-45f6-94bf-96a3a0ce07fb"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "RaR Brewery",
         "address": "504-506 Poplar St, Cambridge, MD",
-        "url": "http://www.rarbrewing.com/"
+        "url": "http://www.rarbrewing.com/",
+        "geoBeerId": "b62e5bac-d94b-4057-b306-65fa8717897c"
       }
     }
   ]

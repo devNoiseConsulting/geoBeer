@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Fegley’s Brew Works",
         "address": "812 W Hamilton St, Allentown, PA 18101",
-        "url": "https://thebrewworks.com/"
+        "url": "https://thebrewworks.com/",
+        "geoBeerId": "3b8513d9-ae04-4c65-8936-7c44c1dbec33"
       }
     }
   ]

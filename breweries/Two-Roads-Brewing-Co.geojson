@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Two Roads Brewing Co.",
         "address": "1700 Stratford Ave, Stratford, CT 06615",
-        "url": "http://tworoadsbrewing.com"
+        "url": "http://tworoadsbrewing.com",
+        "geoBeerId": "3ebdabe8-d35a-4f6d-a0ec-1b63ecf8f195"
       }
     }
   ]

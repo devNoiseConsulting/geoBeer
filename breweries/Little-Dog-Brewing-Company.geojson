@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Little Dog Brewing Company",
         "address": "141 Steiner Avenue, Neptune City, NJ 07753",
-        "url": "http://www.littledogbrewing.com/"
+        "url": "http://www.littledogbrewing.com/",
+        "geoBeerId": "05ce80ac-6561-4ad3-b5d2-c0905862286f"
       }
     }
   ]

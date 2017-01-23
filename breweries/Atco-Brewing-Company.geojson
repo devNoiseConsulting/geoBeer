@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Atco Brewing Company",
         "address": "302 White Horse Pike, Atco, NJ 08004",
-        "url": "http://www.atcobrewingcompany.com/"
+        "url": "http://www.atcobrewingcompany.com/",
+        "geoBeerId": "7c8552de-3d68-49d9-af3c-e31cf756bed5"
       }
     }
   ]

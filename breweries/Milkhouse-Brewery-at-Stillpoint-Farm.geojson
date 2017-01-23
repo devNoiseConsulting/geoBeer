@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Milkhouse Brewery at Stillpoint Farm",
         "address": "8253 Dollyhyde Road, Mount Airy, MD 21771, USA",
-        "url": "http://stillpointfarming.com/milkhouse_brewery_at_stillpoint_farm/"
+        "url": "http://stillpointfarming.com/milkhouse_brewery_at_stillpoint_farm/",
+        "geoBeerId": "bdee440a-b82c-4c5f-99d4-09b791c10b72"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Flying Dog Brewery",
         "address": "4607 Wedgewood Blvd, Frederick, MD 21703",
-        "url": "http://flyingdogbrewery.com"
+        "url": "http://flyingdogbrewery.com",
+        "geoBeerId": "9c04862d-2cfb-43a7-8c8c-def3789b6290"
       }
     }
   ]

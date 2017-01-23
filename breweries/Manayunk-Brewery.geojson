@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Manayunk Brewery",
         "address": "4120 Main St, Philadelphia, PA 19127",
-        "url": "https://www.manayunkbrewery.com"
+        "url": "https://www.manayunkbrewery.com",
+        "geoBeerId": "f8b59471-8e2a-477b-8e63-de9db8a1633b"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Stickman Brews",
         "address": "326 N Lewis Rd #240, Royersford, PA 19468",
-        "url": "http://stickmanbrews.com"
+        "url": "http://stickmanbrews.com",
+        "geoBeerId": "4216525b-e3a7-4e5f-aa66-9f813ad02cca"
       }
     }
   ]

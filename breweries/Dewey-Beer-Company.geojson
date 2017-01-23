@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Dewey Beer Company",
         "address": "2100 Coastal Highway, Dewey Beach, DE 19971",
-        "url": "http://www.deweybeerco.com/"
+        "url": "http://www.deweybeerco.com/",
+        "geoBeerId": "b0a72e71-0d24-4010-bb6e-c76f24bc967b"
       }
     }
   ]

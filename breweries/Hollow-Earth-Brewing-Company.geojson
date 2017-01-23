@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hollow Earth Brewing Company",
         "address": "19 N 3rd St, Oxford, PA 19363",
-        "url": "http://www.hollowearthbrewing.com/"
+        "url": "http://www.hollowearthbrewing.com/",
+        "geoBeerId": "f43ee649-4d4d-41b4-a139-12eb62f7cb0c"
       }
     }
   ]

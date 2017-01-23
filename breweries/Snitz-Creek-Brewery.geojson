@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Snitz Creek Brewery",
         "address": "7 N 9th St, Lebanon, PA 17046",
-        "url": "http://www.snitzcreekbrewery.com/"
+        "url": "http://www.snitzcreekbrewery.com/",
+        "geoBeerId": "d55a6bfb-8267-41a2-8a8c-d337a794b383"
       }
     }
   ]

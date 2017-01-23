@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Earth Bread + Brewery",
         "address": "7136 Germantown Ave, Philadelphia, PA 19119",
-        "url": "http://earthbreadbrewery.com"
+        "url": "http://earthbreadbrewery.com",
+        "geoBeerId": "6bda78f9-2a83-4670-9cd9-61400d2d752d"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Two Rivers Brewing",
         "address": "542 Northampton St., Easton, PA 18042",
-        "url": "http://www.tworiversbrewing.com/"
+        "url": "http://www.tworiversbrewing.com/",
+        "geoBeerId": "c989c285-fba3-446e-a24c-888035340e3a"
       }
     }
   ]

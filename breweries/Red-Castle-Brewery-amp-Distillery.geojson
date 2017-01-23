@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Red Castle Brewery &amp; Distillery",
         "address": "80 East Bridge Street, Lehighton, PA 18235",
-        "url": "http://redcastlebrewery.com/"
+        "url": "http://redcastlebrewery.com/",
+        "geoBeerId": "36e4281c-0793-4c53-bda5-cfba60d32cec"
       }
     }
   ]

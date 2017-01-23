@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Fishtown Brewpub",
         "address": "1101 Frankford Ave., Philadelphia, PA 19125",
-        "url": "https://www.facebook.com/Fishtown-Brewpub-1532488227059968/"
+        "url": "https://www.facebook.com/Fishtown-Brewpub-1532488227059968/",
+        "geoBeerId": "8db1c1df-4d36-43b2-b666-73e4539ca398"
       }
     }
   ]

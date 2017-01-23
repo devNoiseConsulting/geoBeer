@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Victory Brewing Co.",
         "address": "420 Acorn Ln, Downingtown, PA 19335",
-        "url": "http://victorybeer.com"
+        "url": "http://victorybeer.com",
+        "geoBeerId": "770680bd-f20c-400e-b144-2743bdc608ed"
       }
     },
     {
@@ -34,7 +35,8 @@
         "marker-size": "large",
         "name": "Victory Brewing Co.",
         "address": "650 W Cypress St, Kennett Square, PA 19348",
-        "url": "http://victorybeer.com"
+        "url": "http://victorybeer.com",
+        "geoBeerId": "944f88d5-9985-4f35-a061-fcd268a5e4db"
       }
     },
     {
@@ -52,7 +54,8 @@
         "marker-size": "large",
         "name": "Victory Brewing Co.",
         "address": "3127 Lower Valley Rd, Parkesburg, PA 19365",
-        "url": "http://victorybeer.com"
+        "url": "http://victorybeer.com",
+        "geoBeerId": "42f8b9bb-3826-477f-9acf-49f4d4ba34bd"
       }
     }
   ]

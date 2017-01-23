@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Reclamation Brewing Company",
         "address": "221 S Main Street, Butler, PA 16001",
-        "url": "http://www.reclamationbrewing.com/"
+        "url": "http://www.reclamationbrewing.com/",
+        "geoBeerId": "00ebbd53-fc9f-4ab0-85d7-bc358c7010ba"
       }
     }
   ]

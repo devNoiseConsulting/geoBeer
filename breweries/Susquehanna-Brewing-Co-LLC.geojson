@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Susquehanna Brewing Co. LLC",
         "address": "635 South Main Street, Pittston, PA 18640",
-        "url": "http://www.sbcbeer.com"
+        "url": "http://www.sbcbeer.com",
+        "geoBeerId": "c2f62a6c-614d-4aea-b076-ca5fd200f2b4"
       }
     }
   ]

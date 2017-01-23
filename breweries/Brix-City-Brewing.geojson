@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Brix City Brewing",
         "address": "4 Alsan Way, Little Ferry, NJ 07643",
-        "url": "http://www.brixcitybrewing.com/"
+        "url": "http://www.brixcitybrewing.com/",
+        "geoBeerId": "677cb7bd-b589-4ae3-80ea-5ab5ac1b264b"
       }
     }
   ]

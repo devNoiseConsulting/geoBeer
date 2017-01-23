@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Boxcar Brewpub",
         "address": "142 E Market St, West Chester, PA 19382",
-        "url": "http://boxcarbrewingcompany.com"
+        "url": "http://boxcarbrewingcompany.com",
+        "geoBeerId": "f446579c-d7da-4548-b4ca-fe27e0865485"
       }
     }
   ]

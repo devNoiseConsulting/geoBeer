@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "NJ Beer Co.",
         "address": "4201 Tonnelle Avenue, North Bergen, NJ 07047",
-        "url": "http://www.njbeerco.com/"
+        "url": "http://www.njbeerco.com/",
+        "geoBeerId": "94695773-840d-4acb-904a-4f51a78d05ec"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Departed Soles Brewing Company",
         "address": "150 Bay St, Suite 2A, Jersey City, NJ 07302",
-        "url": "http://www.departedsoles.com/"
+        "url": "http://www.departedsoles.com/",
+        "geoBeerId": "3628437b-62aa-4ba3-a096-6bfab1627941"
       }
     }
   ]

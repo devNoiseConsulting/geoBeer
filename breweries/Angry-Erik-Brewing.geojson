@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Angry Erik Brewing",
         "address": "10 Millpond Dr, Unit 8, Lafayette, NJ 07848",
-        "url": "http://angryerik.com/"
+        "url": "http://angryerik.com/",
+        "geoBeerId": "49de58c2-6273-40d3-8153-753470351205"
       }
     }
   ]

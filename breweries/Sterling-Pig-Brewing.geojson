@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Sterling Pig Brewing",
         "address": "609 W State St, Media, PA 19063",
-        "url": "http://sterlingpig.com"
+        "url": "http://sterlingpig.com",
+        "geoBeerId": "0df8e4a2-3702-4150-bf52-b147fe003b5a"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mispillion River Brewing",
         "address": "255 Mullet Run, Milford, DE 19963",
-        "url": "http://www.mispillionriverbrewing.com"
+        "url": "http://www.mispillionriverbrewing.com",
+        "geoBeerId": "8e3c5b48-459e-4333-8f62-ac6df8f69f3c"
       }
     }
   ]

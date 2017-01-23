@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hysteria Brewing Company",
         "address": "9570 Berger Rd, Columbia, MD 21046, USA",
-        "url": "http://www.hysteriabrewing.com/"
+        "url": "http://www.hysteriabrewing.com/",
+        "geoBeerId": "6ea96d75-73c2-4807-b8a0-144d1518feb3"
       }
     }
   ]

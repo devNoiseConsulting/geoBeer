@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Belford Brewing Company",
         "address": "84 Leonardville Rd, Belford, NJ 07718",
-        "url": "http://www.belfordbrewing.com/"
+        "url": "http://www.belfordbrewing.com/",
+        "geoBeerId": "eee4df16-4081-4985-897c-116d3595d552"
       }
     }
   ]

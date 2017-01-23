@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "St. Boniface Craft Brewing",
         "address": "1701 W Main St, Ephrata, PA 17522",
-        "url": "http://www.stbonifacebrewing.com/"
+        "url": "http://www.stbonifacebrewing.com/",
+        "geoBeerId": "987d20a8-87ff-4d2c-ae4e-e71e69e4e34c"
       }
     }
   ]

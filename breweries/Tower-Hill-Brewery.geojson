@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Tower Hill Brewery",
         "address": "237 W Butler Ave, Chalfont, PA 18914",
-        "url": "http://towerhillbrewery.com"
+        "url": "http://towerhillbrewery.com",
+        "geoBeerId": "13cb2008-eee1-482c-bb53-df1612c2e41a"
       }
     }
   ]

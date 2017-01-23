@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Bucks County Brewery",
         "address": "Appletree Ln, Pipersville, PA 18947",
-        "url": "http://buckscountybrewery.com"
+        "url": "http://buckscountybrewery.com",
+        "geoBeerId": "5b4f93f1-ff72-4d74-a3c0-289e2850ae84"
       }
     }
   ]

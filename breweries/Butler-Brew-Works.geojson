@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Butler Brew Works",
         "address": "101 S Main Street, Butler, PA 16001",
-        "url": "http://www.butlerbrewworks.com/"
+        "url": "http://www.butlerbrewworks.com/",
+        "geoBeerId": "818a0bd7-f026-4122-a556-46ab56807de7"
       }
     }
   ]

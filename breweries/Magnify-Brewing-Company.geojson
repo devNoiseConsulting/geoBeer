@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Magnify Brewing Company",
         "address": "1275 Bloomfield Ave, Unit 40, Bldg 7, Fairfield, NJ 07004",
-        "url": "http://magnifybrewing.com/"
+        "url": "http://magnifybrewing.com/",
+        "geoBeerId": "c55f53d0-b185-42bf-b085-0031c2956dd4"
       }
     }
   ]

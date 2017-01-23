@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Peabody Heights Brewery",
         "address": "401 East 30th Street, Baltimore, MD 21218, USA",
-        "url": "http://peabodyheightsbrewery.com/"
+        "url": "http://peabodyheightsbrewery.com/",
+        "geoBeerId": "3627ce3d-1eb7-49d6-9b82-e005bd453ec6"
       }
     }
   ]

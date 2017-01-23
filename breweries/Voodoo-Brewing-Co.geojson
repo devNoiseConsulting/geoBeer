@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Voodoo Brewing Co.",
         "address": "215 Arch Street, Meadville, PA 16335",
-        "url": "http://voodoobrewery.com/"
+        "url": "http://voodoobrewery.com/",
+        "geoBeerId": "276562f7-1a66-4d0c-bcdc-3ef9bab29335"
       }
     }
   ]

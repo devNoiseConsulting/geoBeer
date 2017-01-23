@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hop Hill Brewing Company",
         "address": "5601 Butler Street, Lawrenceville, PA 15201",
-        "url": "http://www.hopfarmbrewingco.com/"
+        "url": "http://www.hopfarmbrewingco.com/",
+        "geoBeerId": "31b47809-a660-4b6c-94e8-2211fb28e805"
       }
     }
   ]

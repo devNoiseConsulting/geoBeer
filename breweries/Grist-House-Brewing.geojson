@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Grist House Brewing",
         "address": "10 Sherman Street, Pennsylvania 15209, PA 15209",
-        "url": "http://gristhousebrewing.com/"
+        "url": "http://gristhousebrewing.com/",
+        "geoBeerId": "30ab2297-3b3f-4d2f-8718-6bed0c93d23e"
       }
     }
   ]

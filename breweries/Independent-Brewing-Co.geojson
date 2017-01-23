@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Independent Brewing Co",
         "address": "418 N Main St, Bel Air, MD 21014",
-        "url": "https://www.independentbrew.com/"
+        "url": "https://www.independentbrew.com/",
+        "geoBeerId": "12fb5276-b290-4782-862d-622543f500f7"
       }
     }
   ]

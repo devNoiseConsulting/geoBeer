@@ -16,7 +16,8 @@
         "marker-size": "medium",
         "name": "Forest & Main Brewery & Pub",
         "address": "61 N Main St, Ambler, PA 19002",
-        "url": "http://forestandmain.com"
+        "url": "http://forestandmain.com",
+        "geoBeerId": "a18c03cf-e93f-448f-80a0-040644daede7"
       }
     }
   ]

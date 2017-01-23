@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Wacker Brewing Co",
         "address": "417 W Grant St, Lancaster, PA 17603",
-        "url": "http://wackerbrewing.com/"
+        "url": "http://wackerbrewing.com/",
+        "geoBeerId": "026793b1-6701-43a8-8fe2-54a142fed382"
       }
     }
   ]

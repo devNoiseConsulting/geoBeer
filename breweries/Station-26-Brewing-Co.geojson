@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Station 26 Brewing Co",
         "address": "7045 East 38th Ave, Denver, Colorado 80207",
-        "url": "http://www.station26brewing.co/"
+        "url": "http://www.station26brewing.co/",
+        "geoBeerId": "57dd7fe9-fa66-4528-8d23-b468e8194167"
       }
     }
   ]

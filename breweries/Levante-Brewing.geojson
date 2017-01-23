@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Levante Brewing",
         "address": "208 Carter Dr Suite 2, West Chester, PA 19382",
-        "url": "http://levantebrewing.com"
+        "url": "http://levantebrewing.com",
+        "geoBeerId": "0c507272-6577-41ab-ad86-1986fdf3dc10"
       }
     }
   ]

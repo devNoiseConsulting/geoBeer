@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Falling Branch Brewery",
         "address": "825 Highland Rd, Street, MD 21154",
-        "url": "http://fallingbranchbeer.com/"
+        "url": "http://fallingbranchbeer.com/",
+        "geoBeerId": "764fcbf4-c6e7-46cc-aed9-41feee58a01b"
       }
     }
   ]

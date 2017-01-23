@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Big Rail Brewing",
         "address": "230 Mercer Street, Harmony, PA 16037",
-        "url": "http://www.berwickbrewing.com/"
+        "url": "http://www.berwickbrewing.com/",
+        "geoBeerId": "7c9fec2a-2a3b-443c-8b19-339f9db5cc9b"
       }
     }
   ]

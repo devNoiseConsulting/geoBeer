@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Love Brewing Company",
         "address": "1730 Faunce St, Philadelphia, PA 19111",
-        "url": "http://lovebrewingcompany.com/"
+        "url": "http://lovebrewingcompany.com/",
+        "geoBeerId": "16aa0ca5-5141-4e66-9e7a-26fa2fc76ceb"
       }
     }
   ]

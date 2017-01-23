@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Evil Benius Beer Company",
         "address": "1731-1733 N. Front Street, Philadelphia, PA 19122, USA",
-        "url": "http://www.evilgeniusbeer.com/"
+        "url": "http://www.evilgeniusbeer.com/",
+        "geoBeerId": "bd987eaa-d3c2-4a92-9e5a-0b997842d8bc"
       }
     }
   ]

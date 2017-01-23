@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Double Nickel Brewing Co.",
         "address": "1585 RT-73, Pennsauken, NJ 08110",
-        "url": "http://www.doublenickelbrewingcompany.com/"
+        "url": "http://www.doublenickelbrewingcompany.com/",
+        "geoBeerId": "4a50c17f-f286-42cb-adcd-6c2859b8e090"
       }
     }
   ]

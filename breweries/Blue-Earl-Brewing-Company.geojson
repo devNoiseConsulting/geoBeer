@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Blue Earl Brewing Company",
         "address": "210 Artisan Dr, Smyrna, DE",
-        "url": "http://blueearlbrewing.com/"
+        "url": "http://blueearlbrewing.com/",
+        "geoBeerId": "74920167-8b6d-46e5-9cfa-6f41f16900f8"
       }
     }
   ]

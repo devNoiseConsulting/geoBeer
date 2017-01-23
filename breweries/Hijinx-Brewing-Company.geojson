@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hijinx Brewing Company",
         "address": "905 Harrison St, Allentown, PA 18103",
-        "url": "http://hijinxbrewing.com/"
+        "url": "http://hijinxbrewing.com/",
+        "geoBeerId": "7a98e68d-0518-4d75-999c-e1624ddb8a0b"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Carton Brewing",
         "address": "6 E Washington Ave, Atlantic Highlands, NJ 07716",
-        "url": "http://cartonbrewing.com/"
+        "url": "http://cartonbrewing.com/",
+        "geoBeerId": "75a98afb-4108-483b-8cd4-094e50635523"
       }
     }
   ]

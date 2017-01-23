@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Calvert Brewing Company",
         "address": "15850 Commerce Ct, Upper Marlboro, MD 20774, USA",
-        "url": "http://www.calvertbrewingcompany.com/"
+        "url": "http://www.calvertbrewingcompany.com/",
+        "geoBeerId": "7ef7ac83-78be-4851-84e0-4595559f4732"
       }
     }
   ]

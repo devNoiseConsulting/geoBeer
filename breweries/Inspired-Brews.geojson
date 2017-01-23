@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Inspired Brews",
         "address": "263 N 3rd St, Philadelphia, PA 19106",
-        "url": "http://inspiredbrews.com/"
+        "url": "http://inspiredbrews.com/",
+        "geoBeerId": "4d11fdc9-2ba3-4c3a-92fe-b0140b97712c"
       }
     }
   ]

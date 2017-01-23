@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "2nd District Brewing",
         "address": "1939 S Bancroft Street, Philadelphia, PA 19145",
-        "url": "https://www.facebook.com/2ndDistrictBrewing/"
+        "url": "https://www.facebook.com/2ndDistrictBrewing/",
+        "geoBeerId": "49714193-2d7a-436e-a418-4ced9cddaaad"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "High Point Brewing Co, Inc.",
         "address": "22 Park Pl, Butler, NJ 07405",
-        "url": "http://ramsteinbeer.com/"
+        "url": "http://ramsteinbeer.com/",
+        "geoBeerId": "815455aa-4b71-46dd-84d3-a0c0c6743a13"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "All Saints Brewing Company",
         "address": "1602 Route 119, Greensburg, PA 15601",
-        "url": "http://allsaintscraftbrewing.com/"
+        "url": "http://allsaintscraftbrewing.com/",
+        "geoBeerId": "60f0caf8-3df5-4623-be90-6c1dcc612f29"
       }
     }
   ]

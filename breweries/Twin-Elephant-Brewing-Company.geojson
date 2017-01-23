@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Twin Elephant Brewing Company",
         "address": "13 Watchung Ave, Chatham, NJ 07928",
-        "url": "http://www.twinelephantbrewing.com/"
+        "url": "http://www.twinelephantbrewing.com/",
+        "geoBeerId": "7726b861-2258-4add-a82b-92c9fff431ae"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Bog Turlte Brewery",
         "address": "14 S 3rd St, Oxford, PA",
-        "url": "http://www.bogturtlebrewery.com/"
+        "url": "http://www.bogturtlebrewery.com/",
+        "geoBeerId": "da1e6222-1a0e-4fae-83df-0d9443b1f08d"
       }
     }
   ]

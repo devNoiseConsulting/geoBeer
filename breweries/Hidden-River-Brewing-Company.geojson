@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hidden River Brewing Company",
         "address": "1808 W Schuylkill Rd, Douglassville, PA 19518",
-        "url": "http://hiddenriverbrewing.com/"
+        "url": "http://hiddenriverbrewing.com/",
+        "geoBeerId": "5e0da089-e96d-4d0c-b5db-6c8514153623"
       }
     }
   ]

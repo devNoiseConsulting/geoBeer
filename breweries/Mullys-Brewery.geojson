@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mully's Brewery",
         "address": "141 Schooner Lane #15, Prince Frederick, MD 20678, USA",
-        "url": "http://www.mullysbrewery.com/"
+        "url": "http://www.mullysbrewery.com/",
+        "geoBeerId": "8fbbbda6-51dc-4eff-9c4b-0567120d2bc1"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Stoudt's Black Angus Restaurant & Pub",
         "address": "2800 N Reading Rd, Adamstown, PA 19501",
-        "url": "http://stoudtsbeer.com"
+        "url": "http://stoudtsbeer.com",
+        "geoBeerId": "b45f4a51-50ec-494a-9fab-27697246ad34"
       }
     }
   ]

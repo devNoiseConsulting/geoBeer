@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Aurochs Brewing Company",
         "address": "8321 Ohio River Boulevard, Emsworth, PA 15202",
-        "url": "http://www.astonabbeybrewing.com/"
+        "url": "http://www.astonabbeybrewing.com/",
+        "geoBeerId": "28fb1bca-b86b-4d51-87cb-eefb428e693c"
       }
     }
   ]

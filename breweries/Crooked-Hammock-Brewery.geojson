@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Crooked Hammock Brewery",
         "address": "16989 Kings Hwy, Lewes, DE 19958",
-        "url": "http://www.crookedhammockbrewery.com/"
+        "url": "http://www.crookedhammockbrewery.com/",
+        "geoBeerId": "dee4fc5a-ef7b-4ce0-8cd6-29d3b1cd88ca"
       }
     }
   ]

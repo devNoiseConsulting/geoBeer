@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Hop Farm Brewing Company",
         "address": "1988 Friebley Ave, Suite B, Bethlehem, PA 18015",
-        "url": "http://www.hophillbeer.com/"
+        "url": "http://www.hophillbeer.com/",
+        "geoBeerId": "37a3384e-92de-47f4-a332-78559c712cf0"
       }
     }
   ]

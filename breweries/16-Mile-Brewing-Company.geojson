@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "16 Mile Brewing Company",
         "address": "413 S Bedford St, Georgetown, DE 19947",
-        "url": "http://16milebrewery.com/"
+        "url": "http://16milebrewery.com/",
+        "geoBeerId": "723751e8-1caf-4ac2-bc2e-2300426b7b06"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Church Brew Works",
         "address": "3525 Liberty Avenue, Pittsburgh, PA 15201",
-        "url": "http://www.churchbrew.com/"
+        "url": "http://www.churchbrew.com/",
+        "geoBeerId": "8e53808e-0d7d-44a3-8262-c3b83281d0a8"
       }
     }
   ]

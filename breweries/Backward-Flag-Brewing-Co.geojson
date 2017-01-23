@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Backward Flag Brewing Co",
         "address": "699 Challenger Way, Forked River, NJ 08731",
-        "url": "http://www.backwardflagbrewing.com/"
+        "url": "http://www.backwardflagbrewing.com/",
+        "geoBeerId": "458828c5-99e7-4c28-be6a-b622249b14c9"
       }
     }
   ]

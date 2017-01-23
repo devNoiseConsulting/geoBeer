@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Brew Gentlemen Beer Co.",
         "address": "512 Braddock Ave., Braddock, PA 15104",
-        "url": "http://www.brewgentlemen.com/"
+        "url": "http://www.brewgentlemen.com/",
+        "geoBeerId": "ea4eafbc-8347-4b6e-a504-53e36e330e01"
       }
     }
   ]

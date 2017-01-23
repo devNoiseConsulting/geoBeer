@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Flying Fish Crafthouse",
         "address": "1363 N 31st St, Philadelphia, PA 19121",
-        "url": "http://ffcrafthouse.com/"
+        "url": "http://ffcrafthouse.com/",
+        "geoBeerId": "0fc9daf0-0f95-497c-9ec7-8fb9c605f37d"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Kelly Green Brewing",
         "address": "154 S. Broadway Ave, Pitman NJ, 08071",
-        "url": "http://kellygreenbrewing.com/"
+        "url": "http://kellygreenbrewing.com/",
+        "geoBeerId": "396e6f23-00c5-4d05-b0e6-2e4d8096b919"
       }
     }
   ]

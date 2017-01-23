@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Robin Hood Brewing Company",
         "address": "1796 Zion Rd, Bellefonte, PA 16823",
-        "url": "http://www.robinhoodbrewingco.com"
+        "url": "http://www.robinhoodbrewingco.com",
+        "geoBeerId": "6030c9bd-a914-481a-b105-d634fb8388b5"
       }
     }
   ]

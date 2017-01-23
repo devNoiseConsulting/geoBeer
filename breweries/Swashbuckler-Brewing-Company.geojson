@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Swashbuckler Brewing Company",
         "address": "2775 Lebanon Rd, Manheim, PA 17545",
-        "url": "http://www.swashbucklerbrewing.com/"
+        "url": "http://www.swashbucklerbrewing.com/",
+        "geoBeerId": "596d324b-a598-4d4c-97b2-a3f34a6677d0"
       }
     }
   ]

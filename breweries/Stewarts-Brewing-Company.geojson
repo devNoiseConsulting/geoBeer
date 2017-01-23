@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Stewart's Brewing Company",
         "address": "219 Governors Pl, Bear, DE",
-        "url": "http://stewartsbrewingcompany.com/"
+        "url": "http://stewartsbrewingcompany.com/",
+        "geoBeerId": "2fff9ac4-3f31-492c-a7e5-2390c34f7ad2"
       }
     }
   ]

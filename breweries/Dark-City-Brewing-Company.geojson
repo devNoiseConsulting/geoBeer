@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Dark City Brewing Company",
         "address": "801 2nd Ave, Asbury Park, NJ 07712",
-        "url": "http://www.darkcitybrewing.com/"
+        "url": "http://www.darkcitybrewing.com/",
+        "geoBeerId": "76bf0157-f1df-4627-b809-699f9e3c9ef5"
       }
     }
   ]

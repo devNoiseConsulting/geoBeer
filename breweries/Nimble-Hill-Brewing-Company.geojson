@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Nimble Hill Brewing Company",
         "address": "219 Windswept Lane, Mehoopany, PA 18629",
-        "url": "http://nimblehillbrewingcompany.com/"
+        "url": "http://nimblehillbrewingcompany.com/",
+        "geoBeerId": "bfa4851e-a383-42f8-a58a-5eb6b76dce32"
       }
     }
   ]

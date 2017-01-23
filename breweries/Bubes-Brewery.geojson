@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Bube’s Brewery",
         "address": "102 N Market St, Mount Joy, PA 17552",
-        "url": "http://bubesbrewery.com/"
+        "url": "http://bubesbrewery.com/",
+        "geoBeerId": "039c9786-0064-4fe4-b88f-418d90c43438"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Barren Hill Brewing",
         "address": "646 Germantown Pike, Lafayette Hill, PA 19444",
-        "url": "http://barrenhilltavern.com"
+        "url": "http://barrenhilltavern.com",
+        "geoBeerId": "233a26e0-02e6-4fdb-b608-84e9f1d35fc0"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Beach Haus Brewery",
         "address": "801 Main St, Belmar, NJ 07719",
-        "url": "http://beachhausbeer.com/"
+        "url": "http://beachhausbeer.com/",
+        "geoBeerId": "9e7fa432-128b-42ce-a58f-b35f7c4e96a3"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "medium",
         "name": "2SP Brewing",
         "address": "120 Concord Rd #101-103, Aston, PA 19014",
-        "url": "http://2spbrewing.com"
+        "url": "http://2spbrewing.com",
+        "geoBeerId": "9d0b296a-9ccd-4343-9b63-18280ae90ef1"
       }
     }
   ]

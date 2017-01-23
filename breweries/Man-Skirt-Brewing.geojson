@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Man Skirt Brewing",
         "address": "144 Main St, Hackettstown, NJ 07840",
-        "url": "http://www.manskirtbrewing.com/"
+        "url": "http://www.manskirtbrewing.com/",
+        "geoBeerId": "0583e73f-7d15-4dbf-8e29-cb490cb3002e"
       }
     }
   ]

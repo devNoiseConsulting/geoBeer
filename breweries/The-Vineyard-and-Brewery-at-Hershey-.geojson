@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Vineyard and Brewery at Hershey﻿",
         "address": "598 Schoolhouse Rd., Middletown, PA 17057",
-        "url": "http://www.VineyardAtHershey.com"
+        "url": "http://www.VineyardAtHershey.com",
+        "geoBeerId": "872b23f3-fc76-45be-ba3d-586f049b54ed"
       }
     }
   ]

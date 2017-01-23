@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Human Village Brewing",
         "address": "148 S Broadway, Pitman, NJ 08071",
-        "url": "http://www.humanvillagebrewingco.com/"
+        "url": "http://www.humanvillagebrewingco.com/",
+        "geoBeerId": "0d714b3f-3bae-49f0-aeed-a1ed03dfd93b"
       }
     }
   ]

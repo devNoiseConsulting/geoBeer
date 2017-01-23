@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Spring House Brewing Company",
         "address": "209 Hazel St, Lancaster, PA 17603",
-        "url": "http://www.springhousebeer.com/"
+        "url": "http://www.springhousebeer.com/",
+        "geoBeerId": "740530e9-3f8c-4d9f-96d8-7b546bf98ef4"
       }
     }
   ]

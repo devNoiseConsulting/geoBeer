@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Triumph Brewing Co.",
         "address": "400 Union Square Dr, New Hope, PA 18938",
-        "url": "http://triumphbrewing.com"
+        "url": "http://triumphbrewing.com",
+        "geoBeerId": "e471c41a-b6f6-438c-9df9-e22002357d48"
       }
     }
   ]

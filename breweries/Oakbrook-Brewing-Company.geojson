@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Oakbrook Brewing Company",
         "address": "628 Park Ave, Reading, PA 19611",
-        "url": "https://www.facebook.com/OakbrookBrew"
+        "url": "https://www.facebook.com/OakbrookBrew",
+        "geoBeerId": "116250b3-2cbd-41ec-afff-ffc4d66d8272"
       }
     }
   ]

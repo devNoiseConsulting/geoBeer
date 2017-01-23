@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Iron Hill Ardmore",
         "address": "60 Greenfield Ave, Ardmore, Pennsylvania 19003",
-        "url": "http://www.ironhillbrewery.com/ardmore"
+        "url": "http://www.ironhillbrewery.com/ardmore",
+        "geoBeerId": "b7caa7e2-5e28-415d-a4c2-df32b5a65343"
       }
     },
     {
@@ -34,7 +35,8 @@
         "marker-size": "small",
         "name": "Iron Hill Chestnut Hill",
         "address": "8400 Germantown Avenue, Philadelphia, Pennsylvania 19118",
-        "url": "http://www.ironhillbrewery.com/chestnuthill"
+        "url": "http://www.ironhillbrewery.com/chestnuthill",
+        "geoBeerId": "5149ac84-cd72-4d57-9418-fa9feb80bc53"
       }
     },
     {
@@ -52,7 +54,8 @@
         "marker-size": "small",
         "name": "Iron Hill Huntingdon Valley",
         "address": "785 Huntingdon Pike, Huntingdon Valley, PA 19006",
-        "url": "http://www.ironhillbrewery.com/huntingdonvalley"
+        "url": "http://www.ironhillbrewery.com/huntingdonvalley",
+        "geoBeerId": "92309ab4-6dcf-45c5-9c61-f18be39a8fbc"
       }
     },
     {
@@ -70,7 +73,8 @@
         "marker-size": "small",
         "name": "Iron Hill Lancaster",
         "address": "781 Harrisburg Pike, Lancaster, Pennsylvania 17603",
-        "url": "http://www.ironhillbrewery.com/lancaster"
+        "url": "http://www.ironhillbrewery.com/lancaster",
+        "geoBeerId": "76412eae-3899-4a3b-b138-2465b9066c6f"
       }
     },
     {
@@ -88,7 +92,8 @@
         "marker-size": "small",
         "name": "Iron Hill Maple Shade",
         "address": "124 East Kings Highway, Maple Shade, New Jersey 08052",
-        "url": "http://www.ironhillbrewery.com/mapleshade"
+        "url": "http://www.ironhillbrewery.com/mapleshade",
+        "geoBeerId": "41fa39f3-f6c5-4efe-8744-a7ae449dca36"
       }
     },
     {
@@ -106,7 +111,8 @@
         "marker-size": "large",
         "name": "Iron Hill Media",
         "address": "30 East State Street, Media, Pennsylvania 19063",
-        "url": "http://www.ironhillbrewery.com/media"
+        "url": "http://www.ironhillbrewery.com/media",
+        "geoBeerId": "112a46a1-2e17-41e5-97ee-16245520e015"
       }
     },
     {
@@ -124,7 +130,8 @@
         "marker-size": "large",
         "name": "Iron Hill Newark",
         "address": "147 East Main Street, Newark, Delaware 19711",
-        "url": "http://www.ironhillbrewery.com/newark"
+        "url": "http://www.ironhillbrewery.com/newark",
+        "geoBeerId": "a14e36f1-0065-4a27-b77b-7397769af52a"
       }
     },
     {
@@ -142,7 +149,8 @@
         "marker-size": "small",
         "name": "Iron Hill North Wales",
         "address": "1460 Bethlehem Pike, North Wales, Pennsylvania 19454",
-        "url": "http://www.ironhillbrewery.com/northwales"
+        "url": "http://www.ironhillbrewery.com/northwales",
+        "geoBeerId": "b45d1fec-4966-4b73-9d53-a9404e333837"
       }
     },
     {
@@ -160,7 +168,8 @@
         "marker-size": "large",
         "name": "Iron Hill Phoenixville",
         "address": "130 E. Bridge Street, Phoenixville, Pennsylvania 19460",
-        "url": "http://www.ironhillbrewery.com/phoenixville"
+        "url": "http://www.ironhillbrewery.com/phoenixville",
+        "geoBeerId": "03c661d7-9708-4f20-944e-8d9100a1766a"
       }
     },
     {
@@ -178,7 +187,8 @@
         "marker-size": "small",
         "name": "Iron Hill Voorhees",
         "address": "13107 Town Center Boulevard, Voorhees, New Jersey 08043",
-        "url": "http://www.ironhillbrewery.com/voorhees"
+        "url": "http://www.ironhillbrewery.com/voorhees",
+        "geoBeerId": "630b4cd5-5acf-4fa0-88d8-94a0d1c8f208"
       }
     },
     {
@@ -196,7 +206,8 @@
         "marker-size": "large",
         "name": "Iron Hill West Chester",
         "address": "3 West Gay Street, West Chester, Pennsylvania 19380",
-        "url": "http://www.ironhillbrewery.com/westchester"
+        "url": "http://www.ironhillbrewery.com/westchester",
+        "geoBeerId": "bb173002-4beb-4983-a923-0be77f83969a"
       }
     },
     {
@@ -214,7 +225,8 @@
         "marker-size": "large",
         "name": "Iron Hill Wilmington",
         "address": "620 Justison Street, Wilmington, Delaware 19801",
-        "url": "http://www.ironhillbrewery.com/wilmington"
+        "url": "http://www.ironhillbrewery.com/wilmington",
+        "geoBeerId": "c2362a82-e05f-45d0-82b2-602c5b5b4655"
       }
     }
   ]

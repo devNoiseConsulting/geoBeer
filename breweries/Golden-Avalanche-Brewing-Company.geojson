@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Golden Avalanche Brewing Company",
         "address": "272 W. Main St., Kutztown, PA 19530",
-        "url": "http://kutztowntavern.com/golden.html"
+        "url": "http://kutztowntavern.com/golden.html",
+        "geoBeerId": "c8edcbb1-83e2-4167-a075-3a348327b832"
       }
     }
   ]

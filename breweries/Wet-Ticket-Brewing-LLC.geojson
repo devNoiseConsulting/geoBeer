@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Wet Ticket Brewing, LLC.",
         "address": "1435 Main St, Rahway, NJ 07065",
-        "url": "https://www.wetticketbrewing.com/"
+        "url": "https://www.wetticketbrewing.com/",
+        "geoBeerId": "768eb0c8-f1b0-464d-84ed-8a17ee056cc5"
       }
     }
   ]

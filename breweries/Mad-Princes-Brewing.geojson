@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mad Princes Brewing",
         "address": "2537 Bogarts Tavern Rd, Buckingham, PA 18902",
-        "url": "http://madprincesbrewing.com/"
+        "url": "http://madprincesbrewing.com/",
+        "geoBeerId": "3151b02b-025d-419e-acf6-1e8d087aca3d"
       }
     }
   ]

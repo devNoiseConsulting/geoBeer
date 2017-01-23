@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Yergey Brewing",
         "address": "518 Bank St, Emmaus, PA 18049",
-        "url": "http://www.yergeybrewing.com/"
+        "url": "http://www.yergeybrewing.com/",
+        "geoBeerId": "d53d5c2c-baee-4a22-a3ed-79905d172623"
       }
     }
   ]

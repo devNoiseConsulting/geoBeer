@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Dogfish Head Craft Brewery",
         "address": "6 Village Center Blvd, Milton, DE 19968",
-        "url": "http://dogfish.com"
+        "url": "http://dogfish.com",
+        "geoBeerId": "f96b255f-6e12-43c4-87fb-f2cfb4b43d3e"
       }
     },
     {
@@ -34,7 +35,8 @@
         "marker-size": "medium",
         "name": "Dogfish Head Brewings & Eats",
         "address": "320 Rehoboth Ave, Rehoboth Beach, DE 19971",
-        "url": "http://dogfish.com"
+        "url": "http://dogfish.com",
+        "geoBeerId": "ff9c78cd-3563-4fb9-b663-3441d035bf8c"
       }
     }
   ]

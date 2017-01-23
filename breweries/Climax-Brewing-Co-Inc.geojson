@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Climax Brewing Co Inc",
         "address": "112 Valley Rd, Roselle Park, NJ 07204-1402",
-        "url": "http://www.climaxbrewing.com/"
+        "url": "http://www.climaxbrewing.com/",
+        "geoBeerId": "ba49b67c-e325-41fc-addc-febcdc85c59d"
       }
     }
   ]

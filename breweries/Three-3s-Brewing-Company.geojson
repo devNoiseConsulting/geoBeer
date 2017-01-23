@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Three 3's Brewing Company",
         "address": "50 13th St, Hammonton, NJ 08037",
-        "url": "https://twitter.com/three3sbrew"
+        "url": "https://twitter.com/three3sbrew",
+        "geoBeerId": "104556d0-cc02-4690-9b76-bb09ecd433e5"
       }
     }
   ]

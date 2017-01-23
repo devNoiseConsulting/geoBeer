@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Black Forest Brewery",
         "address": "301 W Main St, Ephrata, PA 17522",
-        "url": "http://www.blackforestbrewery.net/"
+        "url": "http://www.blackforestbrewery.net/",
+        "geoBeerId": "c103de47-5ae9-42f2-8935-0bc898cc2d92"
       }
     }
   ]

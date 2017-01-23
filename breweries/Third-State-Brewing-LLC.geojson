@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Third State Brewing, LLC.",
         "address": "352 High Street, Burlington, NJ 08016",
-        "url": "http://www.thirdstatebrewing.com/"
+        "url": "http://www.thirdstatebrewing.com/",
+        "geoBeerId": "5f4ac6ba-f67f-4a25-83ff-b2468511c500"
       }
     }
   ]

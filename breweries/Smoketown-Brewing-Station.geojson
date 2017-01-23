@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Smoketown Brewing Station",
         "address": "223 W Potomac St, Brunswick, MD 21716, USA",
-        "url": "http://www.smoketownbrewing.com/"
+        "url": "http://www.smoketownbrewing.com/",
+        "geoBeerId": "2abc934c-9102-4694-972c-45a18f37a1a5"
       }
     }
   ]

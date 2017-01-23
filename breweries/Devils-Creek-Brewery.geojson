@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Devil's Creek Brewery",
         "address": "1 Powell Ln, Collingswood, NJ 08108",
-        "url": "http://www.devilscreekbrewery.com/"
+        "url": "http://www.devilscreekbrewery.com/",
+        "geoBeerId": "989a5109-b82d-4ac6-a810-37edffec1be9"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Lunacy Brewing",
         "address": "214 Davis Rd, Magnolia, NJ 08049",
-        "url": "http://lunacybrewingcompany.com"
+        "url": "http://lunacybrewingcompany.com",
+        "geoBeerId": "34aa28bf-9c16-4f9f-b2fa-ae40be4760d9"
       }
     }
   ]

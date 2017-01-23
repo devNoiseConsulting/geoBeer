@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Turkey Hill Brewing Company",
         "address": "991 Central Road, Bloomsburg, PA 17815",
-        "url": "http://www.turkeyhillbrewing.com/"
+        "url": "http://www.turkeyhillbrewing.com/",
+        "geoBeerId": "0761f2d1-c338-4ea2-ac9c-df88276c9d4e"
       }
     }
   ]

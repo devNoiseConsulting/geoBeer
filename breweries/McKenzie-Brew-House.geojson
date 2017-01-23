@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "McKenzie Brew House (Chadds Ford)",
         "address": "451 Wilmington-West Chester Pike | Glen Mills, PA 19342",
-        "url": "http://mckenziebrewhouse.com/chaddsford/"
+        "url": "http://mckenziebrewhouse.com/chaddsford/",
+        "geoBeerId": "2fa0b7c7-ce08-43f1-98d9-78a4b00e724d"
       }
     },
     {
@@ -34,7 +35,8 @@
         "marker-size": "large",
         "name": "McKenzie Brew House (Devon)",
         "address": "324 Swedesford Rd, Berwyn, PA 19312",
-        "url": "http://mckenziebrewhouse.com/devon/"
+        "url": "http://mckenziebrewhouse.com/devon/",
+        "geoBeerId": "b3324dd7-bf6b-49b1-86d1-0539e9a6e854"
       }
     },
     {
@@ -52,7 +54,8 @@
         "marker-size": "large",
         "name": "McKenzie Brew House (Malvern)",
         "address": "240 Lancaster Ave, Malvern, PA 19355",
-        "url": "http://mckenziebrewhouse.com/malvern/"
+        "url": "http://mckenziebrewhouse.com/malvern/",
+        "geoBeerId": "c3f31123-5433-4209-b7fb-e1c837c0cbf2"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Brewery ARS",
         "address": "1927 W Passyunk Ave, Philadelphia, PA 19145",
-        "url": "http://breweryars.com/"
+        "url": "http://breweryars.com/",
+        "geoBeerId": "d918731c-3e2f-4386-a3c6-46adace24ed3"
       }
     }
   ]

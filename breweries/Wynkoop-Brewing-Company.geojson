@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Wynkoop Brewing Company",
         "address": "1634 18th St. Denver, Colorado, 80202",
-        "url": "http://www.wynkoop.com/"
+        "url": "http://www.wynkoop.com/",
+        "geoBeerId": "7c920ecf-bdd5-4bbd-b26d-0621f0707b81"
       }
     }
   ]

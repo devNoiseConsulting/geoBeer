@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Selin’s Grove Brewing Company",
         "address": "121 North Market Street, Selinsgrove, PA 17870",
-        "url": "http://www.selinsgrovebrewing.com/"
+        "url": "http://www.selinsgrovebrewing.com/",
+        "geoBeerId": "66266170-a263-41d5-9767-57b55c7709fb"
       }
     }
   ]

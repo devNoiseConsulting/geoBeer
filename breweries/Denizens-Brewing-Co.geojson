@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Denizens Brewing Co.",
         "address": "1115 East-West Highway, Silver Spring, MD 20910, USA",
-        "url": "http://denizensbrewingco.com/"
+        "url": "http://denizensbrewingco.com/",
+        "geoBeerId": "0deb5cc5-3334-4fc8-b46c-5ac404972c60"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Tomfoolery Brewing Company",
         "address": "334 N. Washington Street, Unit 24B, Hammonton, NJ",
-        "url": "http://tomfoolerybrewing.com/"
+        "url": "http://tomfoolerybrewing.com/",
+        "geoBeerId": "d05277d1-1424-4311-a396-ca8623aa9ed5"
       }
     }
   ]

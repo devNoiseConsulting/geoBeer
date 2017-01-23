@@ -16,7 +16,8 @@
         "marker-size": "large",
         "name": "Tonewood Brewing",
         "address": "215 W Clinton Ave, Oaklyn, NJ 08107",
-        "url": "http://www.tonewoodbrewing.com/"
+        "url": "http://www.tonewoodbrewing.com/",
+        "geoBeerId": "f8a321e4-481c-433e-840f-25fb2312cddd"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Broken Goblet Brewing",
         "address": "1500 Grundy Ln, Bristol, PA 19007",
-        "url": "http://brokengoblet.com"
+        "url": "http://brokengoblet.com",
+        "geoBeerId": "225a1638-57d4-43ff-926c-7b03f41c2b2c"
       }
     }
   ]

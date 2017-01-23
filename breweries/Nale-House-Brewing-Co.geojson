@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Nale House Brewing Co.",
         "address": "32 N Main St, Medford, NJ 08055",
-        "url": "https://www.facebook.com/nalehousebc/"
+        "url": "https://www.facebook.com/nalehousebc/",
+        "geoBeerId": "4fd71bad-c3f5-477f-becc-0385f89457bf"
       }
     }
   ]

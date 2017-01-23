@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Jersey Girl Brewing Company",
         "address": "426 Sand Shore Rd, Hackettstown, NJ 07840-5535",
-        "url": "http://www.jerseygirlbrewing.com/"
+        "url": "http://www.jerseygirlbrewing.com/",
+        "geoBeerId": "825a301b-c34f-4248-b644-f6c0b8f3199b"
       }
     }
   ]

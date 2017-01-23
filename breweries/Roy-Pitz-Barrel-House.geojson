@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Roy-Pitz Barrel House",
         "address": "990 Spring Garden St, Philadelphia, PA 19123",
-        "url": "http://www.roypitzbarrelhouse.com/"
+        "url": "http://www.roypitzbarrelhouse.com/",
+        "geoBeerId": "4b8d1bdc-883a-4c66-9ae4-86a1f3741cb2"
       }
     }
   ]

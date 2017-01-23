@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Funk Brewing",
         "address": "19TH S 6th St, Emmaus, PA 18049",
-        "url": "http://www.funkbrewing.com/"
+        "url": "http://www.funkbrewing.com/",
+        "geoBeerId": "99ca49cd-68f9-43e2-9ab7-664794968f75"
       }
     }
   ]

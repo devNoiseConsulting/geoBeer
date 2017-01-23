@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Demented Brewing Company",
         "address": "600 Lincoln Blvd, Middlesex, NJ 08846",
-        "url": "http://www.dementedbrewing.com/"
+        "url": "http://www.dementedbrewing.com/",
+        "geoBeerId": "63063c64-22b4-419d-9dbb-21bd835d171c"
       }
     }
   ]

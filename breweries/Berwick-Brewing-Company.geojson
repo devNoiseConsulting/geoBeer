@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Berwick Brewing Company",
         "address": "328 West Front Street, Berwick, PA 18603",
-        "url": "http://www.barleycreek.com/"
+        "url": "http://www.barleycreek.com/",
+        "geoBeerId": "41ad83fd-2462-4ed8-bfbf-7e6617b89e2c"
       }
     }
   ]

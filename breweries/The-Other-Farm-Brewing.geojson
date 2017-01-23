@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Other Farm Brewing",
         "address": "128 E Philadelphia Ave, Boyertown, PA 19512",
-        "url": "http://theotherfarmbrewingcompany.com"
+        "url": "http://theotherfarmbrewingcompany.com",
+        "geoBeerId": "acc03623-8942-4914-974a-5363d25908cd"
       }
     }
   ]

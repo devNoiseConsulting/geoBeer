@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Urban Village Brewing Company",
         "address": "1001 N. 2nd Street, Philadelphia, PA",
-        "url": "http://urbanvillagebrewing.com/"
+        "url": "http://urbanvillagebrewing.com/",
+        "geoBeerId": "d7bf8973-d7be-4d61-8299-8d8e25dcc728"
       }
     }
   ]

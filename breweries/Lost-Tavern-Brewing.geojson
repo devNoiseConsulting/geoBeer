@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Lost Tavern Brewing",
         "address": "782 Main St, Hellertown, PA 18055",
-        "url": "https://www.losttavernbrewing.com/"
+        "url": "https://www.losttavernbrewing.com/",
+        "geoBeerId": "5d361150-4da2-4f93-b6b1-c90f8a8b2638"
       }
     }
   ]

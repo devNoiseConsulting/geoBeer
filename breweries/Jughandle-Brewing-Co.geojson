@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Jughandle Brewing Co",
         "address": "4057 Asbury Ave, Tinton Falls, NJ 07753",
-        "url": "http://www.jughandlebrewing.com/"
+        "url": "http://www.jughandlebrewing.com/",
+        "geoBeerId": "019614f3-8c40-420b-a647-e2b17b9ac6c2"
       }
     }
   ]

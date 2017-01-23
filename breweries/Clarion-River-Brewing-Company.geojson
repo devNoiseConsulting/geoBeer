@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Clarion River Brewing Company",
         "address": "600-604 Main Street, Clarion, PA 16214",
-        "url": "http://clarionriverbrew.com/"
+        "url": "http://clarionriverbrew.com/",
+        "geoBeerId": "9dbd00dd-561a-4012-9251-137c52b994fc"
       }
     }
   ]

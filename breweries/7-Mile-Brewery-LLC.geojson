@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "7 Mile Brewery, LLC.",
         "address": "3156 Route 9 South, Rio Grande, NJ 08242",
-        "url": "http://www.7milebrew.com/"
+        "url": "http://www.7milebrew.com/",
+        "geoBeerId": "94a5701b-fce3-4c1a-8328-e6837bedf113"
       }
     }
   ]

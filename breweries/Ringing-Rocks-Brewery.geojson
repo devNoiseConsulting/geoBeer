@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Ringing Rocks Brewery",
         "address": "919 Easton Rd, Riegelsville, PA 18077",
-        "url": "https://www.facebook.com/RingingRocksBrewery"
+        "url": "https://www.facebook.com/RingingRocksBrewery",
+        "geoBeerId": "54c97b6b-bc10-4cae-8b86-3139423bcd28"
       }
     }
   ]

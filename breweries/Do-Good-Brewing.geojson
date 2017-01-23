@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Do Good Brewing",
         "address": "3245 Amber St, Philadelphia, PA 19134",
-        "url": "http://dogoodbrewing.com/"
+        "url": "http://dogoodbrewing.com/",
+        "geoBeerId": "c677a2c9-70de-4633-82b8-1cdbb7e0c94c"
       }
     }
   ]

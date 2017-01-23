@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Antietam Brewery",
         "address": "49 Eastern Boulevard North, Hagerstown, MD 21740, USA",
-        "url": "http://www.antietambrewery.com/"
+        "url": "http://www.antietambrewery.com/",
+        "geoBeerId": "400d7e24-2b8f-4621-be11-10995ae0a4fa"
       }
     }
   ]

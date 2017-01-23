@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Spoonwood Brewing Co.",
         "address": " 5981 Baptist Rd., Pittsburgh, PA 15236",
-        "url": "http://spoonwoodbrewing.com/"
+        "url": "http://spoonwoodbrewing.com/",
+        "geoBeerId": "a69836d4-f3eb-4bd4-9246-9e84a7a3ca81"
       }
     }
   ]

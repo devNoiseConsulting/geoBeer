@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Lion Brewery",
         "address": "700 N Pennsylvania Ave., Wilkes-Barre, PA 18705",
-        "url": "http://lionbrewery.com"
+        "url": "http://lionbrewery.com",
+        "geoBeerId": "dc60ee52-5664-41ca-95b2-ce6fbf4aecf0"
       }
     }
   ]

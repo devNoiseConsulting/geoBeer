@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "The Ship Inn Restaurant & Brewery",
         "address": "61 Bridge St, Milford, NJ 08848",
-        "url": "http://www.shipinn.com/"
+        "url": "http://www.shipinn.com/",
+        "geoBeerId": "2ac0bc69-7ca5-4b60-9045-d589f0ee4fda"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Slack Tide Brewing Company",
         "address": "1072 Route 83, Unit 3, Clermont, NJ 08230",
-        "url": "http://www.slacktidebrewingco.com/"
+        "url": "http://www.slacktidebrewingco.com/",
+        "geoBeerId": "2800f51f-cd57-4bd5-af77-40b6efdca27f"
       }
     }
   ]

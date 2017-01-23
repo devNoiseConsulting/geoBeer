@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Eclipse Brewing",
         "address": "10 East Chestnut Ave, Merchantville, NJ 08109",
-        "url": "https://www.facebook.com/Eclipse-Brewing-726218560847250/"
+        "url": "https://www.facebook.com/Eclipse-Brewing-726218560847250/",
+        "geoBeerId": "fc1c3893-250e-4788-9b2a-e0e74920ec76"
       }
     }
   ]

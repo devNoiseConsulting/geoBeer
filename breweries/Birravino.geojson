@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Birravino",
         "address": "183 Riverside Ave, Red Bank, NJ 07701",
-        "url": "http://birravino.com/"
+        "url": "http://birravino.com/",
+        "geoBeerId": "e18f518a-3b8f-40bf-a98f-6ec2ad37c53d"
       }
     }
   ]

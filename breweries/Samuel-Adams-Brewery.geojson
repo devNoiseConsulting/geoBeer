@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Samuel Adams Brewery",
         "address": "7880 Penn Drive, Breinigsville, PA 18031",
-        "url": "http://samueladams.com"
+        "url": "http://samueladams.com",
+        "geoBeerId": "c7036086-cc72-40a9-93f3-10e09ea357aa"
       }
     }
   ]

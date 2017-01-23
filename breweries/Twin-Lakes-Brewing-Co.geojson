@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Twin Lakes Brewing Co.",
         "address": "405 E Marsh Ln #7, Newport, DE 19804",
-        "url": "http://twinlakesbrewingcompany.com/"
+        "url": "http://twinlakesbrewingcompany.com/",
+        "geoBeerId": "2e113e7f-1e75-4a7b-a849-74931b2b4681"
       }
     }
   ]

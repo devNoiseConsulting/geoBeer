@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Rinn Duin Brewing",
         "address": "1540 RT-37 W, Unit B-5, Toms River, NJ 08755",
-        "url": "http://rinnduinbrewing.com/"
+        "url": "http://rinnduinbrewing.com/",
+        "geoBeerId": "b4c1b4ed-5417-4015-8c47-a1fc6fdd4b9b"
       }
     }
   ]
