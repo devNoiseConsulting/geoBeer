@@ -10,21 +10,21 @@ if (fileName) {
   }
 
   breweries = breweries.filter(function(n) {
-    return n != undefined
+    return n !== undefined;
   });
   breweries = breweries.map(createBrewery);
   breweries.forEach(writeBrewery);
 } else {
-  function getFileName(path) {
-    return path.substring(path.lastIndexOf('/') + 1, path.length);
-  }
-
   var node = getFileName(process.argv[0]);
   var script = getFileName(process.argv[1]);
 
   console.log("Usage: " + node + " " + script + " <filename> ");
   console.log("\nExpects a tab delimited text file following the following column format:");
   console.log("1) Brewery\n2) Address\n3) GeoLat\n4) GeoLong\n5) WebsiteUrl");
+}
+
+function getFileName(path) {
+  return path.substring(path.lastIndexOf('/') + 1, path.length);
 }
 
 function writeBrewery(brewery) {
