@@ -16,7 +16,7 @@
         "marker-size": "small",
         "name": "Conshohocken Brewing",
         "address": "Suite B, 739 E Elm St, Conshohocken, PA 19428",
-        "url": "http://conshohockenbrewing.com",
+        "url": "http://conshohockenbrewing.com/",
         "geoBeerId": "1e679ed7-2b6b-45a4-919b-acdba1bede46"
       }
     },
@@ -35,7 +35,7 @@
         "marker-size": "small",
         "name": "Conshohocken Brewing",
         "address": "3 DeKalb St. Bridgeport, PA 19405",
-        "url": "http://conshohockenbrewing.com",
+        "url": "http://conshohockenbrewing.com/",
         "geoBeerId": "949c4fd2-0475-4c7d-949e-621e7f465ed6"
       }
     }
