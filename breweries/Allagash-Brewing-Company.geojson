@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.317847,
+          43.703088
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Allagash Brewing Company",
+        "address": "50 Industrial Way, Portland, ME 04103",
+        "url": "http://www.allagash.com/",
+        "geoBeerId": "18336ab3-e2a9-470c-ada3-776f440d7880"
+      }
+    }
+  ]
+}

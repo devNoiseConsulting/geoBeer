@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.204285,
+          44.543971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Grassroots Brewing",
+        "address": "403 Hill Road, Greensboro Bend, VT 05842",
+        "url": "http://www.hillfarmstead.com/grassrootsbrewing/",
+        "geoBeerId": "82e1b9b6-ca04-4e36-9abb-8a8d37ffe8be"
+      }
+    }
+  ]
+}

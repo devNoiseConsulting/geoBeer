@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.265166,
+          38.545692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Perennial Artisan Ales",
+        "address": "8125 Michigan Ave., St. Louis, MO 63111",
+        "url": "http://www.perennialbeer.com/",
+        "geoBeerId": "644ddf29-9447-487d-a7d9-a0c7af13d970"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.227125,
+          44.082037
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Boneyard Beer Company",
+        "address": "37 Lake Street, Suite B, Bend, OR 97701",
+        "url": "http://www.boneyardbeer.com/",
+        "geoBeerId": "a001726f-96fc-4a7b-80f7-c5d4c2f8851f"
+      }
+    }
+  ]
+}

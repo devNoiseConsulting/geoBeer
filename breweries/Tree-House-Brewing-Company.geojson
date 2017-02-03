@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.289541,
+          42.089283
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tree House Brewing Company",
+        "address": "160 East Hill Road, Monson, MA 01057",
+        "url": "http://www.treehousebrew.com/",
+        "geoBeerId": "ce94b584-2720-4da4-9b4a-f6b140fc2da8"
+      }
+    }
+  ]
+}

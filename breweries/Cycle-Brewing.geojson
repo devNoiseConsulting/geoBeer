@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.640765,
+          27.770919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cycle Brewing",
+        "address": "534 Central Ave, Saint Petersburg, FL 33701",
+        "url": "https://www.facebook.com/pages/Cycle-Brewing/454861824560821",
+        "geoBeerId": "e9ad74ea-cc14-4b78-b3f9-5bab56fe71a0"
+      }
+    }
+  ]
+}

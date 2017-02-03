@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.191006,
+          32.96984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Westbrook Brewing",
+        "address": "510 Ridge Road, Mt. Pleasant, SC 29464",
+        "url": "http://westbrookbrewing.com/",
+        "geoBeerId": "0154b0da-77b8-4473-ae73-e6284482f90a"
+      }
+    }
+  ]
+}

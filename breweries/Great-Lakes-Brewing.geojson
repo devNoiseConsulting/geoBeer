@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.703913,
+          41.484653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Great Lakes Brewing",
+        "address": "2516 Market Avenue, Cleveland, OH 44113",
+        "url": "http://www.greatlakesbrewing.com/",
+        "geoBeerId": "4fbd532a-fded-49b8-8eab-4974e16198de"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.069664,
+          40.592743
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "New Belgium Brewing Company",
+        "address": "500 Linden St, Fort Collins, CO 80524",
+        "url": "http://www.newbelgium.com/",
+        "geoBeerId": "70ea782f-aaa0-4a13-8fd7-6b9a242ee323"
+      }
+    }
+  ]
+}

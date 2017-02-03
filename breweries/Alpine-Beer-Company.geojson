@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.762683,
+          32.834679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Alpine Beer Company",
+        "address": "2363 Alpine Blvd, Alpine, CA 91901",
+        "url": "http://www.alpinebeerco.com/",
+        "geoBeerId": "ab4d5841-edd0-4ed1-94d6-14ce05dc8c50"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82949,
+          41.388875
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fat Head’s Brewery",
+        "address": "18741 Sheldon Road, Middleburgh Heights, OH 44130",
+        "url": "http://www.fatheadsbeer.com/",
+        "geoBeerId": "96e0d06f-0daa-4940-813d-97efb963665a"
+      }
+    }
+  ]
+}

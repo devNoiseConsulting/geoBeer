@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.164158,
+          39.321869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "FiftyFifty Brewing Company",
+        "address": "11197 Brockway Rd #1, Truckee, CA 96161",
+        "url": "http://www.fiftyfiftybrewing.com/",
+        "geoBeerId": "ea201d2c-108b-48a4-ab20-85c5bb53d217"
+      }
+    }
+  ]
+}

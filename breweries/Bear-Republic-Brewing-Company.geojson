@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.870925,
+          38.611202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bear Republic Brewing Company",
+        "address": "345 Healdsburg Avenue, Healdsburg, CA 95448",
+        "url": "http://www.bearrepublic.com/",
+        "geoBeerId": "d919dcfb-5dfd-447a-b237-85d83b228cef"
+      }
+    }
+  ]
+}

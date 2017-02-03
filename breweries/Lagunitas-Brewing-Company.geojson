@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665572,
+          38.273558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lagunitas Brewing Company",
+        "address": "1280 N McDowell Blvd, Petaluma, CA 94954",
+        "url": "http://www.lagunitas.com/",
+        "geoBeerId": "0ef31f6d-5604-45da-9cee-68dceaed97ac"
+      }
+    }
+  ]
+}

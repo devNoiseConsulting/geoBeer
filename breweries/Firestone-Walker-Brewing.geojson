@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.694406,
+          35.592213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Firestone Walker Brewing",
+        "address": "1400 Ramada Dr, Paso Robles, CA 93446",
+        "url": "http://www.firestonebeer.com/",
+        "geoBeerId": "7018ac83-9d84-4236-a361-a0e70f8a09d0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.453694,
+          42.118441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Livery",
+        "address": "190 Fifth Street, Benton Harbor, MI 49022",
+        "url": "http://www.liverybrew.com/",
+        "geoBeerId": "c96ac46a-66a1-4543-80ce-679dfee752f9"
+      }
+    }
+  ]
+}

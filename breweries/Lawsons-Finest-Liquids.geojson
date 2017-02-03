@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85595,
+          44.112
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lawson’s Finest Liquids",
+        "address": "Warren, VT 05674",
+        "url": "http://www.lawsonsfinest.com/",
+        "geoBeerId": "281e468b-af0d-4fc6-8622-188b5f05ecd2"
+      }
+    }
+  ]
+}

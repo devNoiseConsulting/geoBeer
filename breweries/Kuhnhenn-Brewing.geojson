@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.047101,
+          42.527804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Kuhnhenn Brewing",
+        "address": "5919 Chicago Road, Warren, MI 48092",
+        "url": "http://www.kbrewery.com/",
+        "geoBeerId": "b8ef6e71-fdbd-49d5-984d-567bf8413e0c"
+      }
+    }
+  ]
+}

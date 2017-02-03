@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.58511,
+          35.593442
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Duck-Rabbit Craft Brewery",
+        "address": "4519 W Pine St, Farmville, NC 27828",
+        "url": "http://www.duckrabbitbrewery.com/",
+        "geoBeerId": "098c4d57-dd7c-46b3-af6e-10999e4c99d3"
+      }
+    }
+  ]
+}

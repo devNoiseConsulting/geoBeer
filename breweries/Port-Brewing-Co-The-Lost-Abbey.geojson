@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.149872,
+          33.140565
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Port Brewing Co / The Lost Abbey",
+        "address": "155 Mata Way Suite 104, San Marcos, CA 92069",
+        "url": "http://www.lostabbey.com/",
+        "geoBeerId": "6310863c-78fe-42f2-af19-b5082050a5c9"
+      }
+    }
+  ]
+}

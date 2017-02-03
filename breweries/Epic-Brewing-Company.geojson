@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.888069,
+          40.751458
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Epic Brewing Company",
+        "address": "825 S State St, Salt Lake City, UT 84111",
+        "url": "http://www.epicbrewing.com/",
+        "geoBeerId": "76529f6d-973d-4803-b898-293b7850ece2"
+      }
+    }
+  ]
+}

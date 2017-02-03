@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.097543,
+          43.864477
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Maine Beer Company",
+        "address": "525 US Route One, Freeport, ME 04032",
+        "url": "http://www.mainebeercompany.com/",
+        "geoBeerId": "132bd0d9-e5ee-4176-a633-7a06bb3e7cf2"
+      }
+    }
+  ]
+}

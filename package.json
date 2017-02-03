@@ -5,7 +5,9 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "merge": "node ./bin/mergeBreweries.js ./breweries"
+    "merge": "node ./bin/mergeBreweries.js ./breweries",
+    "format": "node ./bin/formatJSON.js ./breweries",
+    "uuid": "node ./bin/addUUID.js ./breweries"
   },
   "repository": {
     "type": "git",

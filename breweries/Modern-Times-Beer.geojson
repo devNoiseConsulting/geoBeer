@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.206154,
+          32.754233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Modern Times Beer",
+        "address": "3725 Greenwood St, San Diego, CA 92110",
+        "url": "http://moderntimesbeer.com/",
+        "geoBeerId": "6fe5ceea-72a0-4264-ad03-5a1249c11bfb"
+      }
+    }
+  ]
+}

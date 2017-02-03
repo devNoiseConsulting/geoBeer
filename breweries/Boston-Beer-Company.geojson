@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.102221,
+          42.313879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Boston Beer Company",
+        "address": "30 Germania St., Boston, MA 02116",
+        "url": "http://www.samadams.com/",
+        "geoBeerId": "ecd822c6-fde1-419d-82db-0d4093f84adc"
+      }
+    }
+  ]
+}

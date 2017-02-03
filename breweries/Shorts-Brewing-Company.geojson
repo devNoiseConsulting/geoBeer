@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.209853,
+          44.975971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Shorts Brewing Company",
+        "address": "121 N Bridge Street, Bellaire, MI 49615",
+        "url": "http://www.shortsbrewing.com/",
+        "geoBeerId": "04a9e276-eb49-4ef2-816d-5d248beddc55"
+      }
+    }
+  ]
+}

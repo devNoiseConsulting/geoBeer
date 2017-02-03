@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.678921,
+          41.543336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Flossmoor Station Restaurant & Brewery",
+        "address": "1035 Sterling Ave, Flossmoor, IL 60422",
+        "url": "http://www.flossmoorstation.com/",
+        "geoBeerId": "d409e384-d540-45fe-bf7b-11a21f059663"
+      }
+    }
+  ]
+}

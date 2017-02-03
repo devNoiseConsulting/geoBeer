@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.716654,
+          44.476168
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Alchemist",
+        "address": "100 Cottage Club Road, Stowe, VT 05672",
+        "url": "http://www.alchemistbeer.com/",
+        "geoBeerId": "87c9fab2-c8b0-4495-b334-c9999795a475"
+      }
+    }
+  ]
+}

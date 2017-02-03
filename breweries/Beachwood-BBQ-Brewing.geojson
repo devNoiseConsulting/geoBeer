@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.190864,
+          33.770352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Beachwood BBQ & Brewing",
+        "address": "210 E 3rd St, Long Beach, CA 90802",
+        "url": "http://www.beachwoodbbq.com/",
+        "geoBeerId": "66edaf34-3709-4b68-a82a-d604adf74dbd"
+      }
+    }
+  ]
+}

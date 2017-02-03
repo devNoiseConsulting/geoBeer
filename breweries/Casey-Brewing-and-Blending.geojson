@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3165,
+          39.515305
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Casey Brewing and Blending",
+        "address": "3421 Grand Avenue, Glenwood Springs, CO 81601",
+        "url": "http://caseybrewing.com/",
+        "geoBeerId": "59037bfc-d69b-45d5-bc0a-0415af353fae"
+      }
+    }
+  ]
+}

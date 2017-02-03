@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24881,
+          44.973374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Minneapolis Town Hall Brewery",
+        "address": "1430 Washington Ave S, Minneapolis, MI 55454",
+        "url": "http://www.townhallbrewery.com/",
+        "geoBeerId": "a88f5f1d-1cdd-4036-a4dd-b2eb0719bac6"
+      }
+    }
+  ]
+}

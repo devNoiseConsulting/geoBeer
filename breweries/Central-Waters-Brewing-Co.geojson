@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.279571,
+          44.445359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Central Waters Brewing Co.",
+        "address": "351 Allen Street, Amherst, WI 54406",
+        "url": "http://www.centralwaters.com/",
+        "geoBeerId": "27406996-76a4-4bbb-ad23-0cd863cf3de4"
+      }
+    }
+  ]
+}

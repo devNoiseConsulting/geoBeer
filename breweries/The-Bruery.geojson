@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.880165,
+          33.861325
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Bruery",
+        "address": "715 Dunn Way, Placentia, CA 92870",
+        "url": "http://www.thebruery.com/",
+        "geoBeerId": "e251f327-f2f3-492b-97b8-35a0d8b8bb8e"
+      }
+    }
+  ]
+}

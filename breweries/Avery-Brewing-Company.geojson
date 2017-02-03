@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.203226,
+          40.062696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Avery Brewing Company",
+        "address": "4910 Nautilus Ct, Boulder, CO 80301",
+        "url": "http://www.averybrewing.com/",
+        "geoBeerId": "5acff51d-0218-4617-992f-70db3381cbd6"
+      }
+    }
+  ]
+}

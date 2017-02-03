@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.84522,
+          61.147076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Midnight Sun Brewing Company",
+        "address": "8111 Dimond Hook Dr, Anchorage, AK 99507",
+        "url": "http://www.midnightsunbrewing.com/",
+        "geoBeerId": "7b6539ee-b629-48c4-a63b-3743eec7027e"
+      }
+    }
+  ]
+}

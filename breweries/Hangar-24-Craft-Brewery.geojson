@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.142411,
+          34.083225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hangar 24 Craft Brewery",
+        "address": "1710 Sessums Drive, Redlands, CA 92374",
+        "url": "http://www.hangar24brewery.com/",
+        "geoBeerId": "521184bc-b975-4477-a8df-ce287247fed6"
+      }
+    }
+  ]
+}

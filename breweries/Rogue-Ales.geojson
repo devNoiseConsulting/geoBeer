@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.048289,
+          44.619546
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rogue Ales",
+        "address": "2320 OSU Drive, Newport, OR 97365",
+        "url": "http://www.rogue.com/",
+        "geoBeerId": "e2f49f24-a117-43c0-bdb2-e00b33dedbaf"
+      }
+    }
+  ]
+}

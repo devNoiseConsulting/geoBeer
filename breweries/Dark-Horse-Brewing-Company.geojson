@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.963939,
+          42.266709
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dark Horse Brewing Company",
+        "address": "511 S Kalamazoo St, Marshall, MI 49068",
+        "url": "http://www.darkhorsebrewery.com/",
+        "geoBeerId": "7e10f683-de51-4587-9d7c-20e22b837d67"
+      }
+    }
+  ]
+}

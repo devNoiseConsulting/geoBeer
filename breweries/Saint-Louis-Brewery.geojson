@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.209429,
+          38.633373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saint Louis Brewery",
+        "address": "2100 Locust Street, St. Louis, MO 63103",
+        "url": "http://www.schlafly.com/",
+        "geoBeerId": "d6afd907-4895-41e7-9ee3-b112c488a760"
+      }
+    }
+  ]
+}

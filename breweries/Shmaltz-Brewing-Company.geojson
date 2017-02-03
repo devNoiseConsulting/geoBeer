@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.791291,
+          42.901503
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Shmaltz Brewing Company",
+        "address": "6 Fairchild Square, Clifton Park, NY 12065",
+        "url": "http://www.shmaltzbrewing.com/",
+        "geoBeerId": "8142b526-6531-46d7-89f8-02bb2252a614"
+      }
+    }
+  ]
+}

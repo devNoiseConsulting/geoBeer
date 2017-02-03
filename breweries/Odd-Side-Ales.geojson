@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.233018,
+          43.064772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Odd Side Ales",
+        "address": "41 Washington Avenue, Grand Haven, MI 49417",
+        "url": "http://www.oddsideales.com/",
+        "geoBeerId": "a9e09183-03d4-41c5-9f4c-04908b591357"
+      }
+    }
+  ]
+}

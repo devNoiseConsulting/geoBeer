@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.102048,
+          39.327712
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Jackie O’s Pub & Brewery",
+        "address": "24 West Union Street, Athens, OH 45701",
+        "url": "http://www.jackieos.com/",
+        "geoBeerId": "b26faf16-b5d9-44cb-a1dc-54a841399eb1"
+      }
+    }
+  ]
+}

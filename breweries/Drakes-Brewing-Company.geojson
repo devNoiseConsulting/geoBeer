@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.181806,
+          37.717562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Drakes Brewing Company",
+        "address": "1933 Davis St, #177, San Leandro, CA 94577",
+        "url": "http://www.drinkdrakes.com/",
+        "geoBeerId": "8f2872d6-8ce3-4f92-84e1-1f39b7b0fd03"
+      }
+    }
+  ]
+}

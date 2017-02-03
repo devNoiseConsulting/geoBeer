@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.596758,
+          39.08268
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Boulevard Brewing Company",
+        "address": "2501 Southwest Boulevard, Kansas City, MO 64108",
+        "url": "http://www.boulevard.com/",
+        "geoBeerId": "b6a098e3-954b-41c2-a417-48bd629ac36f"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.988421,
+          39.753628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Great Divide Brewing Company",
+        "address": "2201 Arapahoe St, Denver, CO 80205",
+        "url": "http://www.greatdivide.com/",
+        "geoBeerId": "06801236-d267-48df-a3f6-bd4e0aebe5f2"
+      }
+    }
+  ]
+}

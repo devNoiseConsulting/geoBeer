@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.797553,
+          43.308708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Toppling Goliath",
+        "address": "310 College Drive, P.O. Box #477, Decorah, IA 52101",
+        "url": "http://www.tgbrews.com/",
+        "geoBeerId": "ba4a247f-b0a2-424a-8bf7-9ea86103f33b"
+      }
+    }
+  ]
+}

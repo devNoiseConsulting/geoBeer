@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.864132,
+          42.68571
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Clown Shoes Beer",
+        "address": "Ipswich, MA 01938",
+        "url": "http://www.clownshoesbeer.com/",
+        "geoBeerId": "c0b582d2-5813-44d4-b101-27b8737a2dc4"
+      }
+    }
+  ]
+}

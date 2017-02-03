@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.462256,
+          41.02716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hoppin’ Frog Brewery",
+        "address": "1680 E. Waterloo Rd. (Rte 224) Suite F, Akron, OH 44306",
+        "url": "http://www.hoppinfrog.com/",
+        "geoBeerId": "60230f5e-1f40-4934-8b83-31e23a6b05d6"
+      }
+    }
+  ]
+}

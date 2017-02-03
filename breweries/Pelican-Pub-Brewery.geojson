@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.969558,
+          45.215574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Pelican Pub & Brewery",
+        "address": "33180 Cape Kiwanda Drive, Pacific City, OR 97135",
+        "url": "http://www.pelicanbrewery.com/",
+        "geoBeerId": "cafd6726-cedd-47f2-aaf4-c7b0faddc1a3"
+      }
+    }
+  ]
+}

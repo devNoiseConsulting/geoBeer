@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.841383,
+          33.315669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Arizona Wilderness Brewing Company",
+        "address": "721 N. Arizona Ave #103, Gilbert, AZ 85233",
+        "url": "http://www.azwbeer.com/",
+        "geoBeerId": "6fc3b33f-165d-4b3c-a9fd-78250d80b6ea"
+      }
+    }
+  ]
+}

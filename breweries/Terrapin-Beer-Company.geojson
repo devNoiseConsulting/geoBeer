@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.397762,
+          33.988394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Terrapin Beer Company",
+        "address": "265 Newton Bridge Rd., Athens, GA 30607",
+        "url": "http://www.terrapinbeer.com/",
+        "geoBeerId": "ae96f73e-0168-4430-8d72-3467b903459e"
+      }
+    }
+  ]
+}

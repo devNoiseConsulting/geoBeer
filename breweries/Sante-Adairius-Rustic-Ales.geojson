@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.946083,
+          36.983617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sante Adairius Rustic Ales",
+        "address": "103 Kennedy Dr, Capitola, CA 95010",
+        "url": "http://www.santeadairius.com/",
+        "geoBeerId": "32ac7b20-5f00-4ca3-aed5-406d237a157d"
+      }
+    }
+  ]
+}

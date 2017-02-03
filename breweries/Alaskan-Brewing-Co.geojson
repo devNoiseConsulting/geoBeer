@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.492201,
+          58.35688
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Alaskan Brewing Co",
+        "address": "5429 Shaune Dr, Juneau, AK 99801",
+        "url": "http://www.alaskanbeer.com/",
+        "geoBeerId": "7ac8f6b8-6561-45a0-837c-b3909ac0c0e3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.388308,
+          37.760023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Almanac Beer Company",
+        "address": "2339 3rd Street, Suite 20, San Francisco, CA 94107",
+        "url": "http://www.almanacbeer.com/",
+        "geoBeerId": "0f6c4dcf-817e-4dbc-b1ad-9b756f42da01"
+      }
+    }
+  ]
+}

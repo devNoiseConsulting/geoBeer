@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.857502,
+          42.943238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Smuttynose Brewing Company",
+        "address": "105 Towle Farm Road, Hampton, NH 03842",
+        "url": "http://smuttynose.com/",
+        "geoBeerId": "0b053ea8-2786-4deb-95f4-b64f1bea5e5a"
+      }
+    }
+  ]
+}

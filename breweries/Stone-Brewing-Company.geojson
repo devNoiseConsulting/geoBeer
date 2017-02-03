@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.120274,
+          33.115648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Stone Brewing Company",
+        "address": "1999 Citracado Pkwy, Escondido, CA 92029",
+        "url": "http://www.stonebrewing.com/",
+        "geoBeerId": "611d3c18-7257-4950-ac76-f1be66db8656"
+      }
+    }
+  ]
+}

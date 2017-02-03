@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.806175,
+          39.437142
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "North Coast Brewing Company",
+        "address": "455 North Main Street, Fort Bragg, CA 94357",
+        "url": "http://www.northcoastbrewing.com/",
+        "geoBeerId": "a531bc4d-05ae-4e99-9f20-58d8b6b74000"
+      }
+    }
+  ]
+}

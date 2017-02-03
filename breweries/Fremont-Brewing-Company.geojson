@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344192,
+          47.648786
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fremont Brewing Company",
+        "address": "3409 Woodland Park Ave N, Seattle, WA 98103",
+        "url": "http://www.fremontbrewing.com/",
+        "geoBeerId": "a51c9740-a54e-45c1-b7cf-51425194587a"
+      }
+    }
+  ]
+}

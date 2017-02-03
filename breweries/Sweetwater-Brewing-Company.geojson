@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.381117,
+          33.808067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sweetwater Brewing Company",
+        "address": "195 Ottley Dr, Atlanta, GA 30324",
+        "url": "http://www.sweetwaterbrew.com/",
+        "geoBeerId": "e376c90e-5400-4b2c-a5a3-bc8f98f5dd1c"
+      }
+    }
+  ]
+}

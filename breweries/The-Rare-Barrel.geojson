@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.291912,
+          37.858626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Rare Barrel",
+        "address": "940 Parker St, Berkeley, CA 94710",
+        "url": "http://www.therarebarrel.com/",
+        "geoBeerId": "df1ee32c-fd20-4276-adbc-c0fa93d8bc30"
+      }
+    }
+  ]
+}

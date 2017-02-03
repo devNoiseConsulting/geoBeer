@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.815582,
+          41.068389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Captain Lawrence Brewing Company",
+        "address": "444 Saw Mill River Road, Elmsford, NY 10523",
+        "url": "http://captainlawrencebrewing.com/",
+        "geoBeerId": "1eec28b9-9761-47e7-bed8-b029900cb7b9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6719,
+          41.886699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Goose Island Beer Company",
+        "address": "1800 West Fulton Street, Chicago, IL 60612",
+        "url": "http://www.gooseisland.com/",
+        "geoBeerId": "ba1064e5-586f-41fc-ac2d-5a0b30360a9c"
+      }
+    }
+  ]
+}

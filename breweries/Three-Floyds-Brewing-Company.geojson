@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.515893,
+          41.536615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Three Floyds Brewing Company",
+        "address": "9750 Indiana Parkway, Munster, IN 46321",
+        "url": "http://www.3floyds.com/",
+        "geoBeerId": "0943794d-2027-4b84-9304-cc24b3bc4657"
+      }
+    }
+  ]
+}

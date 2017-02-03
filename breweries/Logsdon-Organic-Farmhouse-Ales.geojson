@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.53769,
+          45.586877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Logsdon Organic Farmhouse Ales",
+        "address": "4785 Booth Hill Rd, Hood River, OR 97031",
+        "url": "http://farmhousebeer.com/",
+        "geoBeerId": "5e3ca70e-23f8-4c03-97fd-0716209f208e"
+      }
+    }
+  ]
+}

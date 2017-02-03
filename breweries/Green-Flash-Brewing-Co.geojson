@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17784,
+          32.907382
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Green Flash Brewing Co.",
+        "address": "6550 Mira Mesa Blvd, San Diego, CA 92121",
+        "url": "http://www.greenflashbrew.com/",
+        "geoBeerId": "7c233ead-5835-47ec-968a-af6c0a16ab06"
+      }
+    }
+  ]
+}

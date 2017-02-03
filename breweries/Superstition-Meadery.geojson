@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.469837,
+          34.542049
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Superstition Meadery",
+        "address": "120 W Gurley St, Prescott, AZ 86301-3607",
+        "url": "http://superstitionmeadery.com/",
+        "geoBeerId": "c59694c5-e8b1-446b-9620-680671b11a75"
+      }
+    }
+  ]
+}

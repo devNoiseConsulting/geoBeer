@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.687122,
+          41.912396
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Pipeworks Brewing Company",
+        "address": "1675 N Western Ave, Chicago, IL 60647",
+        "url": "http://www.pipeworksbrewing.com/",
+        "geoBeerId": "5c527af6-36dc-40c3-b4b0-c82deff3cac9"
+      }
+    }
+  ]
+}

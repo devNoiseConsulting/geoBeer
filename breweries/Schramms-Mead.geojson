@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.138268,
+          42.460355
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Schramm’s Mead",
+        "address": "327 West 9 Mile Road, Ferndale, MI 48220",
+        "url": "http://www.schrammsmead.com/",
+        "geoBeerId": "63bd9dc7-e7a0-424f-ab5d-27e92a0fa1eb"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.917724,
+          42.686385
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brewery Ommegang",
+        "address": "656 County Highway 33, Cooperstown, NY 13326",
+        "url": "http://www.ommegang.com/",
+        "geoBeerId": "5b3fd72e-015c-4cca-8d1e-c13540592582"
+      }
+    }
+  ]
+}

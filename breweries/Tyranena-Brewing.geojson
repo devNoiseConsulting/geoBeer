@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.899723,
+          43.082242
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tyranena Brewing",
+        "address": "1025 Owen Street, Lake Mills, WI 53551",
+        "url": "http://www.tyranena.com/",
+        "geoBeerId": "416f5161-c756-410c-883a-d227784b0c9c"
+      }
+    }
+  ]
+}

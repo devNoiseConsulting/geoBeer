@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.550976,
+          35.591791
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wicked Weed Brewing",
+        "address": "91 Biltmore Street, Asheville, NC 28801",
+        "url": "http://www.wickedweedbrewing.com/",
+        "geoBeerId": "ffe33f97-fd09-4551-b432-2d712e809199"
+      }
+    }
+  ]
+}

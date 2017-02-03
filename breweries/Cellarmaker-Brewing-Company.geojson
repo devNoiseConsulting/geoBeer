@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410768,
+          37.777218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cellarmaker Brewing Company",
+        "address": "1150 Howard St, San Francisco, CA 94103",
+        "url": "http://www.cellarmakerbrewing.com/",
+        "geoBeerId": "e88a079c-8c06-4b42-a352-99a424415467"
+      }
+    }
+  ]
+}

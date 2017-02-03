@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.347934,
+          33.159845
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Pizza Port",
+        "address": "571 Carlsbad Village Dr, Carlsbad, CA 92008",
+        "url": "http://www.pizzaport.com/",
+        "geoBeerId": "7fb37084-69aa-4205-b363-3e92d6a97468"
+      }
+    }
+  ]
+}

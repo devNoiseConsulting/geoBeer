@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.06138,
+          40.588912
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Odell Brewing Company",
+        "address": "800 East Lincoln Avenue, Fort Collins, CO 80524",
+        "url": "http://www.odells.com/",
+        "geoBeerId": "ba960e38-452f-428b-a0f9-9cb495b1d71a"
+      }
+    }
+  ]
+}

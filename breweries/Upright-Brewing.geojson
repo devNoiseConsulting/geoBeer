@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.668607,
+          45.534798
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Upright Brewing",
+        "address": "240 N. Broadway, Portland, OR 97227",
+        "url": "http://uprightbrewing.com/",
+        "geoBeerId": "351628ac-2170-4338-8760-f1bc5b8b2ed6"
+      }
+    }
+  ]
+}

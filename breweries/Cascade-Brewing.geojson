@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.752247,
+          45.485944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cascade Brewing",
+        "address": "7424 SW Beaverton-Hillsdale Hwy, Portland, OR 97225",
+        "url": "http://www.cascadebrewing.com/",
+        "geoBeerId": "bf45d345-1663-47cb-b528-dd70d83af7e0"
+      }
+    }
+  ]
+}

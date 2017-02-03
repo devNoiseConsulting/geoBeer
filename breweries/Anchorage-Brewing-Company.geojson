@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.886671,
+          61.138681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Anchorage Brewing Company",
+        "address": "148 W 91st Ave, Anchorage, AK 99515",
+        "url": "http://www.anchoragebrewingcompany.com/",
+        "geoBeerId": "e8aa782c-3e15-4448-ab4c-f16c16298b7a"
+      }
+    }
+  ]
+}

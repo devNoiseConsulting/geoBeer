@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.323205,
+          44.047565
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Deschutes Brewery",
+        "address": "901 SW Simpson Ave, Bend, OR 97702",
+        "url": "http://www.deschutesbrewery.com/",
+        "geoBeerId": "b17d96e3-e114-421e-8d88-ed1ec68e8577"
+      }
+    }
+  ]
+}

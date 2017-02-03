@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5167,
+          45.710426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Full Sail Brewing Company",
+        "address": "506 Columbia Street, Hood River, OR 97031",
+        "url": "http://www.fullsailbrewing.com/",
+        "geoBeerId": "6675a4c9-ad9f-45c7-b0cb-5ccd06813a7c"
+      }
+    }
+  ]
+}

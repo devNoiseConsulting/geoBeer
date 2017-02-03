@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.63181,
+          42.805343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "New Glarus Brewing Company",
+        "address": "2400 State Highway 69, New Glarus, WI 53574",
+        "url": "http://www.newglarusbrewing.com/",
+        "geoBeerId": "c1b8566d-7fbb-4144-a90e-c82a45595406"
+      }
+    }
+  ]
+}

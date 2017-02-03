@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.996878,
+          30.233292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Jester King Brewery",
+        "address": "13187 Fitzhugh Rd, Bldg B, Austin, TX 78736",
+        "url": "http://jesterkingbrewery.com/",
+        "geoBeerId": "7c6327c4-14f2-4544-ab6b-e6cd83f9e2f4"
+      }
+    }
+  ]
+}

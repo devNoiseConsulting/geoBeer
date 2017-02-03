@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.673412,
+          42.958624
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Founders Brewing Company",
+        "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+        "url": "http://www.foundersbrewing.com/",
+        "geoBeerId": "699d6ed5-a804-4826-b9cf-eca7b72b94ed"
+      }
+    }
+  ]
+}

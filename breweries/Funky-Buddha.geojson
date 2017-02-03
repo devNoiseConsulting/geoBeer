@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.130882,
+          26.175282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Funky Buddha",
+        "address": "1201 NE 38th Street, Oakland Park, FL 33334",
+        "url": "http://funkybuddhabrewery.com/",
+        "geoBeerId": "bfe64356-2036-4c51-8100-e708e77f0be1"
+      }
+    }
+  ]
+}

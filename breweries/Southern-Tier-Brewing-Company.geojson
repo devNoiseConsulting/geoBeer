@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.335723,
+          42.103491
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Southern Tier Brewing Company",
+        "address": "2072 Stoneman Circle, Lakewood, NY 14750",
+        "url": "http://www.southerntierbrewing.com/",
+        "geoBeerId": "91a29dd4-af4d-41b8-84d8-cf7648782633"
+      }
+    }
+  ]
+}

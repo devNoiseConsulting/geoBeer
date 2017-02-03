@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.250721,
+          36.098316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Foothills Brewing",
+        "address": "638 West Fourth Street, Winston-Salem, NC 27120",
+        "url": "http://foothillsbrewing.com/",
+        "geoBeerId": "e7af7cea-feb6-4012-9bf0-f6187490f378"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.149643,
+          32.88817
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "AleSmith Brewing Company",
+        "address": "9990 AleSmith Ct, San Diego, CA 92126",
+        "url": "http://www.alesmith.com/",
+        "geoBeerId": "8a993c95-a787-49cc-9d1a-d5b137336897"
+      }
+    }
+  ]
+}

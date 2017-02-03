@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.005428,
+          32.250427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dragoon Brewing Company",
+        "address": "1859 W. Grant Road #111, Tucson, AZ 85745",
+        "url": "http://www.dragoonbrewing.com/",
+        "geoBeerId": "1a67f913-4a2c-42e7-9d28-5ac5948d521e"
+      }
+    }
+  ]
+}

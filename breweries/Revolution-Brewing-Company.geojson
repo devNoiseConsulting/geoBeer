@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.698058,
+          41.923514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Revolution Brewing Company",
+        "address": "2323 N Milwaukee Ave, Chicago, IL 60647",
+        "url": "http://www.revbrew.com/",
+        "geoBeerId": "b3ecf937-ba14-4090-87d5-9a31e1509531"
+      }
+    }
+  ]
+}

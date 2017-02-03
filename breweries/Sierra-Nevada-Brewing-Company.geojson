@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.813371,
+          39.724776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sierra Nevada Brewing Company",
+        "address": "1075 E 20th St, Chico, CA 95928",
+        "url": "http://www.sierranevada.com/",
+        "geoBeerId": "d27763df-d191-4a08-a559-a32bfe565b7e"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.211278,
+          44.974285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Surly Brewing Company",
+        "address": "520 Malcolm Avenue SE, Minneapolis, MI 55414",
+        "url": "http://www.surlybrewing.com/",
+        "geoBeerId": "22c7c608-5d5e-4d5c-8952-009032949392"
+      }
+    }
+  ]
+}

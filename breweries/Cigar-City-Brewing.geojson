@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.509305,
+          27.958674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cigar City Brewing",
+        "address": "3924 W Spruce Street, Tampa, FL 33607",
+        "url": "http://www.cigarcitybrewing.com/",
+        "geoBeerId": "20349194-0da7-48fd-80d3-e43c6631d245"
+      }
+    }
+  ]
+}

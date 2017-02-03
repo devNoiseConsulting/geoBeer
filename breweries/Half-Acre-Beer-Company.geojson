@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.682074,
+          41.95922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Half Acre Beer Company",
+        "address": "4257 N. Lincoln Avenue, Chicago, IL 60618",
+        "url": "http://www.halfacrebeer.com/",
+        "geoBeerId": "57cf7be4-dc69-4adc-9b94-615d79035c94"
+      }
+    }
+  ]
+}

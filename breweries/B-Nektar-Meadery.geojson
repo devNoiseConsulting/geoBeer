@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.114491,
+          42.456915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "B. Nektar Meadery",
+        "address": "1511 Jarvis, Ferndale, MI 48220",
+        "url": "http://www.bnektar.com/",
+        "geoBeerId": "3affba90-6a2a-4370-9fb0-994449ee4aa8"
+      }
+    }
+  ]
+}

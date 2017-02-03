@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.798698,
+          45.42356
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "De Garde Brewing",
+        "address": "6000 Blimp Blvd, Tillamook, OR 97141",
+        "url": "http://degardebrewing.com/",
+        "geoBeerId": "aa772b73-e6cf-473e-8847-279180d62229"
+      }
+    }
+  ]
+}

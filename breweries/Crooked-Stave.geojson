@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.981001,
+          39.768811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Crooked Stave",
+        "address": "3350 Brighton Blvd, Denver, CO 80216",
+        "url": "http://www.crookedstave.com/",
+        "geoBeerId": "b9dde483-8280-4bd5-81ef-ac47ed113539"
+      }
+    }
+  ]
+}

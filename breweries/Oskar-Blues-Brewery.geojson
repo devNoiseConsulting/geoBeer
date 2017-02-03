@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.121754,
+          40.137749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Oskar Blues Brewery",
+        "address": "1800 Pike Rd, Longmont, CO 80501",
+        "url": "http://www.oskarblues.com/",
+        "geoBeerId": "795995f7-f85a-4f4c-a5a4-454236e9b71d"
+      }
+    }
+  ]
+}

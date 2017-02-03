@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.048459,
+          42.350158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Trillium Brewing Company",
+        "address": "369 Congress Street, Boston, MA 02210",
+        "url": "http://www.trilliumbrewing.com/",
+        "geoBeerId": "9ddd3e03-3707-4a3c-9979-020238fc1ab0"
+      }
+    }
+  ]
+}

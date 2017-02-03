@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.195235,
+          32.766848
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ballast Point Brewing Company",
+        "address": "5401 Linda Vista Rd Ste 406, San Diego, CA 92110",
+        "url": "http://www.ballastpoint.com/",
+        "geoBeerId": "e1da6910-312b-4ba9-9a97-891116e82b35"
+      }
+    }
+  ]
+}

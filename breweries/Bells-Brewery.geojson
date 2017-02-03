@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.460787,
+          42.287287
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bells Brewery",
+        "address": "8690 Krum Ave., Galesburg, MI 49053",
+        "url": "http://www.bellsbeer.com/",
+        "geoBeerId": "f580b5fe-bc11-4bc0-9a3c-4ab88852e200"
+      }
+    }
+  ]
+}

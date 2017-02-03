@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969248,
+          40.708893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Evil Twin Brewing",
+        "address": "446 Kent Ave Apt 14A, Brooklyn, NY 11249",
+        "url": "http://www.eviltwin.dk/",
+        "geoBeerId": "92a78647-514c-45bd-a143-d66210b4832a"
+      }
+    }
+  ]
+}

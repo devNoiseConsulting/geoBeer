@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.322065,
+          38.612158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Side Project Brewing",
+        "address": "7458 Manchester Road, Maplewood, MO 63143",
+        "url": "http://www.sideprojectbrewing.com/",
+        "geoBeerId": "40ed4526-a6f3-4eaf-95a2-c3aaaf9a2ec0"
+      }
+    }
+  ]
+}

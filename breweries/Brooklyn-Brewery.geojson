@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957626,
+          40.721592
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brooklyn Brewery",
+        "address": "79 North 11th Street, Brooklyn, NY 11211",
+        "url": "http://www.brooklynbrewery.com/",
+        "geoBeerId": "915031ce-76bc-4d91-baa4-9306d085679c"
+      }
+    }
+  ]
+}

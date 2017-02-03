@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.665463,
+          45.515965
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hair of the Dog Brewing Company",
+        "address": "61 SE Yamhill Street, Portland, OR 97214",
+        "url": "http://www.hairofthedog.com/",
+        "geoBeerId": "8c8b7d2a-bd20-4f7f-a0cf-492b32249372"
+      }
+    }
+  ]
+}

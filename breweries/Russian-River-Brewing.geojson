@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.712056,
+          38.441515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Russian River Brewing",
+        "address": "725 4th St., Santa Rosa, CA 95404",
+        "url": "http://www.russianriverbrewing.com/",
+        "geoBeerId": "355c9d95-51fd-4737-a106-de8a86810ec6"
+      }
+    }
+  ]
+}
