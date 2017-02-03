@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Fat Head’s Brewery",

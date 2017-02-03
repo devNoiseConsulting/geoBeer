@@ -144,7 +144,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Against the Grain Brewery",
@@ -163,7 +163,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Alaskan Brewing Co",
@@ -201,7 +201,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "AleSmith Brewing Company",
@@ -239,7 +239,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Allagash Brewing Company",
@@ -258,7 +258,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Almanac Beer Company",
@@ -277,7 +277,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Alpine Beer Company",
@@ -296,7 +296,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Anchorage Brewing Company",
@@ -486,7 +486,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Arizona Wilderness Brewing Company",
@@ -581,7 +581,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Avery Brewing Company",
@@ -600,7 +600,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "B. Nektar Meadery",
@@ -657,7 +657,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ballast Point Brewing Company",
@@ -771,7 +771,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Beachwood BBQ & Brewing",
@@ -790,7 +790,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Bear Republic Brewing Company",
@@ -847,7 +847,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Bells Brewery",
@@ -1056,7 +1056,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Boneyard Beer Company",
@@ -1094,7 +1094,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Boston Beer Company",
@@ -1113,7 +1113,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Boulevard Brewing Company",
@@ -1189,7 +1189,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Brewery Ommegang",
@@ -1284,7 +1284,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Brooklyn Brewery",
@@ -1436,7 +1436,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Captain Lawrence Brewing Company",
@@ -1474,7 +1474,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Cascade Brewing",
@@ -1493,7 +1493,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Casey Brewing and Blending",
@@ -1531,7 +1531,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Cellarmaker Brewing Company",
@@ -1550,7 +1550,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Central Waters Brewing Co.",
@@ -1607,7 +1607,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Cigar City Brewing",
@@ -1664,7 +1664,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Clown Shoes Beer",
@@ -1873,7 +1873,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Crooked Stave",
@@ -1911,7 +1911,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Cycle Brewing",
@@ -1987,7 +1987,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Dark Horse Brewing Company",
@@ -2006,7 +2006,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "De Garde Brewing",
@@ -2082,7 +2082,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Deschutes Brewery",
@@ -2272,7 +2272,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Dragoon Brewing Company",
@@ -2291,7 +2291,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Drakes Brewing Company",
@@ -2443,7 +2443,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Elysian Brewing",
@@ -2462,7 +2462,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Epic Brewing Company",
@@ -2538,7 +2538,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Evil Twin Brewing",
@@ -2595,7 +2595,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Fat Head’s Brewery",
@@ -2652,7 +2652,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "FiftyFifty Brewing Company",
@@ -2671,7 +2671,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Firestone Walker Brewing",
@@ -2709,7 +2709,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Flossmoor Station Restaurant & Brewery",
@@ -2804,7 +2804,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Foothills Brewing",
@@ -2880,7 +2880,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Founders Brewing Company",
@@ -2937,7 +2937,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Fremont Brewing Company",
@@ -2994,7 +2994,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Full Sail Brewing Company",
@@ -3051,7 +3051,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Funky Buddha",
@@ -3108,7 +3108,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Goose Island Beer Company",
@@ -3165,7 +3165,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Grassroots Brewing",
@@ -3184,7 +3184,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Great Divide Brewing Company",
@@ -3203,7 +3203,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Great Lakes Brewing",
@@ -3222,7 +3222,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Green Flash Brewing Co.",
@@ -3279,7 +3279,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Hair of the Dog Brewing Company",
@@ -3298,7 +3298,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Half Acre Beer Company",
@@ -3317,7 +3317,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Hangar 24 Craft Brewery",
@@ -3469,7 +3469,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Hill Farmstead Brewery",
@@ -3564,7 +3564,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Hoppin’ Frog Brewery",
@@ -3906,7 +3906,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ithaca Beer Company",
@@ -3925,7 +3925,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Jackie O’s Pub & Brewery",
@@ -3944,7 +3944,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Jack’s Abby Brewing",
@@ -4001,7 +4001,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Jester King Brewery",
@@ -4058,7 +4058,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Jolly Pumpkin Artisan Ales",
@@ -4191,7 +4191,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Kuhnhenn Brewing",
@@ -4229,7 +4229,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Lagunitas Brewing Company",
@@ -4305,7 +4305,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Lawson’s Finest Liquids",
@@ -4400,7 +4400,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Logsdon Organic Farmhouse Ales",
@@ -4590,7 +4590,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Maine Beer Company",
@@ -4761,7 +4761,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Midnight Sun Brewing Company",
@@ -4837,7 +4837,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Minneapolis Town Hall Brewery",
@@ -4875,7 +4875,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Modern Times Beer",
@@ -5027,7 +5027,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "New Belgium Brewing Company",
@@ -5046,7 +5046,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "New Glarus Brewing Company",
@@ -5122,7 +5122,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "North Coast Brewing Company",
@@ -5198,7 +5198,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Odd Side Ales",
@@ -5217,7 +5217,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Odell Brewing Company",
@@ -5293,7 +5293,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Oskar Blues Brewery",
@@ -5350,7 +5350,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Pelican Pub & Brewery",
@@ -5388,7 +5388,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Perennial Artisan Ales",
@@ -5445,7 +5445,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Pipeworks Brewing Company",
@@ -5464,7 +5464,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Pizza Port",
@@ -5483,7 +5483,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Port Brewing Co / The Lost Abbey",
@@ -5502,7 +5502,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Prairie Artisan Ales",
@@ -5692,7 +5692,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Revolution Brewing Company",
@@ -5825,7 +5825,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Rogue Ales",
@@ -5939,7 +5939,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Russian River Brewing",
@@ -5996,7 +5996,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Saint Louis Brewery",
@@ -6034,7 +6034,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Sante Adairius Rustic Ales",
@@ -6072,7 +6072,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Schramm’s Mead",
@@ -6186,7 +6186,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Shmaltz Brewing Company",
@@ -6205,7 +6205,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Shorts Brewing Company",
@@ -6224,7 +6224,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Side Project Brewing",
@@ -6243,7 +6243,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Sierra Nevada Brewing Company",
@@ -6319,7 +6319,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Smuttynose Brewing Company",
@@ -6414,7 +6414,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Southampton Publick House",
@@ -6433,7 +6433,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Southern Tier Brewing Company",
@@ -6661,7 +6661,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Stone Brewing Company",
@@ -6718,7 +6718,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Superstition Meadery",
@@ -6737,7 +6737,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Surly Brewing Company",
@@ -6794,7 +6794,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Sweetwater Brewing Company",
@@ -6813,7 +6813,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Terrapin Beer Company",
@@ -6832,7 +6832,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Alchemist",
@@ -6927,7 +6927,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Bruery",
@@ -6965,7 +6965,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Duck-Rabbit Craft Brewery",
@@ -7003,7 +7003,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Livery",
@@ -7079,7 +7079,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Rare Barrel",
@@ -7155,7 +7155,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Thirsty Dog Brewing Company",
@@ -7193,7 +7193,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Three Floyds Brewing Company",
@@ -7269,7 +7269,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Toppling Goliath",
@@ -7307,7 +7307,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Tree House Brewing Company",
@@ -7326,7 +7326,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Trillium Brewing Company",
@@ -7535,7 +7535,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Tyranena Brewing",
@@ -7554,7 +7554,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Uinta Brewing Company",
@@ -7592,7 +7592,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Upright Brewing",
@@ -7801,7 +7801,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Westbrook Brewing",
@@ -7858,7 +7858,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "star",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Wicked Weed Brewing",
