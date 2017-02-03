@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005736,
+          41.240447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bullfrog Brewery",
+        "address": "231 West Fourth Street, Williamsport, PA 17701",
+        "url": "http://www.bullfrogbrewery.com/",
+        "geoBeerId": "3ba085ee-ea5d-4223-8486-241eadc72dd2"
+      }
+    }
+  ]
+}

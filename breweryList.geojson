@@ -1374,6 +1374,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.005736,
+          41.240447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bullfrog Brewery",
+        "address": "231 West Fourth Street, Williamsport, PA 17701",
+        "url": "http://www.bullfrogbrewery.com/",
+        "geoBeerId": "3ba085ee-ea5d-4223-8486-241eadc72dd2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.895263,
           40.860888
         ]
@@ -5300,6 +5319,25 @@
         "address": "1800 Pike Rd, Longmont, CO 80501",
         "url": "http://www.oskarblues.com/",
         "geoBeerId": "795995f7-f85a-4f4c-a5a4-454236e9b71d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999134,
+          40.673813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Other Half Brewing",
+        "address": "195 Centre Street, Brooklyn, New York, USA  11231",
+        "url": "http://otherhalfbrewing.com/",
+        "geoBeerId": "ad0809d5-8e5d-41ac-b293-ef28ab3af168"
       }
     },
     {
