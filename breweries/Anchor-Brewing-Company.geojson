@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.173031,
-          39.926384
+          -122.400982,
+          37.76324
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "2nd District Brewing",
-        "address": "1939 S Bancroft Street, Philadelphia, PA 19145",
-        "url": "http://www.2nddistrictbrewing.com/",
-        "geoBeerId": "49714193-2d7a-436e-a418-4ced9cddaaad"
+        "name": "Anchor Brewing Company",
+        "address": "1705 Mariposa Street, San Francisco, California, 94107",
+        "url": "http://www.anchorbrewing.com/",
+        "geoBeerId": "fb7b0203-11bb-4fbc-bc54-cf9e8f769dbf"
       }
     }
   ]

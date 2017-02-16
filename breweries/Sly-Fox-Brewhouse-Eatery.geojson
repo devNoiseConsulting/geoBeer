@@ -16,8 +16,27 @@
         "marker-size": "small",
         "name": "Sly Fox Brewhouse & Eatery",
         "address": "520 Kimberton Rd, Phoenixville, PA 19460",
-        "url": "http://slyfoxbeer.com/",
+        "url": "http://slyfoxbeer.com/phoenixville",
         "geoBeerId": "ac408e59-45a9-4e2b-8aab-6d66c7d89d79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668637,
+          40.265218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sly Fox Brewery & Tastin' Room",
+        "address": "331 Circle of Progress Drive, Pottstown, PA 19464",
+        "url": "http://slyfoxbeer.com/pottstown",
+        "geoBeerId": "6ce163b1-1353-4faa-96c9-91021ec978f8"
       }
     }
   ]

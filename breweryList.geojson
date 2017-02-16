@@ -30,12 +30,12 @@
         ]
       },
       "properties": {
-        "marker-symbol": "cross",
-        "marker-color": "#FF8C00",
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "2nd District Brewing",
         "address": "1939 S Bancroft Street, Philadelphia, PA 19145",
-        "url": "https://www.facebook.com/2ndDistrictBrewing/",
+        "url": "http://www.2nddistrictbrewing.com/",
         "geoBeerId": "49714193-2d7a-436e-a418-4ced9cddaaad"
       }
     },
@@ -284,6 +284,25 @@
         "address": "2363 Alpine Blvd, Alpine, CA 91901",
         "url": "http://www.alpinebeerco.com/",
         "geoBeerId": "ab4d5841-edd0-4ed1-94d6-14ce05dc8c50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.400982,
+          37.76324
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Anchor Brewing Company",
+        "address": "1705 Mariposa Street, San Francisco, California, 94107",
+        "url": "http://www.anchorbrewing.com/",
+        "geoBeerId": "fb7b0203-11bb-4fbc-bc54-cf9e8f769dbf"
       }
     },
     {
@@ -2541,7 +2560,7 @@
         "marker-symbol": "cross",
         "marker-color": "#FF8C00",
         "marker-size": "small",
-        "name": "Evil Benius Beer Company",
+        "name": "Evil Genius Beer Company",
         "address": "1731-1733 N. Front Street, Philadelphia, PA 19122, USA",
         "url": "http://www.evilgeniusbeer.com/",
         "geoBeerId": "bd987eaa-d3c2-4a92-9e5a-0b997842d8bc"
@@ -6324,8 +6343,27 @@
         "marker-size": "small",
         "name": "Sly Fox Brewhouse & Eatery",
         "address": "520 Kimberton Rd, Phoenixville, PA 19460",
-        "url": "http://slyfoxbeer.com/",
+        "url": "http://slyfoxbeer.com/phoenixville",
         "geoBeerId": "ac408e59-45a9-4e2b-8aab-6d66c7d89d79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668637,
+          40.265218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sly Fox Brewery & Tastin' Room",
+        "address": "331 Circle of Progress Drive, Pottstown, PA 19464",
+        "url": "http://slyfoxbeer.com/pottstown",
+        "geoBeerId": "6ce163b1-1353-4faa-96c9-91021ec978f8"
       }
     },
     {
