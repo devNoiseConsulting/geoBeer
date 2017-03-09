@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.884391,
+          47.469563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bemidji Brewing Company",
+        "address": "211 America Ave NW, Bemidji, Minnesota 56601",
+        "url": "http://www.bemidjibeer.com/",
+        "geoBeerId": "82ec5a1f-92ca-411d-8fa2-0ed8f0077796"
+      }
+    }
+  ]
+}

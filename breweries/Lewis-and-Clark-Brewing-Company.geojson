@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.021679,
+          46.600228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lewis and Clark Brewing Company",
+        "address": "1517 Dodge Avenue, Helena, Montana 59601",
+        "url": "http://www.lewisandclarkbrewing.com/",
+        "geoBeerId": "486d3887-3f03-48d8-81e6-2b190b46ab26"
+      }
+    }
+  ]
+}

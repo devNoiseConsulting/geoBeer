@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.613914,
+          35.117963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "La Cumbre Brewing Company",
+        "address": "3313 Girard Blvd. NE, Albuquerque, New Mexico 87107",
+        "url": "http://www.lacumbrebrewing.com/",
+        "geoBeerId": "81bd6bd1-14cc-435f-ae38-2fccb41f02c4"
+      }
+    }
+  ]
+}

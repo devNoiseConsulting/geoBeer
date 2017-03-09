@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.189747,
+          33.77025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Beachwood Blendery",
+        "address": "247 Long Beach Blvd., Long Beach, California 90802",
+        "url": "http://beachwoodbbq.com/blendery.html",
+        "geoBeerId": "563fe968-9cfa-4015-b2d7-82c054ee213d"
+      }
+    }
+  ]
+}

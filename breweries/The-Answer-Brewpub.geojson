@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.507179,
+          37.593171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Answer Brewpub",
+        "address": "6008 W Broad Street, Richmond, Virginia 23230",
+        "url": "http://www.theanswerbrewpub.com/",
+        "geoBeerId": "e5559b6b-0e87-4929-8bda-e5f12ce812de"
+      }
+    }
+  ]
+}

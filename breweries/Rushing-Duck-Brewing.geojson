@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.270971,
+          41.362444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rushing Duck Brewing",
+        "address": "1 Battiato Lane, Chester, New York 10918",
+        "url": "http://www.rushingduck.com/",
+        "geoBeerId": "52ce1ffb-0621-4ac4-b9dc-083fb08cc237"
+      }
+    }
+  ]
+}

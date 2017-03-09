@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.280405,
+          38.621869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Shift Brewing",
+        "address": "1601 Sublette Ave., St. Louis, Missouri 63110",
+        "url": "http://www.2ndshiftbrewing.com/",
+        "geoBeerId": "ce8d3f99-839d-479c-ab34-428b4b16f6b4"
+      }
+    }
+  ]
+}

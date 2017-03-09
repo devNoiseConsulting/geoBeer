@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.798318,
+          46.868889
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fargo Brewing Company",
+        "address": "610 North University Drive, Fargo, North Dakota 58104",
+        "url": "http://fargobrewing.com/",
+        "geoBeerId": "d7918316-4e9b-4b90-9ab5-7e28cefe6f84"
+      }
+    }
+  ]
+}

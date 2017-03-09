@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "merge": "node ./bin/mergeBreweries.js ./breweries",
     "format": "node ./bin/formatJSON.js ./breweries",
-    "uuid": "node ./bin/addUUID.js ./breweries"
+    "uuid": "node ./bin/addUUID.js ./breweries",
+    "build": "npm run uuid; npm run format; npm run merge"
   },
   "repository": {
     "type": "git",

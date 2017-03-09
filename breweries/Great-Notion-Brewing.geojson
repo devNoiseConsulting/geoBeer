@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.642856,
+          45.558915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Great Notion Brewing",
+        "address": "2204 NE Alberta #101, Portland, Oregon 97211",
+        "url": "http://greatnotionpdx.com/",
+        "geoBeerId": "648a3d05-fe56-483e-81b2-a1eeb308e053"
+      }
+    }
+  ]
+}

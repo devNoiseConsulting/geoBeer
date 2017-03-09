@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.427726,
+          43.524392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barreled Souls Brewing Company",
+        "address": "743 Portland Road, Saco, Maine 04072",
+        "url": "http://www.barreledsouls.com/",
+        "geoBeerId": "4d1d9241-f95a-4347-a71c-ce548ecdfc97"
+      }
+    }
+  ]
+}

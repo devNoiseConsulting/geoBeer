@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.108049,
+          41.398475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "OEC Brewing (Ordinem Ecentrici Coctores)",
+        "address": "7 Fox Hollow Road, Oxford, Connecticut 06478",
+        "url": "http://oecbrewing.com/",
+        "geoBeerId": "76dafeb7-d9a2-4495-b929-18f67cc1ba94"
+      }
+    }
+  ]
+}

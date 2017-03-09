@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.059624,
+          30.434488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mississippi Brewing Company",
+        "address": "13247 D Seaway Road, Gulfport, Mississippi 39503",
+        "url": "http://www.mississippibrewingcompany.com/",
+        "geoBeerId": "9c1fccae-f917-438f-837a-5c1cb097f5fd"
+      }
+    }
+  ]
+}

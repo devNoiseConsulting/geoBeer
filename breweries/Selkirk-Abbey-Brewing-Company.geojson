@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.868439,
+          47.704776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Selkirk Abbey Brewing Company",
+        "address": "6180 E Seltice Way, Post Falls, Idaho 83854",
+        "url": "http://www.selkirkabbey.com/",
+        "geoBeerId": "297a2b04-3614-47bf-b83d-e2c7636c11fc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.608216,
+          41.581183
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Madhouse Brewing Company",
+        "address": "501 Scott Ave, Des Moines, Iowa 50309",
+        "url": "http://www.madhousebeer.com/",
+        "geoBeerId": "63c77e7d-a3e5-411e-b124-253c17b74b5b"
+      }
+    }
+  ]
+}

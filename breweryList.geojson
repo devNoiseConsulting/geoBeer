@@ -44,6 +44,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.280405,
+          38.621869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Shift Brewing",
+        "address": "1601 Sublette Ave., St. Louis, Missouri 63110",
+        "url": "http://www.2ndshiftbrewing.com/",
+        "geoBeerId": "ce8d3f99-839d-479c-ab34-428b4b16f6b4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.1457558,
           39.9484457
         ]
@@ -671,6 +690,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -120.435455,
+          46.577298
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bale Breaker Brewing Company",
+        "address": "1801 Birchfield Road, Yakima, Washington, USA",
+        "url": "http://www.balebreaker.com/",
+        "geoBeerId": "bd971008-88ee-4a3c-8f37-3c67589f6254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.195235,
           32.766848
         ]
@@ -683,6 +721,25 @@
         "address": "5401 Linda Vista Rd Ste 406, San Diego, CA 92110",
         "url": "http://www.ballastpoint.com/",
         "geoBeerId": "e1da6910-312b-4ba9-9a97-891116e82b35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.140851,
+          36.169157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Banger Brewing Company",
+        "address": "450 Fremont Street   Suite 135, Las Vegas, Nevada 89179",
+        "url": "http://www.bangerbrewing.com/",
+        "geoBeerId": "d1c923c9-caa3-487b-b935-c9cd96e6cfa9"
       }
     },
     {
@@ -747,6 +804,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.427726,
+          43.524392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Barreled Souls Brewing Company",
+        "address": "743 Portland Road, Saco, Maine 04072",
+        "url": "http://www.barreledsouls.com/",
+        "geoBeerId": "4d1d9241-f95a-4347-a71c-ce548ecdfc97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2524818,
           40.0842282
         ]
@@ -797,6 +873,25 @@
         "address": "210 E 3rd St, Long Beach, CA 90802",
         "url": "http://www.beachwoodbbq.com/",
         "geoBeerId": "66edaf34-3709-4b68-a82a-d604adf74dbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.189747,
+          33.77025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Beachwood Blendery",
+        "address": "247 Long Beach Blvd., Long Beach, California 90802",
+        "url": "http://beachwoodbbq.com/blendery.html",
+        "geoBeerId": "563fe968-9cfa-4015-b2d7-82c054ee213d"
       }
     },
     {
@@ -873,6 +968,25 @@
         "address": "8690 Krum Ave., Galesburg, MI 49053",
         "url": "http://www.bellsbeer.com/",
         "geoBeerId": "f580b5fe-bc11-4bc0-9a3c-4ab88852e200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.884391,
+          47.469563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bemidji Brewing Company",
+        "address": "211 America Ave NW, Bemidji, Minnesota 56601",
+        "url": "http://www.bemidjibeer.com/",
+        "geoBeerId": "82ec5a1f-92ca-411d-8fa2-0ed8f0077796"
       }
     },
     {
@@ -1412,6 +1526,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.216644,
+          38.333794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Burley Oak Brewing Company",
+        "address": "10016 Old Ocean City Blvd, Berlin, Maryland 21811",
+        "url": "http://burleyoak.com/",
+        "geoBeerId": "1d3e4759-acc1-4238-ad03-cfb44c100d8e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.895263,
           40.860888
         ]
@@ -1443,6 +1576,25 @@
         "address": "15850 Commerce Ct, Upper Marlboro, MD 20774, USA",
         "url": "http://www.calvertbrewingcompany.com/",
         "geoBeerId": "7ef7ac83-78be-4851-84e0-4595559f4732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.415426,
+          42.984043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Candia Road Brewing Company",
+        "address": "840 Candia Rd, Manchester, New Hampshire 03109",
+        "url": "http://www.candiaroad.com/",
+        "geoBeerId": "2b9ba0f0-7aa0-493c-b860-31201d01ee41"
       }
     },
     {
@@ -1773,6 +1925,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.84194,
+          40.531408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Conclave Brewing",
+        "address": "15 Minneakoning Rd Suite 202, Flemington, New Jersey 08822-5750",
+        "url": "http://www.conclavebrewing.com/",
+        "geoBeerId": "6410e7bb-b63c-4893-adf7-3cc7777f5e04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2946951,
           40.0736983
         ]
@@ -1804,6 +1975,25 @@
         "address": "3 DeKalb St. Bridgeport, PA 19405",
         "url": "http://conshohockenbrewing.com/",
         "geoBeerId": "949c4fd2-0475-4c7d-949e-621e7f465ed6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.587321,
+          28.894629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Copp Winery and Brewery",
+        "address": "11 NE 4th Avenue, Crystal River, Florida 34429",
+        "url": "http://www.coppbrewery.com/",
+        "geoBeerId": "9a5aa4cd-ab19-4fb2-967f-cc8cafba2e46"
       }
     },
     {
@@ -2032,6 +2222,25 @@
         "address": "511 S Kalamazoo St, Marshall, MI 49068",
         "url": "http://www.darkhorsebrewery.com/",
         "geoBeerId": "7e10f683-de51-4587-9d7c-20e22b837d67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.176052,
+          44.955678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Daves BrewFarm",
+        "address": "2470 Wilson Street, Wilson, Wisconsin 54027",
+        "url": "http://brewfarm.com/",
+        "geoBeerId": "4664d237-8f0c-41d7-b18a-416665953876"
       }
     },
     {
@@ -2343,6 +2552,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.637602,
+          37.070815
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Dry Ground Brewing Company",
+        "address": "3121 Broadway Street, Paducah, Kentucky 42001",
+        "url": "http://drygroundbrewing.com/",
+        "geoBeerId": "e8d9519c-a97d-45fe-91e6-c8d0cc16c223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.479151,
           39.3402079
         ]
@@ -2431,6 +2659,25 @@
         "address": "10 East Chestnut Ave, Merchantville, NJ 08109",
         "url": "https://www.facebook.com/Eclipse-Brewing-726218560847250/",
         "geoBeerId": "fc1c3893-250e-4788-9b2a-e0e74920ec76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.946706,
+          32.809777
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Edmund’s Oast",
+        "address": "1081 Morrison Dr, Charleston, South Carolina 29403",
+        "url": "http://edmundsoast.com/",
+        "geoBeerId": "34bbe568-f86c-49d6-a9b3-b035bf8b52c5"
       }
     },
     {
@@ -2621,6 +2868,25 @@
         "address": "825 Highland Rd, Street, MD 21154",
         "url": "http://fallingbranchbeer.com/",
         "geoBeerId": "764fcbf4-c6e7-46cc-aed9-41feee58a01b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.798318,
+          46.868889
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Fargo Brewing Company",
+        "address": "610 North University Drive, Fargo, North Dakota 58104",
+        "url": "http://fargobrewing.com/",
+        "geoBeerId": "d7918316-4e9b-4b90-9ab5-7e28cefe6f84"
       }
     },
     {
@@ -3103,6 +3369,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.72205,
+          43.548776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Gandy Dancer Brew Works",
+        "address": "420 E 8th Street, Sioux Falls, South Dakota 57103-7025",
+        "url": "http://www.monkshouseofalerepute.com/brewery/4578982718",
+        "geoBeerId": "9732de89-c0d6-452b-b065-8711c8a0765c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.071955,
           39.372598
         ]
@@ -3255,6 +3540,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.642856,
+          45.558915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Great Notion Brewing",
+        "address": "2204 NE Alberta #101, Portland, Oregon 97211",
+        "url": "http://greatnotionpdx.com/",
+        "geoBeerId": "648a3d05-fe56-483e-81b2-a1eeb308e053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.17784,
           32.907382
         ]
@@ -3267,6 +3571,25 @@
         "address": "6550 Mira Mesa Blvd, San Diego, CA 92121",
         "url": "http://www.greenflashbrew.com/",
         "geoBeerId": "7c233ead-5835-47ec-968a-af6c0a16ab06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.832404,
+          41.385139
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Grey Sail Brewing Company",
+        "address": "63 Canal St, Westerly, Rhode Island 02891",
+        "url": "http://greysailbrewing.com/",
+        "geoBeerId": "638b620e-9df5-4b05-8cff-fd141525bd7d"
       }
     },
     {
@@ -3666,6 +3989,25 @@
         "address": "418 N Main St, Bel Air, MD 21014",
         "url": "https://www.independentbrew.com/",
         "geoBeerId": "12fb5276-b290-4782-862d-622543f500f7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.007712,
+          41.28484
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Infusion Brewing Company",
+        "address": "6115 Maple St., Omaha, Nebraska 68104",
+        "url": "http://www.infusionbrewing.com/",
+        "geoBeerId": "bf1996fc-220c-49aa-8b10-d31265d5c19c"
       }
     },
     {
@@ -4262,6 +4604,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.613914,
+          35.117963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "La Cumbre Brewing Company",
+        "address": "3313 Girard Blvd. NE, Albuquerque, New Mexico 87107",
+        "url": "http://www.lacumbrebrewing.com/",
+        "geoBeerId": "81bd6bd1-14cc-435f-ae38-2fccb41f02c4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.665572,
           38.273558
         ]
@@ -4357,6 +4718,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -99.328918,
+          38.871765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lb. (Liquid Bread) Brewing Co",
+        "address": "117 East 11th Street, Hays, Kansas 67601",
+        "url": "http://lbbrewing.com/",
+        "geoBeerId": "0e2e3f7b-3338-4788-b160-7c669f1cb9b8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.5899183,
           39.9487565
         ]
@@ -4388,6 +4768,25 @@
         "address": "1380 Wayne Ave, Suite A, Indiana, PA 15701",
         "url": "http://www.levitybrewing.com/",
         "geoBeerId": "883e4f2a-8f47-4372-907c-d373967fe643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.021679,
+          46.600228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lewis and Clark Brewing Company",
+        "address": "1517 Dodge Avenue, Helena, Montana 59601",
+        "url": "http://www.lewisandclarkbrewing.com/",
+        "geoBeerId": "486d3887-3f03-48d8-81e6-2b190b46ab26"
       }
     },
     {
@@ -4604,6 +5003,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.608216,
+          41.581183
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Madhouse Brewing Company",
+        "address": "501 Scott Ave, Des Moines, Iowa 50309",
+        "url": "http://www.madhousebeer.com/",
+        "geoBeerId": "63c77e7d-a3e5-411e-b124-253c17b74b5b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.317441,
           40.860449
         ]
@@ -4718,6 +5136,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -156.440571,
+          20.749782
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Maui Brewing Company",
+        "address": "605 Lipoa Pkwy, Kihei, Maui, Hawaii 96753",
+        "url": "http://www.mauibrewingco.com/",
+        "geoBeerId": "eb24743a-aa53-42ef-aa5f-a345dbf766fc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.3547469,
           40.4424577
         ]
@@ -4787,6 +5224,25 @@
         "address": "240 Lancaster Ave, Malvern, PA 19355",
         "url": "http://mckenziebrewhouse.com/malvern/",
         "geoBeerId": "c3f31123-5433-4209-b7fb-e1c837c0cbf2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761586,
+          43.478666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Melvin Brewing Company (Thai Me Up)",
+        "address": "75 East Pearl Ave, Jackson, Wyoming 83001",
+        "url": "http://www.melvinbrewing.com/",
+        "geoBeerId": "5b8f1e4d-056c-404c-a732-77423d931895"
       }
     },
     {
@@ -4908,6 +5364,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.059624,
+          30.434488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mississippi Brewing Company",
+        "address": "13247 D Seaway Road, Gulfport, Mississippi 39503",
+        "url": "http://www.mississippibrewingcompany.com/",
+        "geoBeerId": "9c1fccae-f917-438f-837a-5c1cb097f5fd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.206154,
           32.754233
         ]
@@ -4977,6 +5452,25 @@
         "address": "79 S. Wilson Ave., Elizabethtown, PA 17022",
         "url": "http://www.mooduckbrewery.com/",
         "geoBeerId": "6bdb86c5-b9e7-464c-a50f-19e99c076308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.498505,
+          39.142334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mountain State Brewing Co.",
+        "address": "1 Nelson Blvd, Thomas, West Virginia 26292",
+        "url": "http://www.mountainstatebrewing.com/",
+        "geoBeerId": "e159cd98-676d-4018-96d7-f3a6641d085c"
       }
     },
     {
@@ -5269,6 +5763,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.108049,
+          41.398475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "OEC Brewing (Ordinem Ecentrici Coctores)",
+        "address": "7 Fox Hollow Road, Oxford, Connecticut 06478",
+        "url": "http://oecbrewing.com/",
+        "geoBeerId": "76dafeb7-d9a2-4495-b929-18f67cc1ba94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.616961,
           40.96283
         ]
@@ -5376,6 +5889,25 @@
         "address": "2235 North Atherton St, State College, PA 16803",
         "url": "http://ottospubandbrewery.com/",
         "geoBeerId": "4b4e9de1-7980-4d6c-bca7-bda76587459a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.11785,
+          36.316893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ozark Beer Company",
+        "address": "1700 S. First Street, Rogers, Arkansas 72756",
+        "url": "http://ozarkbeercompany.com/contact",
+        "geoBeerId": "dffdb88f-b24a-4dfc-8102-afd659730a56"
       }
     },
     {
@@ -5991,6 +6523,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.270971,
+          41.362444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Rushing Duck Brewing",
+        "address": "1 Battiato Lane, Chester, New York 10918",
+        "url": "http://www.rushingduck.com/",
+        "geoBeerId": "52ce1ffb-0621-4ac4-b9dc-083fb08cc237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.712056,
           38.441515
         ]
@@ -6143,6 +6694,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.304091,
+          42.170791
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Scorched Earth Brewing Company",
+        "address": "203 Berg Street, Algonquin, Illinois 60102",
+        "url": "http://scorchedearthbrewing.com/",
+        "geoBeerId": "41cfdd2c-5105-44de-b63a-5c4a38993175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.6184945,
           38.6829922
         ]
@@ -6193,6 +6763,25 @@
         "address": "121 North Market Street, Selinsgrove, PA 17870",
         "url": "http://www.selinsgrovebrewing.com/",
         "geoBeerId": "66266170-a263-41d5-9767-57b55c7709fb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.868439,
+          47.704776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Selkirk Abbey Brewing Company",
+        "address": "6180 E Seltice Way, Post Falls, Idaho 83854",
+        "url": "http://www.selkirkabbey.com/",
+        "geoBeerId": "297a2b04-3614-47bf-b83d-e2c7636c11fc"
       }
     },
     {
@@ -6941,6 +7530,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.507179,
+          37.593171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Answer Brewpub",
+        "address": "6008 W Broad Street, Richmond, Virginia 23230",
+        "url": "http://www.theanswerbrewpub.com/",
+        "geoBeerId": "e5559b6b-0e87-4929-8bda-e5f12ce812de"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.870473,
           40.404278
         ]
@@ -7029,6 +7637,44 @@
         "address": "3525 Liberty Avenue, Pittsburgh, PA 15201",
         "url": "http://www.churchbrew.com/",
         "geoBeerId": "8e53808e-0d7d-44a3-8262-c3b83281d0a8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.07011,
+          29.938945
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Courtyard Brewery",
+        "address": "1020 Erato Street, New Orleans, Louisiana 70130",
+        "url": "http://www.courtyardbrewing.com/",
+        "geoBeerId": "dd1fd2a6-cefe-44b9-b76b-bf685166ef1d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.291077,
+          41.470692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Devil’s Trumpet Brewing Co.",
+        "address": "8250 Utah Street, Merrillville, Indiana 46410",
+        "url": "http://https//www.facebook.com/TheDevilsTrumpetBrewingCo",
+        "geoBeerId": "09f7e171-18a1-4269-b311-fcb09a1a7c50"
       }
     },
     {
@@ -7948,6 +8594,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.969197,
+          35.147334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wiseacre Brewing",
+        "address": "2783 Broad Avenue, Memphis, Tennessee 38112-2834",
+        "url": "http://wiseacrebrew.com/",
+        "geoBeerId": "55720dc1-5c7f-493d-bb68-eaf506b15aaf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.200458,
           40.013723
         ]
@@ -7960,6 +8625,25 @@
         "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
         "url": "http://www.wissahickonbrew.com/",
         "geoBeerId": "36d7a9a9-c8fb-4040-8f04-dee84a3bb468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.349724,
+          33.762272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wrecking Bar Brewpub",
+        "address": "292 Moreland Avenue NE, Atlanta, Georgia 30307",
+        "url": "http://www.wreckingbarbrewpub.com/",
+        "geoBeerId": "492fbf2e-872e-4bea-a2f2-ecde532c4ea4"
       }
     },
     {
@@ -7998,6 +8682,25 @@
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
         "url": "http://yardsbrewing.com/",
         "geoBeerId": "971bc2e7-84ef-4dfa-8bb4-bd78274bfdd9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.602109,
+          34.723226
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Yellowhammer Brewing",
+        "address": "2406 Clinton Ave W, Huntsville, Alabama 35805",
+        "url": "http://www.yellowhammerbrewery.com/",
+        "geoBeerId": "ac2dc689-56d1-446b-95c8-3453a4708535"
       }
     },
     {

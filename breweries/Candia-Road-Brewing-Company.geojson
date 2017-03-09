@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.415426,
+          42.984043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Candia Road Brewing Company",
+        "address": "840 Candia Rd, Manchester, New Hampshire 03109",
+        "url": "http://www.candiaroad.com/",
+        "geoBeerId": "2b9ba0f0-7aa0-493c-b860-31201d01ee41"
+      }
+    }
+  ]
+}

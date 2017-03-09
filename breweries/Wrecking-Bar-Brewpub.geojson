@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.349724,
+          33.762272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Wrecking Bar Brewpub",
+        "address": "292 Moreland Avenue NE, Atlanta, Georgia 30307",
+        "url": "http://www.wreckingbarbrewpub.com/",
+        "geoBeerId": "492fbf2e-872e-4bea-a2f2-ecde532c4ea4"
+      }
+    }
+  ]
+}

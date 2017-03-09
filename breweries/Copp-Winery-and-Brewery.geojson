@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.587321,
+          28.894629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Copp Winery and Brewery",
+        "address": "11 NE 4th Avenue, Crystal River, Florida 34429",
+        "url": "http://www.coppbrewery.com/",
+        "geoBeerId": "9a5aa4cd-ab19-4fb2-967f-cc8cafba2e46"
+      }
+    }
+  ]
+}

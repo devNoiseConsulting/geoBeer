@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.328918,
+          38.871765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lb. (Liquid Bread) Brewing Co",
+        "address": "117 East 11th Street, Hays, Kansas 67601",
+        "url": "http://lbbrewing.com/",
+        "geoBeerId": "0e2e3f7b-3338-4788-b160-7c669f1cb9b8"
+      }
+    }
+  ]
+}
