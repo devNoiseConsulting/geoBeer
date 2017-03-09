@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365300,
+          38.8976760
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Eaxmple Brewing",
+        "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+        "url": "http://www.example.com/",
+        "geoBeerId": "You can leave this blank"
+      }
+    }
+  ]
+}
