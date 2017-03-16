@@ -8,7 +8,7 @@
     "merge": "node ./bin/mergeBreweries.js ./breweries",
     "format": "node ./bin/formatJSON.js ./breweries",
     "uuid": "node ./bin/addUUID.js ./breweries",
-    "build": "npm run uuid; npm run format; npm run merge"
+    "build": "npm run uuid > /dev/null; npm run format; npm run merge; git status"
   },
   "repository": {
     "type": "git",

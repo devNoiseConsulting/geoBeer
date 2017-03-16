@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.917409,
-          33.419535
+          -105.000335,
+          39.723664
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Four Peaks Brewing Company (AB-InBev)",
-        "address": "1340 East 8th Street, Tempe, AZ 85281",
-        "url": "http://www.fourpeaks.com/",
-        "geoBeerId": "f9118da6-a5b3-4240-b71f-9aeb9fbdf988"
+        "name": "Breckenridge Brewery",
+        "address": "471 Kalamath St, Denver, CO 80204",
+        "url": "http://www.breckbrew.com/",
+        "geoBeerId": "e59c67ec-c145-472c-8908-d06bc3139801"
       }
     }
   ]
