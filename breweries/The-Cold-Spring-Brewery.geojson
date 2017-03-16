@@ -6,17 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.429023,
-          45.453206
+          -74.923538,
+          38.969528
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Cold Spring Brewery",
-        "address": "219 N. Red River Ave, Cold Spring, MN 56320",
-        "url": "http://www.coldspringbrewery.com/"
+        "name": "The Cold Spring Brewery",
+        "address": "720 US 9, Cape May, NJ 08204",
+        "url": "https://hcsv.org/cold-spring-brewery/",
+        "geoBeerId": "2e0d3236-5e94-498c-9fd9-9713a13844ac"
       }
     }
   ]
