@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Breckenridge Brewery (AB InBev)",
         "address": "471 Kalamath St, Denver, CO 80204",
-        "url": "http://www.breckbrew.com/"
+        "url": "http://www.breckbrew.com/",
+        "geoBeerId": "e59c67ec-c145-472c-8908-d06bc3139801"
       }
     }
   ]

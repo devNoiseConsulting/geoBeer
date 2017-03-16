@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Abita Brewing Company",
         "address": "21084 Highway 36, Abita Springs, LA 70433",
-        "url": "http://www.abita.com/"
+        "url": "http://www.abita.com/",
+        "geoBeerId": "c8d91d12-7bbd-405e-8443-13bbb08dad01"
       }
     }
   ]

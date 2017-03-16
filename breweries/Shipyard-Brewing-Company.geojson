@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Shipyard Brewing Company",
         "address": "86 Newbury Street, Portland, ME 04101",
-        "url": "http://www.shipyard.com/taste/"
+        "url": "http://www.shipyard.com/taste/",
+        "geoBeerId": "cb85a625-60bc-421c-b7c4-95f2510dd411"
       }
     }
   ]

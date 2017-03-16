@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Long Trail Brewery",
         "address": "Jct. Route 4 &amp; 100A, Bridgewater Corners, VT 05035",
-        "url": "http://www.longtrail.com/"
+        "url": "http://www.longtrail.com/",
+        "geoBeerId": "9b4be185-2e03-4290-b908-46ea759e862f"
       }
     }
   ]

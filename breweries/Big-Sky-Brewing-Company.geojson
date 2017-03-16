@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Big Sky Brewing Company",
         "address": "5417 Trumpeter Way, Missoula, MT 59808",
-        "url": "http://www.bigskybrew.com/"
+        "url": "http://www.bigskybrew.com/",
+        "geoBeerId": "037d1d6a-d24b-45b6-91c2-653ef5b748b0"
       }
     }
   ]

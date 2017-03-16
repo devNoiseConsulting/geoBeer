@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Gordon Biersch Brewing Company",
         "address": "357 E Taylor St, San Jose, CA 95112",
-        "url": "http://www.gordonbiersch.com/"
+        "url": "http://www.gordonbiersch.com/",
+        "geoBeerId": "ec528c8c-afe8-48e0-87fe-be6a19c647c9"
       }
     }
   ]

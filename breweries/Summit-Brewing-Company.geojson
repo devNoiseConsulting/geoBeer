@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Summit Brewing Company",
         "address": "910 Montreal Circle, St. Paul, MN 55102",
-        "url": "http://www.summitbrewing.com/"
+        "url": "http://www.summitbrewing.com/",
+        "geoBeerId": "2d42ed7e-7586-4364-a1ee-e428f31756f9"
       }
     }
   ]

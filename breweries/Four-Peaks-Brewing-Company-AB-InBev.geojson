@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Four Peaks Brewing Company (AB-InBev)",
         "address": "1340 East 8th Street, Tempe, AZ 85281",
-        "url": "http://www.fourpeaks.com/"
+        "url": "http://www.fourpeaks.com/",
+        "geoBeerId": "f9118da6-a5b3-4240-b71f-9aeb9fbdf988"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Saint Arnold Brewing Company",
         "address": "2000 Lyons Avenue, Houston, TX 77020",
-        "url": "http://www.saintarnold.com/"
+        "url": "http://www.saintarnold.com/",
+        "geoBeerId": "2b3fac62-1e08-485b-bc56-26ffe1f0f971"
       }
     }
   ]

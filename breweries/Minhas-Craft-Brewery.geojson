@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Minhas Craft Brewery",
         "address": "1208 - 14th Avenue, Monroe, WI 53566",
-        "url": "http://www.minhasbrewery.com/"
+        "url": "http://www.minhasbrewery.com/",
+        "geoBeerId": "ab379080-ba18-434c-b42f-f20a3f7b778a"
       }
     }
   ]

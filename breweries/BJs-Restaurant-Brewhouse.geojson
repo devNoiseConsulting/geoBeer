@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "BJ’s Restaurant & Brewhouse",
         "address": "One Pacific Plaza, 7755 Center Ave, Huntington Beach, CA 92647",
-        "url": "http://www.bjsbrewhouse.com/"
+        "url": "http://www.bjsbrewhouse.com/",
+        "geoBeerId": "a5e63e9f-76e3-43a8-95cd-d72b5de46a74"
       }
     }
   ]

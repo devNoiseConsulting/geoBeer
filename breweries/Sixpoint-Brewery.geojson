@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Sixpoint Brewery",
         "address": "40 Van Dyke St., Brooklyn, NY 11231",
-        "url": "http://www.sixpoint.com/"
+        "url": "http://www.sixpoint.com/",
+        "geoBeerId": "ae7289b7-a89a-44cf-ba84-b6aa7e0b17f4"
       }
     }
   ]

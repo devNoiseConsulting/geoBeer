@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Mac and Jack’s Brewing Company",
         "address": "17825 NE 65th Street, Redmond, WA 98052",
-        "url": "http://www.macandjacks.com/"
+        "url": "http://www.macandjacks.com/",
+        "geoBeerId": "aa51c23a-bc2c-41ff-b235-1475894d31a0"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Utah Brewers Cooperative",
         "address": "1763 South 300 West, Salt Lake City, UT 84115",
-        "url": "http://utahbeers.com/"
+        "url": "http://utahbeers.com/",
+        "geoBeerId": "1a21ef4e-3255-465c-bfba-990ee5bca3a3"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "August Schell Brewing Company",
         "address": "1860 Schell Road, New Ulm, MN 56073",
-        "url": "http://www.schellsbrewery.com/"
+        "url": "http://www.schellsbrewery.com/",
+        "geoBeerId": "4a9372ff-295f-4ea8-b240-7612ce26d900"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "F.X. Matt Brewing Company",
         "address": "830 Varick Street, Utica, NY 13502",
-        "url": "http://saranac.com/brewery/"
+        "url": "http://saranac.com/brewery/",
+        "geoBeerId": "3c9cd895-80b6-4d10-b926-81b57df91f03"
       }
     }
   ]

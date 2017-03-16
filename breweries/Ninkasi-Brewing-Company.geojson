@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Ninkasi Brewing Company",
         "address": "272 Van Buren St, Eugene, OR 97402",
-        "url": "http://ninkasibrewing.com/"
+        "url": "http://ninkasibrewing.com/",
+        "geoBeerId": "39431b18-02ed-4102-b817-503a079656b9"
       }
     }
   ]

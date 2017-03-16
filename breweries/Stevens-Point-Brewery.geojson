@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Stevens Point Brewery",
         "address": "2617 Water St, Stevens Point, WI 54481",
-        "url": "http://pointbeer.com/point/"
+        "url": "http://pointbeer.com/point/",
+        "geoBeerId": "205d9fa6-330b-4638-a5ac-eb1063aa1a02"
       }
     }
   ]

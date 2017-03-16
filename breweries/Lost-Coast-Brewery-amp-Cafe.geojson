@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Lost Coast Brewery &amp; Cafe",
         "address": "617 Fourth St, Eureka, CA 95501",
-        "url": "http://www.lostcoast.com/"
+        "url": "http://www.lostcoast.com/",
+        "geoBeerId": "44f4c347-96b9-43c3-b9d2-c4a3089beb73"
       }
     }
   ]

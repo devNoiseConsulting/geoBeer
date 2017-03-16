@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Cold Spring Brewery",
         "address": "219 N. Red River Ave, Cold Spring, MN 56320",
-        "url": "http://www.coldspringbrewery.com/"
+        "url": "http://www.coldspringbrewery.com/",
+        "geoBeerId": "595fb338-4a2d-499d-8ba8-6ab01c9824d2"
       }
     }
   ]

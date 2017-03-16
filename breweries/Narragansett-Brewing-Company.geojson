@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Narragansett Brewing Company",
         "address": "60 Ship Street, Providence, RI 02903",
-        "url": "http://www.narragansettbeer.com/"
+        "url": "http://www.narragansettbeer.com/",
+        "geoBeerId": "0ec85837-16a0-4572-8853-9c391f9ae92b"
       }
     }
   ]

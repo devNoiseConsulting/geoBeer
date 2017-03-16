@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Harpoon Brewery",
         "address": "306 Northern Ave., Boston, MA 02210",
-        "url": "http://www.harpoonbrewery.com/"
+        "url": "http://www.harpoonbrewery.com/",
+        "geoBeerId": "9463e28d-ea3b-409a-8318-969414cb5faa"
       }
     }
   ]

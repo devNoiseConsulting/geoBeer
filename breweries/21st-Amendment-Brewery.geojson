@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "21st Amendment Brewery",
         "address": "563 2nd St, San Francisco, CA 94107",
-        "url": "http://www.21st-amendment.com/"
+        "url": "http://www.21st-amendment.com/",
+        "geoBeerId": "013d8029-150b-4ca0-a5c2-9862e0adfc97"
       }
     }
   ]

@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Blue Point Brewing",
         "address": "161 River Avenue, Patchogue, NY 11772",
-        "url": "http://www.bluepointbrewing.com/"
+        "url": "http://www.bluepointbrewing.com/",
+        "geoBeerId": "7ad9e2ee-149d-402b-b1b3-e326df84381b"
       }
     }
   ]

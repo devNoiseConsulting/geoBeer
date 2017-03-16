@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Karl Strauss Brewing Company",
         "address": "5985 Santa Fe St, San Diego, CA 92109",
-        "url": "http://www.karlstrauss.com/"
+        "url": "http://www.karlstrauss.com/",
+        "geoBeerId": "14ef88be-95ee-4add-9a7d-7a6a54772561"
       }
     }
   ]

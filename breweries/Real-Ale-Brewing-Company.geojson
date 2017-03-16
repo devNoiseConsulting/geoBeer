@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Real Ale Brewing Company",
         "address": "231 San Saba Court, Blanco, TX 78606",
-        "url": "http://www.realalebrewing.com/"
+        "url": "http://www.realalebrewing.com/",
+        "geoBeerId": "cbe9df21-3886-44d2-bf9d-f01a66913328"
       }
     }
   ]

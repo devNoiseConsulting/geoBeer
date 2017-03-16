@@ -16,7 +16,8 @@
         "marker-size": "small",
         "name": "Anderson Valley Brewing Company",
         "address": "17700 Highway 253, Boonville, CA 95415",
-        "url": "http://www.avbc.com/"
+        "url": "http://www.avbc.com/",
+        "geoBeerId": "bfb83cb7-f5b2-47a8-b791-15f5991e27ea"
       }
     }
   ]
