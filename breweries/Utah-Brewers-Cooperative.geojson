@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.899504,
+          40.732948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Utah Brewers Cooperative",
+        "address": "1763 South 300 West, Salt Lake City, UT 84115",
+        "url": "http://utahbeers.com/"
+      }
+    }
+  ]
+}

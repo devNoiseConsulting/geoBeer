@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.140904,
+          44.915537
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Summit Brewing Company",
+        "address": "910 Montreal Circle, St. Paul, MN 55102",
+        "url": "http://www.summitbrewing.com/"
+      }
+    }
+  ]
+}

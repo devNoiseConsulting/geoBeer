@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.248655,
+          43.661716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Shipyard Brewing Company",
+        "address": "86 Newbury Street, Portland, ME 04101",
+        "url": "http://www.shipyard.com/taste/"
+      }
+    }
+  ]
+}

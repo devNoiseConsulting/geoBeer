@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.643441,
+          42.598326
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Minhas Craft Brewery",
+        "address": "1208 - 14th Avenue, Monroe, WI 53566",
+        "url": "http://www.minhasbrewery.com/"
+      }
+    }
+  ]
+}

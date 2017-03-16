@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.000335,
+          39.723664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Breckenridge Brewery (AB InBev)",
+        "address": "471 Kalamath St, Denver, CO 80204",
+        "url": "http://www.breckbrew.com/"
+      }
+    }
+  ]
+}

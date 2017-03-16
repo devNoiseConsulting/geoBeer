@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.675164,
+          43.599795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Long Trail Brewery",
+        "address": "Jct. Route 4 &amp; 100A, Bridgewater Corners, VT 05035",
+        "url": "http://www.longtrail.com/"
+      }
+    }
+  ]
+}

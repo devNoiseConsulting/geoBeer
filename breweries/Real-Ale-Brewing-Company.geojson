@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.412493,
+          30.112576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Real Ale Brewing Company",
+        "address": "231 San Saba Court, Blanco, TX 78606",
+        "url": "http://www.realalebrewing.com/"
+      }
+    }
+  ]
+}

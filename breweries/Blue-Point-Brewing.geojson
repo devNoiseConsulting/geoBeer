@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.021693,
+          40.759383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Blue Point Brewing",
+        "address": "161 River Avenue, Patchogue, NY 11772",
+        "url": "http://www.bluepointbrewing.com/"
+      }
+    }
+  ]
+}

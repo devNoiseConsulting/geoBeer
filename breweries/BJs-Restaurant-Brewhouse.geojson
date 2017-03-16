@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.008692,
+          33.723228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "BJ’s Restaurant & Brewhouse",
+        "address": "One Pacific Plaza, 7755 Center Ave, Huntington Beach, CA 92647",
+        "url": "http://www.bjsbrewhouse.com/"
+      }
+    }
+  ]
+}

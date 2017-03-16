@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.103661,
+          47.663836
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Mac and Jack’s Brewing Company",
+        "address": "17825 NE 65th Street, Redmond, WA 98052",
+        "url": "http://www.macandjacks.com/"
+      }
+    }
+  ]
+}

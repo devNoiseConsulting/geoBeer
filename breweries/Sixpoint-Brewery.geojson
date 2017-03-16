@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.011964,
+          40.673932
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Sixpoint Brewery",
+        "address": "40 Van Dyke St., Brooklyn, NY 11231",
+        "url": "http://www.sixpoint.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.153946,
+          29.42254
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Spoetzl Brewery (Gambrinus Company)",
+        "address": "603 East Brewery Street, Shiner, TX 77984",
+        "url": "http://www.shiner.com/"
+      }
+    }
+  ]
+}

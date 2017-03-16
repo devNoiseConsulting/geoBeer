@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.055931,
+          30.482767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Abita Brewing Company",
+        "address": "21084 Highway 36, Abita Springs, LA 70433",
+        "url": "http://www.abita.com/"
+      }
+    }
+  ]
+}

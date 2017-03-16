@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.073178,
+          46.922445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Big Sky Brewing Company",
+        "address": "5417 Trumpeter Way, Missoula, MT 59808",
+        "url": "http://www.bigskybrew.com/"
+      }
+    }
+  ]
+}

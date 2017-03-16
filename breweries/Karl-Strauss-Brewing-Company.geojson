@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.231429,
+          32.83258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Karl Strauss Brewing Company",
+        "address": "5985 Santa Fe St, San Diego, CA 92109",
+        "url": "http://www.karlstrauss.com/"
+      }
+    }
+  ]
+}

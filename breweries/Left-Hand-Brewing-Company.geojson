@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.11677,
+          40.15862
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Left Hand Brewing Company",
+        "address": "1265 Boston Ave, Longmont, CO 80501",
+        "url": "http://www.lefthandbrewing.com/"
+      }
+    }
+  ]
+}

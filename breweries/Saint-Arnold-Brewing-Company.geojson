@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.348412,
+          29.771098
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Saint Arnold Brewing Company",
+        "address": "2000 Lyons Avenue, Houston, TX 77020",
+        "url": "http://www.saintarnold.com/"
+      }
+    }
+  ]
+}

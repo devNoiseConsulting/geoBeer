@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.392446,
+          37.782318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "21st Amendment Brewery",
+        "address": "563 2nd St, San Francisco, CA 94107",
+        "url": "http://www.21st-amendment.com/"
+      }
+    }
+  ]
+}

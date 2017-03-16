@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.164971,
+          40.803072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lost Coast Brewery &amp; Cafe",
+        "address": "617 Fourth St, Eureka, CA 95501",
+        "url": "http://www.lostcoast.com/"
+      }
+    }
+  ]
+}

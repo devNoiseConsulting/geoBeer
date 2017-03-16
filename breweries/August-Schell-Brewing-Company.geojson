@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.511407,
+          44.259924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "August Schell Brewing Company",
+        "address": "1860 Schell Road, New Ulm, MN 56073",
+        "url": "http://www.schellsbrewery.com/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89296,
+          37.352696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Gordon Biersch Brewing Company",
+        "address": "357 E Taylor St, San Jose, CA 95112",
+        "url": "http://www.gordonbiersch.com/"
+      }
+    }
+  ]
+}

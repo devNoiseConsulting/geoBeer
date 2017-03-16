@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.574118,
+          44.51007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Stevens Point Brewery",
+        "address": "2617 Water St, Stevens Point, WI 54481",
+        "url": "http://pointbeer.com/point/"
+      }
+    }
+  ]
+}

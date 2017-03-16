@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.312357,
+          39.024889
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Anderson Valley Brewing Company",
+        "address": "17700 Highway 253, Boonville, CA 95415",
+        "url": "http://www.avbc.com/"
+      }
+    }
+  ]
+}

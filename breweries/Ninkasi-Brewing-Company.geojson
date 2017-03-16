@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.109617,
+          44.057092
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ninkasi Brewing Company",
+        "address": "272 Van Buren St, Eugene, OR 97402",
+        "url": "http://ninkasibrewing.com/"
+      }
+    }
+  ]
+}
