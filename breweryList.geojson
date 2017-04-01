@@ -5084,8 +5084,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "cross",
-        "marker-color": "#FF8C00",
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Locust Lane Craft Brewery",
         "address": "50 Three Tun Road, Suite 4, Malvern, PA 19355",
@@ -8461,6 +8461,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.322595,
+          40.023722
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Tin Lizard Brewing Co",
+        "address": "1000 Lancaster Ave, Bryn Mawr PA 19010",
+        "url": "https://www.tinlizardbrewingco.com/",
+        "geoBeerId": "26657499-552f-458e-af65-1f5c4072f751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.2948256,
           40.008601
         ]
@@ -9169,8 +9188,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "cross",
-        "marker-color": "#FF8C00",
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Wissahickon Brewing Co.",
         "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",

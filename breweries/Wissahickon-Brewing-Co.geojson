@@ -11,8 +11,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "cross",
-        "marker-color": "#FF8C00",
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Wissahickon Brewing Co.",
         "address": "3705 W Schoolhouse Ln, Philadelphia, PA 19129",
