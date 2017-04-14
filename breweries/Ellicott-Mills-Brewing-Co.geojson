@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.799622,
+          39.268174
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Ellicott Mills Brewing Co",
+        "address": "8308 Main St, Ellicott City, MD 21043",
+        "url": "http://www.ellicottmillsbrewing.com/",
+        "geoBeerId": "a7d4bd26-7395-457c-9b8f-6fc7a6839b5c"
+      }
+    }
+  ]
+}
