@@ -9,28 +9,32 @@ if (pathName) {
     processFile(pathName);
   }
 } else {
-  var node = getFileName(process.argv[0]);
-  var script = getFileName(process.argv[1]);
+  var node = path.basename(process.argv[0]);
+  var script = path.basename(process.argv[1]);
 
   console.log("Usage: " + node + " " + script + " <filename or directory>");
 }
 
-function processAll(dirName) {
-  fs.readdir(dirName, processBreweries);
-
-  function processBreweries(err, files) {
-    if (err) {
-      console.log(err);
-      return;
+function fileWalkSync(dir, filelist) {
+  var files = fs.readdirSync(dir);
+  files.forEach(function(file) {
+    let filePath = path.join(dir, file);
+    if (fs.statSync(filePath).isDirectory()) {
+      filelist = fileWalkSync(filePath, filelist);
+    } else {
+      filelist.push(filePath);
     }
+  });
+  return filelist;
+}
 
+function processAll(dirName) {
+  let files = fileWalkSync(dirName, []);
+  processBreweries(files);
+
+  function processBreweries(files) {
     files = files.filter(isJsonFile);
-    files = files.map(addPath);
     files.forEach(processFile);
-  }
-
-  function addPath(fileName) {
-    return dirName + '/' + fileName;
   }
 }
 
@@ -80,8 +84,4 @@ function checkBrewery(brewery) {
 
 function isJsonFile(file) {
   return file.endsWith('.geojson');
-}
-
-function getFileName(path) {
-  return path.substring(path.lastIndexOf('/') + 1, path.length);
 }

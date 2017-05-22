@@ -72,7 +72,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "2nd Shift Brewing",
-        "address": "1601 Sublette Ave., St. Louis, Missouri 63110",
+        "address": "1601 Sublette Ave., St. Louis, MO 63110",
         "url": "http://www.2ndshiftbrewing.com/",
         "geoBeerId": "ce8d3f99-839d-479c-ab34-428b4b16f6b4"
       }
@@ -148,7 +148,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "7 Locks Brewing",
-        "address": "12227 Wilkins Ave, North Bethesda, MD 20852, USA",
+        "address": "12227 Wilkins Ave, North Bethesda, MD 20852",
         "url": "http://www.7locksbrewing.com/",
         "geoBeerId": "f551472d-e785-48f1-8f22-d3efc02aea6d"
       }
@@ -357,7 +357,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Anchor Brewing Company",
-        "address": "1705 Mariposa Street, San Francisco, California, 94107",
+        "address": "1705 Mariposa Street, San Francisco, CA 94107",
         "url": "http://www.anchorbrewing.com/",
         "geoBeerId": "fb7b0203-11bb-4fbc-bc54-cf9e8f769dbf"
       }
@@ -433,7 +433,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Antietam Brewery",
-        "address": "49 Eastern Boulevard North, Hagerstown, MD 21740, USA",
+        "address": "49 Eastern Boulevard North, Hagerstown, MD 21740",
         "url": "http://www.antietambrewery.com/",
         "geoBeerId": "400d7e24-2b8f-4621-be11-10995ae0a4fa"
       }
@@ -623,7 +623,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Assawoman Bay Brewing Co.",
-        "address": "4435 Coastal Highway, Ocean City, MD 21842, USA",
+        "address": "4435 Coastal Highway, Ocean City, MD 21842",
         "url": "http://www.assawomanbaybrewing.com/",
         "geoBeerId": "edf0a9ce-7263-4464-896e-63dda605c8d4"
       }
@@ -737,7 +737,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Backshore Brewing",
-        "address": "913 Atlantic Ave, Ocean City, MD 21842, USA",
+        "address": "913 Atlantic Ave, Ocean City, MD 21842",
         "url": "http://www.backshorebrew.com/",
         "geoBeerId": "d9533172-0194-45aa-a129-6e610f7e12e3"
       }
@@ -775,7 +775,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Bale Breaker Brewing Company",
-        "address": "1801 Birchfield Road, Yakima, Washington, USA",
+        "address": "1801 Birchfield Road, Yakima, WA 98901",
         "url": "http://www.balebreaker.com/",
         "geoBeerId": "bd971008-88ee-4a3c-8f37-3c67589f6254"
       }
@@ -813,7 +813,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Banger Brewing Company",
-        "address": "450 Fremont Street   Suite 135, Las Vegas, Nevada 89179",
+        "address": "450 Fremont Street   Suite 135, Las Vegas, NV 89179",
         "url": "http://www.bangerbrewing.com/",
         "geoBeerId": "d1c923c9-caa3-487b-b935-c9cd96e6cfa9"
       }
@@ -851,7 +851,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Barley and Hops Grill & Microbrewery",
-        "address": "Riverview Plaza, 5473 Urbana Pike, Frederick, MD 21704, USA",
+        "address": "Riverview Plaza, 5473 Urbana Pike, Frederick, MD 21704",
         "url": "http://barleyandhops.net/",
         "geoBeerId": "75fee4b7-be3d-4e50-8e3a-00c2916b102b"
       }
@@ -889,7 +889,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Barreled Souls Brewing Company",
-        "address": "743 Portland Road, Saco, Maine 04072",
+        "address": "743 Portland Road, Saco, ME 04072",
         "url": "http://www.barreledsouls.com/",
         "geoBeerId": "4d1d9241-f95a-4347-a71c-ce548ecdfc97"
       }
@@ -965,7 +965,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Beachwood Blendery",
-        "address": "247 Long Beach Blvd., Long Beach, California 90802",
+        "address": "247 Long Beach Blvd., Long Beach, CA 90802",
         "url": "http://beachwoodbbq.com/blendery.html",
         "geoBeerId": "563fe968-9cfa-4015-b2d7-82c054ee213d"
       }
@@ -1060,7 +1060,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Bemidji Brewing Company",
-        "address": "211 America Ave NW, Bemidji, Minnesota 56601",
+        "address": "211 America Ave NW, Bemidji, MN 56601",
         "url": "http://www.bemidjibeer.com/",
         "geoBeerId": "82ec5a1f-92ca-411d-8fa2-0ed8f0077796"
       }
@@ -1440,7 +1440,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Brewer’s Alley Restaurant & Brewery",
-        "address": "124 North Market Street, Frederick, MD 21701, USA",
+        "address": "124 North Market Street, Frederick, MD 21701",
         "url": "http://www.brewers-alley.com/",
         "geoBeerId": "e172cc70-db10-4c3a-8f56-dd57c523cbae"
       }
@@ -1554,7 +1554,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Brookeville Beer Farm",
-        "address": "Brookeville Animal Hospital, 22201 Georgia Avenue, Brookeville, MD 20833, USA",
+        "address": "Brookeville Animal Hospital, 22201 Georgia Avenue, Brookeville, MD 20833",
         "url": "http://brookevillebeerfarm.com/",
         "geoBeerId": "dc2e3d0d-d10c-416a-a230-b8970d9320fa"
       }
@@ -1649,7 +1649,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Bulk Head Brewing Company",
-        "address": "8980 Old Annapolis Rd, Columbia, MD 21045, USA",
+        "address": "8980 Old Annapolis Rd, Columbia, MD 21045",
         "url": "http://www.bulkheadbrewingco.com/",
         "geoBeerId": "5387a1e7-9712-476d-9902-e520caa04293"
       }
@@ -1687,7 +1687,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Burley Oak Brewing Company",
-        "address": "10016 Old Ocean City Blvd, Berlin, Maryland 21811",
+        "address": "10016 Old Ocean City Blvd, Berlin, MD 21811",
         "url": "http://burleyoak.com/",
         "geoBeerId": "1d3e4759-acc1-4238-ad03-cfb44c100d8e"
       }
@@ -1725,7 +1725,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Calvert Brewing Company",
-        "address": "15850 Commerce Ct, Upper Marlboro, MD 20774, USA",
+        "address": "15850 Commerce Ct, Upper Marlboro, MD 20774",
         "url": "http://www.calvertbrewingcompany.com/",
         "geoBeerId": "7ef7ac83-78be-4851-84e0-4595559f4732"
       }
@@ -1744,7 +1744,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Candia Road Brewing Company",
-        "address": "840 Candia Rd, Manchester, New Hampshire 03109",
+        "address": "840 Candia Rd, Manchester, NH 03109",
         "url": "http://www.candiaroad.com/",
         "geoBeerId": "2b9ba0f0-7aa0-493c-b860-31201d01ee41"
       }
@@ -1934,7 +1934,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Chesapeake Brewing Company",
-        "address": "114 West St, Annapolis, MD 21401, USA",
+        "address": "114 West St, Annapolis, MD 21401",
         "url": "http://www.chesbrewco.com/",
         "geoBeerId": "003878ee-252c-47db-9e37-c406e9d7eb06"
       }
@@ -2086,7 +2086,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Conclave Brewing",
-        "address": "15 Minneakoning Rd Suite 202, Flemington, New Jersey 08822-5750",
+        "address": "15 Minneakoning Rd Suite 202, Flemington, NJ 08822-5750",
         "url": "http://www.conclavebrewing.com/",
         "geoBeerId": "6410e7bb-b63c-4893-adf7-3cc7777f5e04"
       }
@@ -2143,7 +2143,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Copp Winery and Brewery",
-        "address": "11 NE 4th Avenue, Crystal River, Florida 34429",
+        "address": "11 NE 4th Avenue, Crystal River, FL 34429",
         "url": "http://www.coppbrewery.com/",
         "geoBeerId": "9a5aa4cd-ab19-4fb2-967f-cc8cafba2e46"
       }
@@ -2390,7 +2390,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Daves BrewFarm",
-        "address": "2470 Wilson Street, Wilson, Wisconsin 54027",
+        "address": "2470 Wilson Street, Wilson, WI 54027",
         "url": "http://brewfarm.com/",
         "geoBeerId": "4664d237-8f0c-41d7-b18a-416665953876"
       }
@@ -2447,7 +2447,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Denizens Brewing Co.",
-        "address": "1115 East-West Highway, Silver Spring, MD 20910, USA",
+        "address": "1115 East-West Highway, Silver Spring, MD 20910",
         "url": "http://denizensbrewingco.com/",
         "geoBeerId": "0deb5cc5-3334-4fc8-b46c-5ac404972c60"
       }
@@ -2713,7 +2713,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Dry Ground Brewing Company",
-        "address": "3121 Broadway Street, Paducah, Kentucky 42001",
+        "address": "3121 Broadway Street, Paducah, KY 42001",
         "url": "http://drygroundbrewing.com/",
         "geoBeerId": "e8d9519c-a97d-45fe-91e6-c8d0cc16c223"
       }
@@ -2732,7 +2732,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "DuClaw Brewing Company",
-        "address": "8901 Yellow Brick Rd, Rosedale, MD 21237, USA",
+        "address": "8901 Yellow Brick Rd, Rosedale, MD 21237",
         "url": "http://www.duclaw.com/",
         "geoBeerId": "8766c21f-ada6-44c3-a3a2-59a4954fb52a"
       }
@@ -2827,7 +2827,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Edmund’s Oast",
-        "address": "1081 Morrison Dr, Charleston, South Carolina 29403",
+        "address": "1081 Morrison Dr, Charleston, SC 29403",
         "url": "http://edmundsoast.com/",
         "geoBeerId": "34bbe568-f86c-49d6-a9b3-b035bf8b52c5"
       }
@@ -2979,7 +2979,7 @@
         "marker-color": "#FF8C00",
         "marker-size": "small",
         "name": "Evil Genius Beer Company",
-        "address": "1731-1733 N. Front Street, Philadelphia, PA 19122, USA",
+        "address": "1731-1733 N. Front Street, Philadelphia, PA 19122",
         "url": "http://www.evilgeniusbeer.com/",
         "geoBeerId": "bd987eaa-d3c2-4a92-9e5a-0b997842d8bc"
       }
@@ -3017,7 +3017,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Evolution Craft Brewing Co.",
-        "address": "200 Elmwood Street, Salisbury, MD 21804, USA",
+        "address": "200 Elmwood Street, Salisbury, MD 21804",
         "url": "http://www.evolutioncraftbrewing.com/",
         "geoBeerId": "2a4be889-0b0f-4017-9cb8-f9d569b80c6d"
       }
@@ -3055,7 +3055,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Fargo Brewing Company",
-        "address": "610 North University Drive, Fargo, North Dakota 58104",
+        "address": "610 North University Drive, Fargo, ND 58104",
         "url": "http://fargobrewing.com/",
         "geoBeerId": "d7918316-4e9b-4b90-9ab5-7e28cefe6f84"
       }
@@ -3397,7 +3397,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Franklin’s Restaurant, Brewery, & General Store",
-        "address": "5121 Baltimore Avenue, Hyattsville, MD 20781, USA",
+        "address": "5121 Baltimore Avenue, Hyattsville, MD 20781",
         "url": "http://www.franklinsbrewery.com/",
         "geoBeerId": "23261f2c-3d2e-4c54-9a9f-8af11615cc24"
       }
@@ -3454,7 +3454,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Frey's Brewing Company",
-        "address": "8601 Mapleville Rd, Mt Airy, MD 21771, USA",
+        "address": "8601 Mapleville Rd, Mt Airy, MD 21771",
         "url": "http://freysbrewing.com/",
         "geoBeerId": "57199e6c-a92b-4875-953d-9223b7737377"
       }
@@ -3511,7 +3511,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Full Tilt Brewing Co.",
-        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "address": "401 East 30th Street, Baltimore, MD 21218",
         "url": "http://www.fulltiltbrewing.com/",
         "geoBeerId": "4bd7ce8b-47fd-4b24-a319-d448cdcbbed0"
       }
@@ -3587,7 +3587,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Gandy Dancer Brew Works",
-        "address": "420 E 8th Street, Sioux Falls, South Dakota 57103-7025",
+        "address": "420 E 8th Street, Sioux Falls, SD 57103-7025",
         "url": "http://www.monkshouseofalerepute.com/brewery/4578982718",
         "geoBeerId": "9732de89-c0d6-452b-b065-8711c8a0765c"
       }
@@ -3682,7 +3682,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Gordon Biersch Brewery Restaurant",
-        "address": "Rockville Town Square Plaza, 200 East Middle Lane, Rockville, MD 20850, USA",
+        "address": "Rockville Town Square Plaza, 200 East Middle Lane, Rockville, MD 20850",
         "url": "http://www.gordonbiersch.com/locations/rockville?action=view",
         "geoBeerId": "1bdc73af-abd2-44ee-a9be-7ddb155ede93"
       }
@@ -3777,7 +3777,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Great Notion Brewing",
-        "address": "2204 NE Alberta #101, Portland, Oregon 97211",
+        "address": "2204 NE Alberta #101, Portland, OR 97211",
         "url": "http://greatnotionpdx.com/",
         "geoBeerId": "648a3d05-fe56-483e-81b2-a1eeb308e053"
       }
@@ -3815,7 +3815,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Grey Sail Brewing Company",
-        "address": "63 Canal St, Westerly, Rhode Island 02891",
+        "address": "63 Canal St, Westerly, RI 02891",
         "url": "http://greysailbrewing.com/",
         "geoBeerId": "638b620e-9df5-4b05-8cff-fd141525bd7d"
       }
@@ -3853,7 +3853,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Growler's Brew Pub",
-        "address": "227 East Diamond Avenue, Gaithersburg, MD 20877, USA",
+        "address": "227 East Diamond Avenue, Gaithersburg, MD 20877",
         "url": "http://www.growlersrestaurant.com/",
         "geoBeerId": "50718959-9611-43fc-8bc8-63e3f95c31c4"
       }
@@ -4005,7 +4005,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Heavy Seas Beer",
-        "address": "4615 Hollins Ferry Road, Halethorpe, MD 21227, USA",
+        "address": "4615 Hollins Ferry Road, Halethorpe, MD 21227",
         "url": "http://www.hsbeer.com/",
         "geoBeerId": "1a6c190d-6a25-4b03-ac5b-03cac4f0058d"
       }
@@ -4214,7 +4214,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Hysteria Brewing Company",
-        "address": "9570 Berger Rd, Columbia, MD 21046, USA",
+        "address": "9570 Berger Rd, Columbia, MD 21046",
         "url": "http://www.hysteriabrewing.com/",
         "geoBeerId": "6ea96d75-73c2-4807-b8a0-144d1518feb3"
       }
@@ -4252,7 +4252,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Infusion Brewing Company",
-        "address": "6115 Maple St., Omaha, Nebraska 68104",
+        "address": "6115 Maple St., Omaha, NE 68104",
         "url": "http://www.infusionbrewing.com/",
         "geoBeerId": "bf1996fc-220c-49aa-8b10-d31265d5c19c"
       }
@@ -4594,7 +4594,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Jailbreak Brewing Company",
-        "address": "9445 Washington Boulevard North, Laurel, MD 20723, USA",
+        "address": "9445 Washington Boulevard North, Laurel, MD 20723",
         "url": "http://www.jailbreakbrewing.com/",
         "geoBeerId": "16287a4b-6c9d-4cbd-8cda-aff277772efc"
       }
@@ -4670,7 +4670,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Johansson's Dining House and Restaurant",
-        "address": "4 West Main Street, Westminster, MD 21157, USA",
+        "address": "4 West Main Street, Westminster, MD 21157",
         "url": "http://www.johanssonsdininghouse.com/",
         "geoBeerId": "2b298c53-9432-41a3-9413-61a6f61fa6a4"
       }
@@ -4803,7 +4803,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Key Brewing Company",
-        "address": "2500 Grays Rd, Dundalk, MD 21222, USA",
+        "address": "2500 Grays Rd, Dundalk, MD 21222",
         "url": "http://www.keybrewing.com/",
         "geoBeerId": "ae246d9c-54b6-4f94-ba27-8e4474d1ef6f"
       }
@@ -4879,7 +4879,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "La Cumbre Brewing Company",
-        "address": "3313 Girard Blvd. NE, Albuquerque, New Mexico 87107",
+        "address": "3313 Girard Blvd. NE, Albuquerque, NM 87107",
         "url": "http://www.lacumbrebrewing.com/",
         "geoBeerId": "81bd6bd1-14cc-435f-ae38-2fccb41f02c4"
       }
@@ -4993,7 +4993,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Lb. (Liquid Bread) Brewing Co",
-        "address": "117 East 11th Street, Hays, Kansas 67601",
+        "address": "117 East 11th Street, Hays, KS 67601",
         "url": "http://lbbrewing.com/",
         "geoBeerId": "0e2e3f7b-3338-4788-b160-7c669f1cb9b8"
       }
@@ -5069,7 +5069,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Lewis and Clark Brewing Company",
-        "address": "1517 Dodge Avenue, Helena, Montana 59601",
+        "address": "1517 Dodge Avenue, Helena, MT 59601",
         "url": "http://www.lewisandclarkbrewing.com/",
         "geoBeerId": "486d3887-3f03-48d8-81e6-2b190b46ab26"
       }
@@ -5335,7 +5335,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Mad Science Brewing Company",
-        "address": "1619 Buckeystown Pike, Adamstown, MD 21710, USA",
+        "address": "1619 Buckeystown Pike, Adamstown, MD 21710",
         "url": "http://www.madsciencebrewing.com/",
         "geoBeerId": "77c7a8cb-5e9f-4262-b2ff-cad9b7f77fcc"
       }
@@ -5354,7 +5354,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Madhouse Brewing Company",
-        "address": "501 Scott Ave, Des Moines, Iowa 50309",
+        "address": "501 Scott Ave, Des Moines, IA 50309",
         "url": "http://www.madhousebeer.com/",
         "geoBeerId": "63c77e7d-a3e5-411e-b124-253c17b74b5b"
       }
@@ -5449,7 +5449,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Manor Hill Brewing",
-        "address": "4411 Manor Lane, Ellicott City, MD 21042, USA",
+        "address": "4411 Manor Lane, Ellicott City, MD 21042",
         "url": "http://manorhillbrewing.com/",
         "geoBeerId": "1d45e4a7-1949-4170-a1e9-866671ee626c"
       }
@@ -5468,7 +5468,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Market Street Pub",
-        "address": "200 Market St, Denton, MD 21629, USA",
+        "address": "200 Market St, Denton, MD 21629",
         "url": "http://www.marketstreet.pub/",
         "geoBeerId": "de5fa7be-6824-4d11-9b4f-b8f5518aacd6"
       }
@@ -5487,7 +5487,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Maui Brewing Company",
-        "address": "605 Lipoa Pkwy, Kihei, Maui, Hawaii 96753",
+        "address": "605 Lipoa Pkwy, Kihei, Maui, HI 96753",
         "url": "http://www.mauibrewingco.com/",
         "geoBeerId": "eb24743a-aa53-42ef-aa5f-a345dbf766fc"
       }
@@ -5582,7 +5582,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Melvin Brewing Company (Thai Me Up)",
-        "address": "75 East Pearl Ave, Jackson, Wyoming 83001",
+        "address": "75 East Pearl Ave, Jackson, WY 83001",
         "url": "http://www.melvinbrewing.com/",
         "geoBeerId": "5b8f1e4d-056c-404c-a732-77423d931895"
       }
@@ -5620,7 +5620,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Milkhouse Brewery at Stillpoint Farm",
-        "address": "8253 Dollyhyde Road, Mount Airy, MD 21771, USA",
+        "address": "8253 Dollyhyde Road, Mount Airy, MD 21771",
         "url": "http://stillpointfarming.com/milkhouse_brewery_at_stillpoint_farm/",
         "geoBeerId": "bdee440a-b82c-4c5f-99d4-09b791c10b72"
       }
@@ -5734,7 +5734,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Mississippi Brewing Company",
-        "address": "13247 D Seaway Road, Gulfport, Mississippi 39503",
+        "address": "13247 D Seaway Road, Gulfport, MS 39503",
         "url": "http://www.mississippibrewingcompany.com/",
         "geoBeerId": "9c1fccae-f917-438f-837a-5c1cb097f5fd"
       }
@@ -5772,7 +5772,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Monocacy Brewing Co.",
-        "address": "1781 North Market Street, Frederick, MD 21701, USA",
+        "address": "1781 North Market Street, Frederick, MD 21701",
         "url": "http://monocacybrewing.com/",
         "geoBeerId": "a913b2ce-f5a4-4993-9aff-3efbae6fcc45"
       }
@@ -5791,7 +5791,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Monument City Brewing Co",
-        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "address": "401 East 30th Street, Baltimore, MD 21218",
         "url": "http://www.monumentcitybrewing.com/",
         "geoBeerId": "4b60616b-eaf6-4b07-bf6c-a338abdf0178"
       }
@@ -5829,7 +5829,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Mountain State Brewing Co.",
-        "address": "1 Nelson Blvd, Thomas, West Virginia 26292",
+        "address": "1 Nelson Blvd, Thomas, WV 26292",
         "url": "http://www.mountainstatebrewing.com/",
         "geoBeerId": "e159cd98-676d-4018-96d7-f3a6641d085c"
       }
@@ -5848,7 +5848,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Mully's Brewery",
-        "address": "141 Schooner Lane #15, Prince Frederick, MD 20678, USA",
+        "address": "141 Schooner Lane #15, Prince Frederick, MD 20678",
         "url": "http://www.mullysbrewery.com/",
         "geoBeerId": "8fbbbda6-51dc-4eff-9c4b-0567120d2bc1"
       }
@@ -6114,7 +6114,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ocean City Brewing Co.",
-        "address": "5509 Coastal Highway, Ocean City, MD 21842, USA",
+        "address": "5509 Coastal Highway, Ocean City, MD 21842",
         "url": "http://ocbrewingcompany.com/",
         "geoBeerId": "8dac2fe9-fee4-41bf-86bb-d72c315426f6"
       }
@@ -6171,7 +6171,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "OEC Brewing (Ordinem Ecentrici Coctores)",
-        "address": "7 Fox Hollow Road, Oxford, Connecticut 06478",
+        "address": "7 Fox Hollow Road, Oxford, CT 06478",
         "url": "http://oecbrewing.com/",
         "geoBeerId": "76dafeb7-d9a2-4495-b929-18f67cc1ba94"
       }
@@ -6209,7 +6209,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Olde Mother Brewing Co.",
-        "address": "911 E Patrick St, Frederick, MD 21701, USA",
+        "address": "911 E Patrick St, Frederick, MD 21701",
         "url": "https://www.facebook.com/OldeMother/",
         "geoBeerId": "c7b6fcbb-d01d-410c-8bc3-4e7824437d1e"
       }
@@ -6228,7 +6228,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Oliver Brewing Co.",
-        "address": "4216 Shannon Dr, Baltimore, MD 21213, USA",
+        "address": "4216 Shannon Dr, Baltimore, MD 21213",
         "url": "http://www.prattstreetalehouse.com/",
         "geoBeerId": "fcf3ddae-a0cb-4eea-b50e-7e6d5cab347b"
       }
@@ -6266,7 +6266,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Other Half Brewing",
-        "address": "195 Centre Street, Brooklyn, New York, USA  11231",
+        "address": "195 Centre Street, Brooklyn, NY 11231",
         "url": "http://otherhalfbrewing.com/",
         "geoBeerId": "ad0809d5-8e5d-41ac-b293-ef28ab3af168"
       }
@@ -6304,7 +6304,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ozark Beer Company",
-        "address": "1700 S. First Street, Rogers, Arkansas 72756",
+        "address": "1700 S. First Street, Rogers, AR 72756",
         "url": "http://ozarkbeercompany.com/contact",
         "geoBeerId": "dffdb88f-b24a-4dfc-8102-afd659730a56"
       }
@@ -6323,7 +6323,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Peabody Heights Brewery",
-        "address": "401 East 30th Street, Baltimore, MD 21218, USA",
+        "address": "401 East 30th Street, Baltimore, MD 21218",
         "url": "http://peabodyheightsbrewery.com/",
         "geoBeerId": "3627ce3d-1eb7-49d6-9b82-e005bd453ec6"
       }
@@ -6532,7 +6532,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "PUB DOG Brewing Company",
-        "address": "1203 New Windsor Road, Westminster, MD 21158, USA",
+        "address": "1203 New Windsor Road, Westminster, MD 21158",
         "url": "http://www.pubdog.com/",
         "geoBeerId": "8eeb37fc-27fd-4230-87f9-fcc47fa26cb0"
       }
@@ -6551,7 +6551,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Push American Brewing Co",
-        "address": "6695 Dobbin Road, Columbia, MD 21045, USA",
+        "address": "6695 Dobbin Road, Columbia, MD 21045",
         "url": "http://www.friscotaphouse.com/",
         "geoBeerId": "f654b5ce-76d0-455f-884e-e970c85fa1e6"
       }
@@ -6665,7 +6665,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Red Shedman Farm Brewery",
-        "address": "13601 Glissans Mill Road, Mount Airy, MD 21771, USA",
+        "address": "13601 Glissans Mill Road, Mount Airy, MD 21771",
         "url": "http://redshedman.com/",
         "geoBeerId": "d5200df6-53f8-43a0-afba-be8474fd6164"
       }
@@ -6893,7 +6893,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ruddy Duck Brewery",
-        "address": "13200 Dowell Rd, Dowell, MD 20629, USA",
+        "address": "13200 Dowell Rd, Dowell, MD 20629",
         "url": "http://www.ruddyduckbrewery.com/",
         "geoBeerId": "f700f679-a900-4061-9263-b1b64d64a64e"
       }
@@ -6912,7 +6912,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Ruhlman Brewery LLC",
-        "address": "2300 Harvey Gummel Road, Hampstead, MD 21074, USA",
+        "address": "2300 Harvey Gummel Road, Hampstead, MD 21074",
         "url": "http://www.ourales.com/",
         "geoBeerId": "07089b41-2778-4673-967b-0e293414be8b"
       }
@@ -6950,7 +6950,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Rushing Duck Brewing",
-        "address": "1 Battiato Lane, Chester, New York 10918",
+        "address": "1 Battiato Lane, Chester, NY 10918",
         "url": "http://www.rushingduck.com/",
         "geoBeerId": "52ce1ffb-0621-4ac4-b9dc-083fb08cc237"
       }
@@ -7140,7 +7140,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Scorched Earth Brewing Company",
-        "address": "203 Berg Street, Algonquin, Illinois 60102",
+        "address": "203 Berg Street, Algonquin, IL 60102",
         "url": "http://scorchedearthbrewing.com/",
         "geoBeerId": "41cfdd2c-5105-44de-b63a-5c4a38993175"
       }
@@ -7159,7 +7159,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Scorpion Brewing Co.",
-        "address": "929 Skinners Turn Road #100, Owings, MD 20736, USA",
+        "address": "929 Skinners Turn Road #100, Owings, MD 20736",
         "url": "http://www.scorpionbrewing.com/",
         "geoBeerId": "296b7ea3-edf8-46e1-a7cc-4c2fb80ca291"
       }
@@ -7216,7 +7216,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Selkirk Abbey Brewing Company",
-        "address": "6180 E Seltice Way, Post Falls, Idaho 83854",
+        "address": "6180 E Seltice Way, Post Falls, ID 83854",
         "url": "http://www.selkirkabbey.com/",
         "geoBeerId": "297a2b04-3614-47bf-b83d-e2c7636c11fc"
       }
@@ -7444,7 +7444,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Smoketown Brewing Station",
-        "address": "223 W Potomac St, Brunswick, MD 21716, USA",
+        "address": "223 W Potomac St, Brunswick, MD 21716",
         "url": "http://www.smoketownbrewing.com/",
         "geoBeerId": "2abc934c-9102-4694-972c-45a18f37a1a5"
       }
@@ -8071,7 +8071,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Answer Brewpub",
-        "address": "6008 W Broad Street, Richmond, Virginia 23230",
+        "address": "6008 W Broad Street, Richmond, VA 23230",
         "url": "http://www.theanswerbrewpub.com/",
         "geoBeerId": "e5559b6b-0e87-4929-8bda-e5f12ce812de"
       }
@@ -8128,7 +8128,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Brewer's Art",
-        "address": "1106 North Charles Street, Baltimore, MD 21201, USA",
+        "address": "1106 North Charles Street, Baltimore, MD 21201",
         "url": "http://www.thebrewersart.com/",
         "geoBeerId": "82d81228-5a5b-4387-bef8-1f4fcb34f8b7"
       }
@@ -8204,7 +8204,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Courtyard Brewery",
-        "address": "1020 Erato Street, New Orleans, Louisiana 70130",
+        "address": "1020 Erato Street, New Orleans, LA 70130",
         "url": "http://www.courtyardbrewing.com/",
         "geoBeerId": "dd1fd2a6-cefe-44b9-b76b-bf685166ef1d"
       }
@@ -8223,7 +8223,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "The Devil’s Trumpet Brewing Co.",
-        "address": "8250 Utah Street, Merrillville, Indiana 46410",
+        "address": "8250 Utah Street, Merrillville, IN 46410",
         "url": "http://https//www.facebook.com/TheDevilsTrumpetBrewingCo",
         "geoBeerId": "09f7e171-18a1-4269-b311-fcb09a1a7c50"
       }
@@ -8489,7 +8489,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Tin Lizard Brewing Co",
-        "address": "1000 Lancaster Ave, Bryn Mawr PA 19010",
+        "address": "1000 Lancaster Ave, Bryn Mawr, PA 19010",
         "url": "https://www.tinlizardbrewingco.com/",
         "geoBeerId": "26657499-552f-458e-af65-1f5c4072f751"
       }
@@ -9078,7 +9078,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Waredaca Brewing Company",
-        "address": "4017 Damascus Road, Gaithersburg, MD 20882, USA",
+        "address": "4017 Damascus Road, Gaithersburg, MD 20882",
         "url": "http://www.waredacabrewing.com/",
         "geoBeerId": "0f679056-a620-4f37-b6dc-2347866eb315"
       }
@@ -9097,7 +9097,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Waverly Brewing Company",
-        "address": "1625 Union Ave, Baltimore, MD 21211, USA",
+        "address": "1625 Union Ave, Baltimore, MD 21211",
         "url": "http://waverlybrewingcompany.com/",
         "geoBeerId": "e58ac635-5e91-4cd9-8a8f-ccacba761c5f"
       }
@@ -9192,7 +9192,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Wiseacre Brewing",
-        "address": "2783 Broad Avenue, Memphis, Tennessee 38112-2834",
+        "address": "2783 Broad Avenue, Memphis, TN 38112-2834",
         "url": "http://wiseacrebrew.com/",
         "geoBeerId": "55720dc1-5c7f-493d-bb68-eaf506b15aaf"
       }
@@ -9230,7 +9230,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Wrecking Bar Brewpub",
-        "address": "292 Moreland Avenue NE, Atlanta, Georgia 30307",
+        "address": "292 Moreland Avenue NE, Atlanta, GA 30307",
         "url": "http://www.wreckingbarbrewpub.com/",
         "geoBeerId": "492fbf2e-872e-4bea-a2f2-ecde532c4ea4"
       }
@@ -9287,7 +9287,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Yellowhammer Brewing",
-        "address": "2406 Clinton Ave W, Huntsville, Alabama 35805",
+        "address": "2406 Clinton Ave W, Huntsville, AL 35805",
         "url": "http://www.yellowhammerbrewery.com/",
         "geoBeerId": "ac2dc689-56d1-446b-95c8-3453a4708535"
       }

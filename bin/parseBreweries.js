@@ -1,4 +1,5 @@
-var fs = require('fs');
+const fs = require('fs');
+const path = require('path');
 
 var fileName = process.argv[2];
 if (fileName) {
@@ -15,16 +16,12 @@ if (fileName) {
   breweries = breweries.map(createBrewery);
   breweries.forEach(writeBrewery);
 } else {
-  var node = getFileName(process.argv[0]);
-  var script = getFileName(process.argv[1]);
+  var node = path.basename(process.argv[0]);
+  var script = path.basename(process.argv[1]);
 
   console.log("Usage: " + node + " " + script + " <filename> ");
   console.log("\nExpects a tab delimited text file following the following column format:");
   console.log("1) Brewery\n2) Address\n3) GeoLat\n4) GeoLong\n5) WebsiteUrl");
-}
-
-function getFileName(path) {
-  return path.substring(path.lastIndexOf('/') + 1, path.length);
 }
 
 function writeBrewery(brewery) {
@@ -46,7 +43,6 @@ function writeBrewery(brewery) {
   }
 }
 
-
 function createBrewery(dataString) {
   var data = dataString.split("\t");
   console.log(dataString);
@@ -61,5 +57,4 @@ function createBrewery(dataString) {
   brewery.features[0].properties.url = data[4];
 
   return brewery;
-
 }

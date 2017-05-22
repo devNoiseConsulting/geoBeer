@@ -1,4 +1,5 @@
-var fs = require('fs');
+const fs = require('fs');
+const path = require('path');
 
 var pathName = process.argv[2];
 
@@ -9,8 +10,8 @@ if (pathName) {
     formatFile(pathName);
   }
 } else {
-  var node = getFileName(process.argv[0]);
-  var script = getFileName(process.argv[1]);
+  var node = path.basename(process.argv[0]);
+  var script = path.basename(process.argv[1]);
 
   console.log("Usage: " + node + " " + script + " <filename or directory>");
 }
@@ -24,8 +25,14 @@ function formatAll(dirName) {
       return;
     }
 
-    files = files.filter(isJsonFile);
     files = files.map(addPath);
+
+    dirs = files.filter(isDirectory);
+    dirs.forEach(d => {
+      formatAll(d);
+    });
+
+    files = files.filter(isJsonFile);
     files.forEach(formatFile);
   }
 
@@ -70,6 +77,6 @@ function isJsonFile(file) {
   return file.endsWith('.geojson');
 }
 
-function getFileName(path) {
-  return path.substring(path.lastIndexOf('/') + 1, path.length);
+function isDirectory(file) {
+  return fs.lstatSync(file).isDirectory();
 }
