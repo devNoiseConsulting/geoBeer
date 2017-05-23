@@ -1,7 +1,7 @@
 {
   "name": "geobeer",
   "version": "1.0.0",
-  "description": " Keeping track of Brewery visits with GeoJSON",
+  "description": "GeoJSON data files for Breweries",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
