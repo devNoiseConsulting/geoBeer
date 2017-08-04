@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.485017,
-          40.892169
+          -76.556651,
+          40.790717
         ]
       },
       "properties": {
@@ -15,7 +15,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Covered Bridge Brewhaus",
-        "address": "15 Campbell Road, Catawissa, PA 17820",
+        "address": "506 N 8th St, Shamokin, PA 17872",
         "url": "https://www.facebook.com/cbbhaus",
         "geoBeerId": "c1d268b7-17e8-4319-bc43-7fb90ac45c33"
       }

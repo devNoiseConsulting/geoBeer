@@ -918,8 +918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.339554,
-          41.062626
+          -75.329629,
+          41.052763
         ]
       },
       "properties": {
@@ -1156,7 +1156,7 @@
         "marker-size": "small",
         "name": "Berwick Brewing Company",
         "address": "328 West Front Street, Berwick, PA 18603",
-        "url": "http://www.barleycreek.com/",
+        "url": "http://www.berwickbrewing.com/",
         "geoBeerId": "41ad83fd-2462-4ed8-bfbf-7e6617b89e2c"
       }
     },
@@ -2267,8 +2267,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.485017,
-          40.892169
+          -76.556651,
+          40.790717
         ]
       },
       "properties": {
@@ -2276,7 +2276,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Covered Bridge Brewhaus",
-        "address": "15 Campbell Road, Catawissa, PA 17820",
+        "address": "506 N 8th St, Shamokin, PA 17872",
         "url": "https://www.facebook.com/cbbhaus",
         "geoBeerId": "c1d268b7-17e8-4319-bc43-7fb90ac45c33"
       }
@@ -6466,8 +6466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.616961,
-          40.96283
+          -76.616447,
+          40.962645
         ]
       },
       "properties": {
@@ -6475,7 +6475,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Old Forge Brewing Company",
-        "address": "282 Mill Street, Danville, PA 17821",
+        "address": "298 Mill St, Danville, PA 17821",
         "url": "http://www.oldforgebrewingcompany.com/",
         "geoBeerId": "a5f04b43-0db9-4596-a1dc-4b590dae88fc"
       }

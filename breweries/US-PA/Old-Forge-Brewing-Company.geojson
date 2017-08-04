@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.616961,
-          40.96283
+          -76.616447,
+          40.962645
         ]
       },
       "properties": {
@@ -15,7 +15,7 @@
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Old Forge Brewing Company",
-        "address": "282 Mill Street, Danville, PA 17821",
+        "address": "298 Mill St, Danville, PA 17821",
         "url": "http://www.oldforgebrewingcompany.com/",
         "geoBeerId": "a5f04b43-0db9-4596-a1dc-4b590dae88fc"
       }
