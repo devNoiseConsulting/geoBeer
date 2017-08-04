@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.545204,
+          40.886296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Act Beer",
+        "address": "18 N Salem St, Dover, NJ 07801",
+        "url": "http://www.2ndact.beer/",
+        "geoBeerId": "cc24e54d-2fef-4d5f-a9c2-dfe348ee91ed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.072177,
+          40.072479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Frye Brewing Company",
+        "address": "2257 Bridge Ave, Point Pleasant, NJ 08742",
+        "url": "http://www.fryebrewingco.com/",
+        "geoBeerId": "e40c679d-96ad-4b41-bc93-732e393c88bb"
+      }
+    }
+  ]
+}

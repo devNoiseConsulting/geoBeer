@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.216266,
+          40.639892
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Two Ton Brewing",
+        "address": "2543 Brunswick Ave., Linden, NJ 07036",
+        "url": "http://www.twotonbrewing.com/",
+        "geoBeerId": "39de7e4f-9b78-43a0-826d-6d60dfe9cebc"
+      }
+    }
+  ]
+}

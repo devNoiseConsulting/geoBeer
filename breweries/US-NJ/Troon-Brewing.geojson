@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.734991,
+          40.398898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Troon Brewing",
+        "address": "130 Hopewell Rocky Hill Road, #5, Hopewell, NJ 08525",
+        "url": "http://www.troonbrewing.com/",
+        "geoBeerId": "b285ebc8-f6b7-4bce-afe3-8aaca66f12dc"
+      }
+    }
+  ]
+}

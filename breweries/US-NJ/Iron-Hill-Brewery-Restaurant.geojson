@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972593,
+          39.945188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Maple Shade",
+        "address": "124 East Kings Highway, Maple Shade, NJ 08052",
+        "url": "http://www.ironhillbrewery.com/mapleshade",
+        "geoBeerId": "41fa39f3-f6c5-4efe-8744-a7ae449dca36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.998619,
+          39.851933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Voorhees",
+        "address": "13107 Town Center Boulevard, Voorhees, NJ 08043",
+        "url": "http://www.ironhillbrewery.com/voorhees",
+        "geoBeerId": "630b4cd5-5acf-4fa0-88d8-94a0d1c8f208"
+      }
+    }
+  ]
+}

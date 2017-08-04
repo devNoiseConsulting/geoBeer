@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.030128,
+          40.862282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bolero Snort Brewery",
+        "address": "65 Railroad Ave, Ridgefield Park, NJ 07660",
+        "url": "http://www.bolerosnort.com/",
+        "geoBeerId": "133b862c-6121-48e8-9349-a565bc3b7911"
+      }
+    }
+  ]
+}

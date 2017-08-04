@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.998514,
+          40.982035
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Buck Hill Brewery and Restaurant",
+        "address": "45 State Route 94, Blairstown, NJ 07825",
+        "url": "http://www.buckhillbrewery.com/",
+        "geoBeerId": "4349763b-842b-4165-a6e8-030392958354"
       }
     }
   ]

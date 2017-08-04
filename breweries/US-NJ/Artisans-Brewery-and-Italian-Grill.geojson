@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.182777,
+          39.977036
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Artisan’s Brewery and Italian Grill",
+        "address": "1171 Hooper Ave, Toms River, NJ 08753",
+        "url": "http://www.artisanstomsriver.com/",
+        "geoBeerId": "617384b4-878b-4fcb-a4de-0007f44fe46b"
       }
     }
   ]

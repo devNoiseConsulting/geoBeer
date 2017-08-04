@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.025768,
+          40.749885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hoboken Brewing Company",
+        "address": "1125 Hudson St., Hoboken, NJ 07030",
+        "url": "http://beerme.com/brewery.php?2109",
+        "geoBeerId": "8459d931-fd7f-42aa-9f5d-ec0313ae0c3d"
+      }
+    }
+  ]
+}

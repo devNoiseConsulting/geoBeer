@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.179896,
+          40.08066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Icarus Brewing",
+        "address": "1790 Swarthmore Ave Unit 3, Lot 2, Lakewood, NJ 08701",
+        "url": "http://www.icarusbrewing.com/",
+        "geoBeerId": "ef86dd71-979e-4a26-b2a1-fad5dd1da8d3"
+      }
+    }
+  ]
+}

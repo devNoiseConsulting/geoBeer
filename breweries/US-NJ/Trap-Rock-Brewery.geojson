@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.432955,
+          40.670644
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Trap Rock Brewery",
+        "address": "279 Springfield Avenue, Berkeley Heights, NJ 07922",
+        "url": "http://traprockrestaurant.net/",
+        "geoBeerId": "913ef3a6-01eb-47a5-86a4-c38c497511b6"
       }
     }
   ]

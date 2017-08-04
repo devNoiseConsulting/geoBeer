@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.746771,
+          39.683293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Newark",
+        "address": "147 East Main Street, Newark, DE 19711",
+        "url": "http://www.ironhillbrewery.com/newark",
+        "geoBeerId": "a14e36f1-0065-4a27-b77b-7397769af52a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56167,
+          39.734101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Wilmington",
+        "address": "620 Justison Street, Wilmington, DE 19801",
+        "url": "http://www.ironhillbrewery.com/wilmington",
+        "geoBeerId": "c2362a82-e05f-45d0-82b2-602c5b5b4655"
+      }
+    }
+  ]
+}

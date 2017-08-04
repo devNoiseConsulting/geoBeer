@@ -82,25 +82,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.972593,
-          39.945188
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Maple Shade",
-        "address": "124 East Kings Highway, Maple Shade, NJ 08052",
-        "url": "http://www.ironhillbrewery.com/mapleshade",
-        "geoBeerId": "41fa39f3-f6c5-4efe-8744-a7ae449dca36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.388272,
           39.91756
         ]
@@ -113,25 +94,6 @@
         "address": "30 East State Street, Media, PA 19063",
         "url": "http://www.ironhillbrewery.com/media",
         "geoBeerId": "112a46a1-2e17-41e5-97ee-16245520e015"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.746771,
-          39.683293
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Newark",
-        "address": "147 East Main Street, Newark, DE 19711",
-        "url": "http://www.ironhillbrewery.com/newark",
-        "geoBeerId": "a14e36f1-0065-4a27-b77b-7397769af52a"
       }
     },
     {
@@ -177,25 +139,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.998619,
-          39.851933
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Voorhees",
-        "address": "13107 Town Center Boulevard, Voorhees, NJ 08043",
-        "url": "http://www.ironhillbrewery.com/voorhees",
-        "geoBeerId": "630b4cd5-5acf-4fa0-88d8-94a0d1c8f208"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.605537,
           39.960576
         ]
@@ -208,25 +151,6 @@
         "address": "3 West Gay Street, West Chester, PA 19380",
         "url": "http://www.ironhillbrewery.com/westchester",
         "geoBeerId": "bb173002-4beb-4983-a923-0be77f83969a"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.56167,
-          39.734101
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Wilmington",
-        "address": "620 Justison Street, Wilmington, DE 19801",
-        "url": "http://www.ironhillbrewery.com/wilmington",
-        "geoBeerId": "c2362a82-e05f-45d0-82b2-602c5b5b4655"
       }
     }
   ]

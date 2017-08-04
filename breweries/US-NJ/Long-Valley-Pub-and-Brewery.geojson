@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.794595,
+          40.806849
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Long Valley Pub and Brewery",
+        "address": "One Fairmount Road, Long Valley, NJ 07853",
+        "url": "http://www.restaurantvillageatlongvalley.com/rest_home.php?restid=1",
+        "geoBeerId": "fea33cb8-032c-40b0-930a-4abb971a14fa"
       }
     }
   ]

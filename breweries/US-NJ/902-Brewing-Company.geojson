@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028041,
+          40.747338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "902 Brewing Company",
+        "address": "902 Washington Street, Hoboken, NJ 07030",
+        "url": "http://www.902brewing.com/",
+        "geoBeerId": "82abe0c7-7789-4fc0-8644-085f81aaf745"
+      }
+    }
+  ]
+}

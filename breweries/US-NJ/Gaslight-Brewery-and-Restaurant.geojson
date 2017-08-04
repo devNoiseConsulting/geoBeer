@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.259979,
+          40.746506
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Gaslight Brewery and Restaurant",
+        "address": "15 S Orange Ave, South Orange, NJ 07079",
+        "url": "http://www.gaslightbrewery",
+        "geoBeerId": "a5861814-e3f2-4d41-940b-05fe9c8048de"
       }
     }
   ]

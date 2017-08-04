@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.051805,
+          40.089595
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Last Wave Brewing Company",
+        "address": "601 Bay Ave, Point Pleasant, NJ 08742",
+        "url": "http://www.lastwavebrewing.com/",
+        "geoBeerId": "9bf75218-4e02-47e8-b5f1-53095ada82a5"
+      }
+    }
+  ]
+}

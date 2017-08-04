@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.276876,
+          40.554833
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "J.J. Bitting Brewing Co.",
+        "address": "33 Main Street, Woodbridge, NJ 07095",
+        "url": "http://www.njbrewpubs.com/",
+        "geoBeerId": "1e89d239-ba7d-455c-bf6d-8098133415ef"
       }
     }
   ]

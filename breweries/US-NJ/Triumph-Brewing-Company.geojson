@@ -6,18 +6,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.438808,
-          39.362063
+          -74.658261,
+          40.350261
         ]
       },
       "properties": {
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Tun Tavern",
-        "address": "2 Convention Blvd, Atlantic City, NJ 08401",
-        "url": "http://www.tuntavern.com/",
-        "geoBeerId": "c4b6ae72-34ec-454d-b7d7-d83ad552d4df"
+        "name": "Triumph Brewing Company",
+        "address": "138 Nassau St., Princeton, NJ 08542",
+        "url": "http://www.triumphbrew.com",
+        "geoBeerId": "68d05bcf-f473-4611-a97a-d4205ddb91b7"
       }
     }
   ]

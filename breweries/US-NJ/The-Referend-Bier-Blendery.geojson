@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.795999,
+          40.30067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Referend Bier Blendery",
+        "address": "1595 Reed Rd, Unit 2, Pennington, NJ 08534",
+        "url": "http://www.thereferend.com/home",
+        "geoBeerId": "d592fd36-7409-40ca-8750-c37a7c0b369c"
+      }
+    }
+  ]
+}
