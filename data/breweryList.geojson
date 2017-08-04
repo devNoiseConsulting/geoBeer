@@ -44,6 +44,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.545204,
+          40.886296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "2nd Act Beer",
+        "address": "18 N Salem St, Dover, NJ 07801",
+        "url": "http://www.2ndact.beer/",
+        "geoBeerId": "cc24e54d-2fef-4d5f-a9c2-dfe348ee91ed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.173031,
           39.926384
         ]
@@ -170,6 +189,25 @@
         "address": "3156 Route 9 South, Rio Grande, NJ 08242",
         "url": "http://www.7milebrew.com/",
         "geoBeerId": "94a5701b-fce3-4c1a-8328-e6837bedf113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028041,
+          40.747338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "902 Brewing Company",
+        "address": "902 Washington Street, Hoboken, NJ 07030",
+        "url": "http://www.902brewing.com/",
+        "geoBeerId": "82abe0c7-7789-4fc0-8644-085f81aaf745"
       }
     },
     {
@@ -588,6 +626,25 @@
         "address": "721 N. Arizona Ave #103, Gilbert, AZ 85233",
         "url": "http://www.azwbeer.com/",
         "geoBeerId": "6fc3b33f-165d-4b3c-a9fd-78250d80b6ea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182777,
+          39.977036
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Artisan’s Brewery and Italian Grill",
+        "address": "1171 Hooper Ave, Toms River, NJ 08753",
+        "url": "http://www.artisanstomsriver.com/",
+        "geoBeerId": "617384b4-878b-4fcb-a4de-0007f44fe46b"
       }
     },
     {
@@ -1298,6 +1355,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.030128,
+          40.862282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Bolero Snort Brewery",
+        "address": "65 Railroad Ave, Ridgefield Park, NJ 07660",
+        "url": "http://www.bolerosnort.com/",
+        "geoBeerId": "133b862c-6121-48e8-9349-a565bc3b7911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.759067,
           40.266099
         ]
@@ -1583,6 +1659,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.587916,
+          40.545271
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Brooks BreweryBrooks Brewery",
+        "address": "100 Brooks Boulevard, Manville, NJ 08835",
+        "url": "http://northsidelounge.com/",
+        "geoBeerId": "7b8129e0-89a3-4893-a6ad-631f5d62b383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.725069,
           39.788559
         ]
@@ -1614,6 +1709,25 @@
         "address": "102 N Market St, Mount Joy, PA 17552",
         "url": "http://bubesbrewery.com/",
         "geoBeerId": "039c9786-0064-4fe4-b88f-418d90c43438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.998514,
+          40.982035
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Buck Hill Brewery and Restaurant",
+        "address": "45 State Route 94, Blairstown, NJ 07825",
+        "url": "http://www.buckhillbrewery.com/",
+        "geoBeerId": "4349763b-842b-4165-a6e8-030392958354"
       }
     },
     {
@@ -3483,6 +3597,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.072177,
+          40.072479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Frye Brewing Company",
+        "address": "2257 Bridge Ave, Point Pleasant, NJ 08742",
+        "url": "http://www.fryebrewingco.com/",
+        "geoBeerId": "e40c679d-96ad-4b41-bc93-732e393c88bb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.5167,
           45.710426
         ]
@@ -3590,6 +3723,44 @@
         "address": "420 E 8th Street, Sioux Falls, SD 57103-7025",
         "url": "http://www.monkshouseofalerepute.com/brewery/4578982718",
         "geoBeerId": "9732de89-c0d6-452b-b065-8711c8a0765c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.529617,
+          39.447319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Garden State Beer Company",
+        "address": "247 E White Horse Pike, Galloway, NJ 08205",
+        "url": "http://www.gardenstatebeerco.com/",
+        "geoBeerId": "b85c3762-756b-4cfa-9024-f1fe6f32472f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.259979,
+          40.746506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Gaslight Brewery and Restaurant",
+        "address": "15 S Orange Ave, South Orange, NJ 07079",
+        "url": "http://www.gaslightbrewery",
+        "geoBeerId": "a5861814-e3f2-4d41-940b-05fe9c8048de"
       }
     },
     {
@@ -4110,6 +4281,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.025768,
+          40.749885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Hoboken Brewing Company",
+        "address": "1125 Hudson St., Hoboken, NJ 07030",
+        "url": "http://beerme.com/brewery.php?2109",
+        "geoBeerId": "8459d931-fd7f-42aa-9f5d-ec0313ae0c3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.978533,
           39.78586
         ]
@@ -4224,6 +4414,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.179896,
+          40.08066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Icarus Brewing",
+        "address": "1790 Swarthmore Ave Unit 3, Lot 2, Lakewood, NJ 08701",
+        "url": "http://www.icarusbrewing.com/",
+        "geoBeerId": "ef86dd71-979e-4a26-b2a1-fad5dd1da8d3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.35683,
           39.539846
         ]
@@ -4274,6 +4483,82 @@
         "address": "263 N 3rd St, Philadelphia, PA 19106",
         "url": "http://inspiredbrews.com/",
         "geoBeerId": "4d11fdc9-2ba3-4c3a-92fe-b0140b97712c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.746771,
+          39.683293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Newark",
+        "address": "147 East Main Street, Newark, DE 19711",
+        "url": "http://www.ironhillbrewery.com/newark",
+        "geoBeerId": "a14e36f1-0065-4a27-b77b-7397769af52a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56167,
+          39.734101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Wilmington",
+        "address": "620 Justison Street, Wilmington, DE 19801",
+        "url": "http://www.ironhillbrewery.com/wilmington",
+        "geoBeerId": "c2362a82-e05f-45d0-82b2-602c5b5b4655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.972593,
+          39.945188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Maple Shade",
+        "address": "124 East Kings Highway, Maple Shade, NJ 08052",
+        "url": "http://www.ironhillbrewery.com/mapleshade",
+        "geoBeerId": "41fa39f3-f6c5-4efe-8744-a7ae449dca36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.998619,
+          39.851933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Iron Hill Voorhees",
+        "address": "13107 Town Center Boulevard, Voorhees, NJ 08043",
+        "url": "http://www.ironhillbrewery.com/voorhees",
+        "geoBeerId": "630b4cd5-5acf-4fa0-88d8-94a0d1c8f208"
       }
     },
     {
@@ -4357,25 +4642,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.972593,
-          39.945188
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Maple Shade",
-        "address": "124 East Kings Highway, Maple Shade, NJ 08052",
-        "url": "http://www.ironhillbrewery.com/mapleshade",
-        "geoBeerId": "41fa39f3-f6c5-4efe-8744-a7ae449dca36"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.388272,
           39.91756
         ]
@@ -4388,25 +4654,6 @@
         "address": "30 East State Street, Media, PA 19063",
         "url": "http://www.ironhillbrewery.com/media",
         "geoBeerId": "112a46a1-2e17-41e5-97ee-16245520e015"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.746771,
-          39.683293
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Newark",
-        "address": "147 East Main Street, Newark, DE 19711",
-        "url": "http://www.ironhillbrewery.com/newark",
-        "geoBeerId": "a14e36f1-0065-4a27-b77b-7397769af52a"
       }
     },
     {
@@ -4452,25 +4699,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.998619,
-          39.851933
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Voorhees",
-        "address": "13107 Town Center Boulevard, Voorhees, NJ 08043",
-        "url": "http://www.ironhillbrewery.com/voorhees",
-        "geoBeerId": "630b4cd5-5acf-4fa0-88d8-94a0d1c8f208"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -75.605537,
           39.960576
         ]
@@ -4483,25 +4711,6 @@
         "address": "3 West Gay Street, West Chester, PA 19380",
         "url": "http://www.ironhillbrewery.com/westchester",
         "geoBeerId": "bb173002-4beb-4983-a923-0be77f83969a"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.56167,
-          39.734101
-        ]
-      },
-      "properties": {
-        "marker-symbol": "restaurant",
-        "marker-color": "#607D8B",
-        "marker-size": "small",
-        "name": "Iron Hill Wilmington",
-        "address": "620 Justison Street, Wilmington, DE 19801",
-        "url": "http://www.ironhillbrewery.com/wilmington",
-        "geoBeerId": "c2362a82-e05f-45d0-82b2-602c5b5b4655"
       }
     },
     {
@@ -4635,6 +4844,25 @@
         "address": "13187 Fitzhugh Rd, Bldg B, Austin, TX 78736",
         "url": "http://jesterkingbrewery.com/",
         "geoBeerId": "7c6327c4-14f2-4544-ab6b-e6cd83f9e2f4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.276876,
+          40.554833
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "J.J. Bitting Brewing Co.",
+        "address": "33 Main Street, Woodbridge, NJ 07095",
+        "url": "http://www.njbrewpubs.com/",
+        "geoBeerId": "1e89d239-ba7d-455c-bf6d-8098133415ef"
       }
     },
     {
@@ -4821,7 +5049,7 @@
         "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
-        "name": "Krogh's Restaurant & Brew Pub",
+        "name": "Kroghs Restaurant & Brew Pub",
         "address": "23 White Deer Plaza, Sparta, NJ 07871",
         "url": "http://www.kroghs.com/",
         "geoBeerId": "c5aff1b0-e6ce-41f2-a72d-7a1471c5fbf4"
@@ -4939,6 +5167,25 @@
         "address": "469 Eisenhower Blvd., Harrisburg, PA 17111",
         "url": "https://www.lancasterbrewing.com/harrisburg",
         "geoBeerId": "a9278631-e2c8-4d2a-8e66-62c8c408cbce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.051805,
+          40.089595
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Last Wave Brewing Company",
+        "address": "601 Bay Ave, Point Pleasant, NJ 08742",
+        "url": "http://www.lastwavebrewing.com/",
+        "geoBeerId": "9bf75218-4e02-47e8-b5f1-53095ada82a5"
       }
     },
     {
@@ -5167,6 +5414,25 @@
         "address": "Jct. Route 4 &amp; 100A, Bridgewater Corners, VT 05035",
         "url": "http://www.longtrail.com/",
         "geoBeerId": "9b4be185-2e03-4290-b908-46ea759e862f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.794595,
+          40.806849
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Long Valley Pub and Brewery",
+        "address": "One Fairmount Road, Long Valley, NJ 07853",
+        "url": "http://www.restaurantvillageatlongvalley.com/rest_home.php?restid=1",
+        "geoBeerId": "fea33cb8-032c-40b0-930a-4abb971a14fa"
       }
     },
     {
@@ -5414,6 +5680,25 @@
         "address": "144 Main St, Hackettstown, NJ 07840",
         "url": "http://www.manskirtbrewing.com/",
         "geoBeerId": "0583e73f-7d15-4dbf-8e29-cb490cb3002e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.244043,
+          39.688734
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "ManaFirkin Brewing Company",
+        "address": "450 E. Bay Ave, Manahawkin, NJ 08050",
+        "url": " https://www.facebook.com/ManaFirkinBrewing",
+        "geoBeerId": "91039966-71d0-4cd9-81be-366a8f6c8c3c"
       }
     },
     {
@@ -8366,6 +8651,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.795999,
+          40.30067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "The Referend Bier Blendery",
+        "address": "1595 Reed Rd, Unit 2, Pennington, NJ 08534",
+        "url": "http://www.thereferend.com/home",
+        "geoBeerId": "d592fd36-7409-40ca-8750-c37a7c0b369c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.095435,
           40.568487
         ]
@@ -8594,6 +8898,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.432955,
+          40.670644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Trap Rock Brewery",
+        "address": "279 Springfield Avenue, Berkeley Heights, NJ 07922",
+        "url": "http://traprockrestaurant.net/",
+        "geoBeerId": "913ef3a6-01eb-47a5-86a4-c38c497511b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.289541,
           42.089283
         ]
@@ -8651,6 +8974,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.658261,
+          40.350261
+        ]
+      },
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Triumph Brewing Company",
+        "address": "138 Nassau St., Princeton, NJ 08542",
+        "url": "http://www.triumphbrew.com",
+        "geoBeerId": "68d05bcf-f473-4611-a97a-d4205ddb91b7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.6449484,
           40.2973443
         ]
@@ -8663,6 +9005,25 @@
         "address": "200 East Hershey Park Drive, Hershey, PA 17033",
         "url": "http://troegs.com/",
         "geoBeerId": "986033dd-8d85-4331-a982-eae879e84f62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.734991,
+          40.398898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Troon Brewing",
+        "address": "130 Hopewell Rocky Hill Road, #5, Hopewell, NJ 08525",
+        "url": "http://www.troonbrewing.com/",
+        "geoBeerId": "b285ebc8-f6b7-4bce-afe3-8aaca66f12dc"
       }
     },
     {
@@ -8694,7 +9055,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "beer",
+        "marker-symbol": "restaurant",
         "marker-color": "#607D8B",
         "marker-size": "small",
         "name": "Tun Tavern",
@@ -8815,6 +9176,25 @@
         "address": "1700 Stratford Ave, Stratford, CT 06615",
         "url": "http://tworoadsbrewing.com/",
         "geoBeerId": "3ebdabe8-d35a-4f6d-a0ec-1b63ecf8f195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.216266,
+          40.639892
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Two Ton Brewing",
+        "address": "2543 Brunswick Ave., Linden, NJ 07036",
+        "url": "http://www.twotonbrewing.com/",
+        "geoBeerId": "39de7e4f-9b78-43a0-826d-6d60dfe9cebc"
       }
     },
     {
