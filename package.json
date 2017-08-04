@@ -1,6 +1,6 @@
 {
   "name": "geobeer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "GeoJSON data files for Breweries",
   "main": "",
   "scripts": {
