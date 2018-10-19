@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5811043,
+          39.1403381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Cinder Block Brewery",
+        "address": "110 E 18th Ave, North Kansas City, MO 64116",
+        "url": "http://www.cinderblockbrewery.com/#!/",
+        "geoBeerId": "ae142c3b-da36-4901-93b5-c2fc204365b9"
+      }
+    }
+  ]
+}
