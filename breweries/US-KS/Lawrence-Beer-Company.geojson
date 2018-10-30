@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2285804,
+          38.9684515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Lawrence Beer Company",
+        "address": "826 Pennsylvania St, Lawrence, KS 66044",
+        "url": "http://www.lawrencebeerco.com/",
+        "geoBeerId": "8e210934-6d48-4944-b149-3c38952b55f6"
+      }
+    }
+  ]
+}
