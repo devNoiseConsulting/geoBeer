@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.57781,
+          39.12601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Big Rip Brewing Company",
+        "address": "216 E 9th Ave, North Kansas City, MO 64116",
+        "url": "http://bigripbrewing.com/",
+        "geoBeerId": "ae142c3b-da36-4901-93b5-c2fc204365b9"
+      }
+    }
+  ]
+}
