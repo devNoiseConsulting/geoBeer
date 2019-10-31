@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.71521899999999,
+          39.022661
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
+        "name": "Transport Brewery",
+        "address": "11113 Johnson Dr, Shawnee, KS 66203",
+        "url": "https://transportbrewery.com/",
+        "geoBeerId": "85f3d23c-b53e-4253-b6f8-1e959ef762e2"
+      }
+    }
+  ]
+}
